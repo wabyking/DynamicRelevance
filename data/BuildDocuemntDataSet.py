@@ -18,8 +18,27 @@ def sampleData():
 		datas.append(data)
 	return datas
 
-
 def appDatas(datas):
+	client = pymongo.MongoClient("localhost", 27017)
+	print client.database_names()
+	db=client.test
+	docs=db.docs
+	docs.insert(datas)
+	for doc in docs.find():
+		print doc["id"]
+
+
+
+def clear(collection_name):
+	client = pymongo.MongoClient("localhost", 27017)
+	print client.database_names()
+	db=client.test
+	if collection_name in db.collection_names():
+		db.drop_collection(collection_name)
+	
+	db.create_collection(collection_name,)
+	return db[collection_name]
+def createDatas(datas):
 	client = pymongo.MongoClient("localhost", 27017)
 	print client.database_names()
 	db=client.test
@@ -53,7 +72,7 @@ def getinfo(collection_name):
 		print doc
 
 def dataFromXml(filename):
-	DOMTree = xml.dom.minidom.parse("dataSet.xml")
+	DOMTree = xml.dom.minidom.parse( filename )
 	collection = DOMTree.documentElement
 	records = collection.getElementsByTagName("record")
 	print len(records)
@@ -72,6 +91,9 @@ def dataFromXml(filename):
 
 
 if __name__=="__main__":
-	datas=dataFromXml("dataSet.xml")
-	appDatas(datas);
-	#getinfo("docs")
+	files={"dataSet.xml"}
+	clear("docs")
+	for f in files:
+		datas=dataFromXml(f)
+		appDatas(datas);
+	getinfo("docs")

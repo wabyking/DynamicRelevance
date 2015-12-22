@@ -4,3 +4,11 @@ div {
 }
 
 css for the justify-text attribute
+
+
+setTimeout('yourFunction()',5000);   5秒后执行yourFunction(),只执行一次     
+  setInterval('yourFunction()',5000);   每隔5秒执行一次u     
+      
+  如果在yourFunction()中再次调用了setTimeout('yourFunction()',5000)，可以完成类似于     
+      
+  setInterval('yourFunction()',5000)的功能 
