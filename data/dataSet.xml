@@ -5,13 +5,13 @@
 		<desicription>Probability is the measure of the likeliness that an event will occur.[1] Probability is quantified as a number between 0 and 1 (where 0 indicates impossibility and 1 indicates certainty).[2][3] The higher the probability of an event, the more certain we are that the event will occur. A simple example is the toss of a fair (unbiased) coin. Since the two outcomes are equally probable, the probability of "heads" equals the probability of "tails", so the probability is 1/2 (or 50%) chance of either "heads" or "tails".
 			These concepts have been given an axiomatic mathematical formalization in probability theory (see probability axioms), which is used widely in such areas of study as mathematics, statistics, finance, gambling, science (in particular physics), artificial intelligence/machine learning, computer science, game theory, and philosophy to, for example, draw inferences about the expected frequency of events. Probability theory is also used to describe the underlying mechanics and regularities of complex systems
 		</desicription>
-		<d1>Statistics is the study of the collection, analysis, interpretation, presentation, and organization of data.[1] In applying statistics o, e.g., a scientific, industrial, or societal problem, it is conventional to begin with a statistical population or a statistical model process to be studied. Populations can be diverse topics such as "all persons living in a country" or "every atom composing a crystal". Statistics deals with all aspects of data including the planning of data collection in terms of the design of surveys and experiments.[1]When census data cannot be collected, statisticians collect data by developing specific experiment designs and survey samples. Representative sampling assures that inferences and conclusions can safely extend from the sample to the population as a whole. An experimental study involves taking measurements of the system under study, manipulating the system, and then taking additional measurements using the same procedure to determine if the manipulation has modified the values of the measurements. In contrast, an observational study does not involve experimental manipulation.
+		<d1 title="statistics">Statistics is the study of the collection, analysis, interpretation, presentation, and organization of data.[1] In applying statistics o, e.g., a scientific, industrial, or societal problem, it is conventional to begin with a statistical population or a statistical model process to be studied. Populations can be diverse topics such as "all persons living in a country" or "every atom composing a crystal". Statistics deals with all aspects of data including the planning of data collection in terms of the design of surveys and experiments.[1]When census data cannot be collected, statisticians collect data by developing specific experiment designs and survey samples. Representative sampling assures that inferences and conclusions can safely extend from the sample to the population as a whole. An experimental study involves taking measurements of the system under study, manipulating the system, and then taking additional measurements using the same procedure to determine if the manipulation has modified the values of the measurements. In contrast, an observational study does not involve experimental manipulation.
 		Two main statistical methodologies are used in data analysis: descriptive statistics, which summarizes data from a sample using indexes such as the mean or standard deviation, and inferential statistics, which draws conclusions from data that are subject to random variation (e.g., observational errors, sampling variation).[2] Descriptive statistics are most often concerned with two sets of properties of a distribution (sample or population): central tendency (or location) seeks to characterize the distribution's central or typical value, while dispersion (or variability) characterizes the extent to which members of the distribution depart from its center and each other. Inferences on mathematical statistics are made under the framework of probability theory, which deals with the analysis of random phenomena.
 		A standard statistical procedure involves the test of the relationship between two statistical data sets, or a data set and a synthetic data drawn from idealized model. An hypothesis is proposed for the statistical relationship between the two data sets, and this is compared as an alternative to an idealized null hypothesis of no relationship between two data sets. Rejecting or disproving the null hypothesis is done using statistical tests that quantify the sense in which the null can be proven false, given the data that are used in the test. Working from a null hypothesis, two basic forms of error are recognized: Type I errors (null hypothesis is falsely rejected giving a "false positive") and Type II errors (null hypothesis fails to be rejected and an actual difference between populations is missed giving a "false negative").[3] Multiple problems have come to be associated with this framework: ranging from obtaining a sufficient sample size to specifying an adequate null hypothesis.[citation needed]
 		Measurement processes that generate statistical data are also subject to error. Many of these errors are classified as random (noise) or systematic (bias), but other important types of errors (e.g., blunder, such as when an analyst reports incorrect units) can also be important. The presence of missing data and/or censoring may result in biased estimates and specific techniques have been developed to address these problems.
 		Statistics can be said to have begun in ancient civilization, going back at least to the 5th century BC, but it was not until the 18th century that it started to draw more heavily from calculus and probability theory. Statistics continues to be an area of active research, for example on the problem of how to analyze Big data.
 		</d1>
-		<d2>
+		<d2  title="distribution">
 			A probability distribution can either be univariate or multivariate. A univariate distribution gives the probabilities of a single random variable taking on various alternative values; a multivariate distribution (a joint probability distribution) gives the probabilities of a random vector—a set of two or more random variables—taking on various combinations of values. Important and commonly encountered univariate probability distributions include the binomial distribution, the hypergeometric distribution, and the normal distribution. The multivariate normal distribution is a commonly encountered multivariate distribution.
 			To define probability distributions for the simplest cases, one needs to distinguish between discrete and continuous random variables. In the discrete case, one can easily assign a probability to each possible value: for example, when throwing a fair die, each of the six values 1 to 6 has the probability 1/6. In contrast, when a random variable takes values from a continuum then, typically, probabilities can be nonzero only if they refer to intervals: in quality control one might demand that the probability of a "500 g" package containing between 490 g and 510 g should be no less than 98%.
 			The probability density function (pdf) of the normal distribution, also called Gaussian or "bell curve", the most important continuous random distribution. As notated on the figure, the probabilities of intervals of values correspond to the area under the curve.If the random variable is real-valued (or more generally, if a total order is defined for its possible values), the cumulative distribution function (CDF) gives the probability that the random variable is no larger than a given value; in the real-valued case, the CDF is the integral of the probability density function (pdf) provided that this function exists.
@@ -26,7 +26,7 @@
 			当血糖值高于正常范围即为高血糖。高血糖也是通常大家所说“三高”中的一高。另外“两高”分别是高血压和高脂血症。空腹血糖正常值在6.1mmol/L以下，餐后两小时血糖的正常值在7.8mmol/L以下，如果高于这一范围，称为高血糖。
 			正常情况下，人体能够通过激素调节和神经调节这两大调节系统确保血糖的来源与去路保持平衡，使血糖维持在一定水平。但是在遗传因素（如糖尿病家族史）与环境因素（如不合理的膳食、肥胖等）的共同作用下，两大调节功能发生紊乱，就会出现血糖水平的升高。
 		</desicription>
-		<d1>
+		<d1 title="高血糖患者的饮食习惯">
 
 			1、 主食一般以米、面为主，但是，我们比较喜欢粗杂粮，如燕麦、麦片、玉米面等，因为这些食物中有较多的无机盐、维生素，又富含膳食纤维，膳食纤维具有减低血糖作用，对控制血糖有利。 
 			2、 血糖高患者的蛋白质来源，大豆及其豆制品为好，一方面，其所含蛋白质量多质好；另一方面，其不含胆固醇，具有降脂作用，故可代替部分动物性食品，如肉类等。
@@ -41,7 +41,7 @@
 			11、对于合并肾脏功能不全的糖尿病患者，除控制总热量外，应根据病情注意少盐，无盐或少钠及蛋白质的摄入量，蛋白质供应不宜过高，并且忌食豆制品，对于尿毒症应低蛋白饮食，蛋白质每天在30克左右，主食以麦淀粉代替米、面、蛋白质供给首选优质蛋白质，如牛奶、鸡蛋、瘦肉等。 
 
 		</d1>
-		<d2>
+		<d2  title="高血糖孕妇">
 			准妈妈们知道进入孕晚期开始，医生都会建议准妈妈检测一项指标的，就是血糖，超标的现象并不奇怪，但肯定对孕妇和胎儿有影响。孕妇血糖高该怎么办呢？小编告诉你，具体以下几方面来了解！
 			1、第一次检测出血糖超标之后要在医生的建议下控制饮食，很多准妈妈到后期体重增长过快，就容易造成孕期肥胖，孕期肥胖自然会导致血糖超标，请医生帮忙安排合理的孕期食谱，严格按照孕期的食谱来饮食。
 			2、采取少食多餐的原则，膳食治疗的原则是：孕妇不减肥；按体型调整食物结构比例及热量；少食多餐，最好分3大餐，3小餐；少吃糖分高的水果。
@@ -58,13 +58,13 @@
 			百度地图是百度提供的一项网络地图搜索服务，覆盖了国内近400个城市、数千个区县。在百度地图里，用户可以查询街道、商场、楼盘的地理位置，也可以找到离您最近的所有餐馆、学校、银行、公园等等。2010年8月26日，在使用百度地图服务时，除普通的电子地图功能之外，新增加了三维地图按钮。
 			2014年12月15日，百度与诺基亚达成协议，未来诺基亚地图及导航业务Here将向百度提供中国内地以外的地图数据服务。
 		</desicription>
-		<d1>
+		<d1 title="高德地图">
 			高德地图 是国内一流的免费地图导航产品，也是基于位置的生活服务功能最全面、 信息最丰富的手机地图，由国内最大的电子地图、导航和LBS服务解决方案提供商高德软件(纳斯达克Amap)提供。高德地图采用领先的技术为用户打造了最好用的“活地图”，不管在哪、去哪、找哪、怎么去、想干什么一图在手，统统搞定，省电省流量更省钱，堪称最完美的生活出行软件，本土化评价。
 			〖最专业的地图导航〗地图数据覆盖中国大陆及香港澳门,遍及337个地级2857个县级以上行政区划单位；导航支持GPS、基站、网络等多种方式一键定位。
 			〖最全面的生活信息〗美食、酒店、演出、商场等各种深度POI点达2600多万条，衣食住行吃喝玩乐全方位海量生活信息可供搜索查询。
 			〖最智能的出行指南〗自动生成“最短”“最快”“最省钱”等多种路线规划以供选择，可根据实时路况选择最优公交/驾车出行路线。
 		</d1>
-		<d2>
+		<d2 title="腾讯地图">
 			腾讯地图，前称SOSO地图。这是由腾讯公司推出的一种互联网地图服务。用户可以从地图中看到普通的矩形地图、卫星地图和街景地图以及室内景(详见下面)。用户可以使用地图查询银行、医院、宾馆、公园等地理位置，有助用户的平时生活出行所需。
 			通过腾讯地图的街景，用户可以实现网上虚拟旅游，也可以在前往某地之前了解该地点的周边环境，从而更容易找到目的地。同时，街景地图亦可为购租房屋提供参考信息。
 			地点查询：快速灵活准确的定位，帮助用户在地图上找到所在的位置；
@@ -87,7 +87,7 @@
 		<desicription>
 			《白鹿原》是陈忠实的代表作。小说长达近50万字，是陈忠实历时六年艰辛创作完成的。小说以陕西关中平原上素有“仁义村”之称的白鹿村为背景，细腻地反映出白姓和鹿姓两大家族祖孙三代的恩怨纷争。全书浓缩着深沉的民族历史内涵，有令人震撼的真实感和厚重的史诗风格。1993年6月出版后，其畅销和广受海内外读者赞赏欢迎的程度为中国当代文学作品所罕见。1997年荣获中国长篇小说最高荣誉———第4届茅盾文学奖。已被改编成同名电影、话剧、舞剧、秦腔等多种艺术形式。
 		</desicription>
-		<d1>
+		<d1 title="白鹿原小说">
 			《白鹿原》人物众多，情节复杂。作者始终以人物的命运为中心，通过人物性格的发展来安排情节。
 			情节构建
 			小说的前五章写了白鹿原社会群体的常态，从娶妻生子、土地种植一直写到翻修宗祠和兴办学堂，整个白鹿原被纳入旧生活的常规，“洋溢着一种友好和谐欢乐的气氛”。从第六章开始，作家就着手设置境遇了。第一个境遇是改朝换代。白嘉轩说：“没有皇帝了，往后的日子咋过呢？”朱先生为这位群体领袖（族长）拟定了一份《乡约》，似乎有了群体规范就可以保证稳态。然而，这《乡约》却约不住外部社会，于是便爆发了“交农事件”。“交农”虽说是群体对外界社会的抗争，但这事件中每个人都为自己今后的命运埋下了种因。事件过后，初级群体在内部蕴蓄着，主要是新的一代在新的形势下成长，兆鹏、兆海、孝文、黑娃、白灵都在与外部社会接触中进一步社会化。从第十一章开始，作家设置了第二个境遇：白腿乌鸦兵围城。在围城事件中，白鹿原社会群体尽管仍作为一体来同外界社会抗争，然而，已经从个人的不同斗争方式上预示了群体的分化。接着是第三个境遇：农民运动及国共分裂。至此，群体已分化出三种势力：国民党、共产党与土匪。白嘉轩作为族长尽管还在不遗余力地恢复群体的稳定，但已经回天乏力了。接着是第四个境遇：年馑与瘟疫。从第十八章到第二十八章是小说最出色的十章，大自然的参与加剧了社会的变动，已经完全成熟了的年轻一代以各自的方式投入行动，群体中每一个人，包括此前被置于后景上的妇女都在灾难的漩涡中打转浮沉。自然灾害过后一片死寂，群体的创作还没来得及恢复就又被卷入社会灾难的漩涡。第五个境遇是抗日战争。大概由于西部未曾沦陷，作家才没有对此展开描写，只是用反讽手法写了朱先生投军与兆海之死。第六个境遇是解放战争。这最后的五章写得也很动人，尤其是卖壮丁与策反保安团，写得有声有色。决定整个民族命运的大决战自然也决定了白鹿原社会群体的命运，每个人物都走向自己的归宿。不难看出，结局中笼罩着悲剧气氛，我认为作家这样写是非常聪明的。朱先生的死，黑娃的死，鹿子霖的疯，白嘉轩的残，以及鹿兆鹏的下落不明，共奏出一曲挽歌，似在挽悼旧的白鹿原的终结。
@@ -96,7 +96,7 @@
 			《白鹿原》是一部现实主义巨著。但它的现实主义又不同于以前的革命现实主义。革命现实主义，强调政治观念，要求比生活更为集中、更为突出地反映所谓“生活本质”，在人物塑造上有类型化和两极化倾向。这样往往偏离生活的常态，从而陷入政治图解式的叙述。而《白鹿原》力图展示生活原生态，揭示出纷繁社会中的文化属性与文化规律，它通过设置大量看似偶然的事件，把具体的人物命运和宏大的历史进程连结起来，从而使历史呈现出某种浑沌的状态，具有了生命的灵气。
 			在具体的创作中，陈忠实大量借鉴了潜意识、非理性、魔幻、死亡意识、性本能等现代主义手法，从而使情节愈显曲折，突出了人物命运的不可臆测。尤其是魔幻手法，在中国传统农村的直观思维中也可以找到根源，农村中那种融主观和客观、生与死于一体的原始宗教的二元论世界观，恰恰是魔幻思想的温床。陈忠实正是通过这种魔幻描写，模糊了生者与死者、冥界与人间的界壁，在人与鬼的冲突中来展示人性深处的东西，揭示人性的悲剧、人生的苦难。同时，这种手法还给所叙述的历史带来一种不可预知的神秘性，给读者以心灵上的震撼：仿佛冥冥中有一只巨大的手掌握着人物的命运和历史的发展。但是，《白鹿原》的现实主义又不同于曾流行一时的“新写实主义”。“新写实主义”强调“零度写作”，“纯粹客观地对生活本态进行还原”，展现现实的“原生态”，将“原色原汁原味”和盘托出，达到了“毛茸茸”的程度（见王干《近期小说的后现实主义倾向》）。《白鹿原》虽然没去图解历史，注重原生态的生活和细节真实，但它并不是纯粹客观地还原生活，而是力图通过各种势力在原上的冲突和发展，揭示出传统文化的命运走向。陈忠实也并没有坚持“零度情感”，而是以悲天悯人的情怀，对中国传统文化的出路做了深刻的思考。
 		</d1>
-		<d2>
+		<d2 title="白鹿原同名电影">
 			改编自同名文学巨著的电影《白鹿原》是一次立足于人与土地的民族史诗。在白鹿原这片古老的黄土地上，清帝退位带来的不仅是剪辫子、放大脚和中华民国，还有漫天风雪中抗争过重纳粮如同火龙一般的队伍，在军阀混战的暴力征粮下，白鹿原人宁可将已经成熟的麦海付之一炬，将一年的收成还给老天，而当共产党人在白鹿原上掀起一场场农会风搅雪时，被铡掉的不仅仅是贪官劣绅的头颅，还有人们对祠堂族规的敬畏之心。抗日胜利后，在解放军的前进炮火中，白鹿原将迎来一次翻天覆地的新生。
 			《白鹿原》是一次透析国人心灵与欲望裂变的精神史诗。它是白鹿村族长白嘉轩困顿磨难中秉承一生的仁义守己，是族长继承人白孝文被教化压抑后的放浪形骸，是长工鹿三的铮铮铁骨和卑微认命，是其子黑娃对低贱人生的愤怒不甘，是乡绅鹿子霖追逐权益的放纵奉迎，是其子鹿兆鹏把握命运的自觉革命，而让天下所有男人乱性的田小娥，既勇敢地追求天下所有女人最基本的幸福，又不得不在生存的压迫下委身于一个又一个男人，直至悲剧的来临。
 		</d2>
@@ -109,7 +109,7 @@
 		<desicription>
 			Albert Einstein (/ˈaɪnstaɪn/;[3] German: [ˈalbɐrt ˈaɪnʃtaɪn] ( listen); 14 March 1879 – 18 April 1955) was a German-born theoretical physicist. He developed the general theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics).[2][4]:274 Einstein's work is also known for its influence on the philosophy of science.[5][6] Einstein is best known in popular culture for his mass–energy equivalence formula E = mc2 (which has been dubbed "the world's most famous equation").[7] He received the 1921 Nobel Prize in Physics for his "services to theoretical physics", in particular his discovery of the law of the photoelectric effect, a pivotal step in the evolution of quantum theory.[8]
 		</desicription>
-		<d1>
+		<d1 title="Theory of relativity">
 			Newton's theory of gravitation was soon accepted without question, and it remained unquestioned until the beginning of this century. Then Albert Einstein shook the foundations of physics with the introduction of his Special Theory of Relativity in 1905, and his General Theory of Relativity in 1915 (Here is an example of a thought experiment in special relativity). The first showed that Newton's Three Laws of Motion were only approximately correct, breaking down when velocities approached that of light. The second showed that Newton's Law of Gravitation was also only approximately correct, breaking down in the presence of very strong gravitational fields.
 			Newton vs. Einstein: Albert's Turn to Kick ButtWe shall consider Relativity in more detail later. Here, we only summarize the differences between Newton's theory of gravitation and the theory of gravitation implied by the General Theory of Relativity. They make essentially identical predictions as long as the strength of the gravitational field is weak, which is our usual experience. However, there are three crucial predictions where the two theories diverge, and thus can be tested with careful experiments.
 			The orientation of Mercury's orbit is found to precess in space over time, as indicated in the adjacent figure (the magnitude of the effect is greatly exaggerated in this figure). This is commonly called the "precession of the perihelion", because it causes the position of the perihelion to move. Only part of this can be accounted for by perturbations in Newton's theory. There is an extra 43 seconds of arc per century in this precession that is predicted by the Theory of General Relativity and observed to occur (a second of arc is 1/3600 of an angular degree). This effect is extremely small, but the measurements are very precise and can detect such small effects very well.
@@ -118,8 +118,8 @@
 			And there is stands to the present day. Our best current theory of gravitation is the General Theory of Relativity. However, only if velocities are comparable to that of light, or gravitational fields are much larger than those encountered on the Earth, do the Relativity theory and Newton's theories differ in their predictions. Under most conditions Newton's three laws and his theory of gravitation are adequate. We shall return to this issue in our subsequent discussion of cosmology.
 			For a more comprehensive introduction to both Special and General Relativity, see the links at Relativity on the WWW, and The Light Cone (An Illuminating Introduction to Relativity), and Albert Einstein Online 
 		</d1>
-		<d2>
-			he theory of relativity, or simply relativity in physics, usually encompasses two theories by Albert Einstein: special relativity and general relativity.[1]
+		<d2 title="Theory of relativity">
+			the theory of relativity, or simply relativity in physics, usually encompasses two theories by Albert Einstein: special relativity and general relativity.[1]
 			Concepts introduced by the theories of relativity include:
 			Measurements of various quantities are relative to the velocities of observers. In particular, space contracts and time dilates.Spacetime: space and time should be considered together and in relation to each other.
 			Space is a physical entity that can be changed, space is not just nothing, space can affect mass (gravity)[2]
