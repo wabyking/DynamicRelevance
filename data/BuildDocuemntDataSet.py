@@ -122,9 +122,12 @@ def dataFromXml(filename):
 
 
 if __name__=="__main__":
-	files={"dataSet.xml"}
-	clear("docs")
-	for f in files:
-		datas=dataFromXml(f)
-		appDatas(datas);
-	#getinfo("docs")
+	# files={"dataSet.xml"}
+	# clear("docs")
+	# for f in files:
+	# 	datas=dataFromXml(f)
+	# 	appDatas(datas);
+	
+	
+	#clear("label")
+	getinfo("label")
