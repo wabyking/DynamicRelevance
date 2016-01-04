@@ -175,10 +175,12 @@
 				Although currently China has the largest Internet population globally, it is still a latecomer in cyberspace. Thus there is much space and potential for China to develop its Internet industry and improve management of its cyber realm. The Chinese government and IT companies will make great efforts to fight against online rumors, pornography, gambling, and other cyber crimes to protect citizens' rights and interests.
 			</d2>
 	</record>
+
 	<record>
 			<id>6</id>
-			<query>Urbanization of migrant workers</query>
+			<query>Urbanization</query>
 			<desicription url="http://www.chinadaily.com.cn/opinion/2015-12/16/content_22723019.htm">
+				<!--
 				On Monday, the Political Bureau of the Central Committee of the Communist Party of China held a meeting on next year's economic and urban work. The meeting stressed the need to give top priority to "agriculture, rural areas and farmers" and promote the official integration of migrant workers with the registered urban population.
 
 				Currently there are 750 million people living in urban areas, but 250 million of them are migrant workers who don't have registered permanent residence in the cities where they live and work. These people contribute a lot to the prosperity of urban areas, but don't have the same rights as registered urban residents and cannot enjoy basic public services such as education and healthcare.
@@ -186,6 +188,8 @@
 				The urban registration of migrant workers is key to accelerating the process of urbanization in the future. The 13th Five-Year Plan (2016-20) suggests taking more measures to promote the "urbanization of people" in the next stage, which should let new residents who have migrated from rural areas enjoy urban public services and really settle down in the cities.
 
 				Yet this will be a challenging task that should be supported by heavy financial support for public services, particularly in education and medical fields.
+			-->
+				Urbanization is a population shift from rural to urban areas, "the gradual increase in the proportion of people living in urban areas", and the ways in which each society adapts to the change.[1] It is predominantly the process by which towns and cities are formed and become larger as more people begin living and working in central areas.[2] The United Nations projected that half of the world's population would live in urban areas at the end of 2008.[3] It is predicted that by 2050 about 64% of the developing world and 86% of the developed world will be urbanized.[4] That is equivalent to approximately 3 billion urbanites by 2050, much of which will occur in Africa and Asia.[5] Notably, the United Nations has also recently projected that nearly all global population growth from 2015 to 2030 will be absorbed by cities, about 1.1 billion new urbanites over the next 15 years
 				
 			
 			</desicription>
@@ -212,6 +216,7 @@
 				Because of the fierce competition for tickets, software has been developed and used in previous years to gain an advantage in buying tickets. So in order to make the process fairer, the ticketing website now blocks such software from purchasing tickets by using complicated pictures as a means of human user verification.
 			</d2>
 	</record>
+
 	<record>
 			<id>7</id>
 			<query>Innovation driven</query>

@@ -119,15 +119,16 @@ def dataFromXml(filename):
 		datas.append(data)
 	return datas
 
-
+def loadData():
+	files={"dataSet.xml"}
+	clear("docs")
+	for f in files:
+		datas=dataFromXml(f)
+		appDatas(datas);
+	
 
 if __name__=="__main__":
-	# files={"dataSet.xml"}
-	# clear("docs")
-	# for f in files:
-	# 	datas=dataFromXml(f)
-	# 	appDatas(datas);
-	
-	
+
+	loadData()
 	#clear("label")
-	getinfo("label")
+	#getinfo("label")
