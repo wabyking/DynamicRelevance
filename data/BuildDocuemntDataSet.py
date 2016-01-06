@@ -1,7 +1,7 @@
 import json
 import pymongo
 from xml.dom.minidom import parse
-import xml.dom.minidom
+import xml.dom.minidom,re
 import jieba
 class DateEncoder(json.JSONEncoder ):  
     def default(self, obj):  
@@ -79,7 +79,14 @@ def check_contain_chinese(check_str):
 	if count*0.1/len(check_str) >0.3:
 		return True
 	return False
+
+
+def filter(text):
+	text, numeber = re.subn(r"\[\d*\]", "", text) 
+	text, numeber = re.subn(r"[\n]+", "<br/>", text)
+	return text
 def addLabel(text): 
+	text=filter( text) 
 	if check_contain_chinese(text):
 		tokens=jieba.cut(text)
 		labeledText=""
@@ -110,6 +117,7 @@ def dataFromXml(filename):
 		id=record.getElementsByTagName("id") [0].childNodes[0].data
 		query=record.getElementsByTagName("query") [0].childNodes[0].data
 		desicription=record.getElementsByTagName("desicription") [0].childNodes[0].data
+		desicription=filter(desicription)
 		document1=record.getElementsByTagName("d1") [0].childNodes[0].data
 		document2=record.getElementsByTagName("d2") [0].childNodes[0].data
 		title1=record.getElementsByTagName("d1") [0].getAttribute("title")
@@ -127,8 +135,18 @@ def loadData():
 		appDatas(datas);
 	
 
+def main():
+	# str="[1]  hello,world [2]"
+	# for s in  re.findall(r"\[\d*\]",str):
+	# 	print s
+	# result, number = re.subn(r"\[\d*\]", "", str) 
+	# print result+"$"
+	files={"dataSet.xml"}
+	for f in files:
+		datas=dataFromXml(f)
+	appDatas(datas)
 if __name__=="__main__":
-
-	loadData()
+	main()
+	#loadData()
 	#clear("label")
 	#getinfo("label")
