@@ -83,19 +83,20 @@ def check_contain_chinese(check_str):
 
 def filter(text):
 	text, numeber = re.subn(r"\[\d*\]", "", text) 
-	text, numeber = re.subn(r"[\n]+", "<br/>", text)
+	text, numeber = re.subn(r"[\n]+", "<br/>&nbsp;&nbsp;", text)
 	return text
 def addLabel(text): 
 	text=filter( text) 
+	labeledText="&nbsp;&nbsp;"
 	if check_contain_chinese(text):
 		tokens=jieba.cut(text)
-		labeledText=""
+		
 		for token in tokens:
 			labeledText +="<a>"+token+"</a>"
 		return labeledText
 	else:
 		tokens=text.split()
-		labeledText=""
+		print "*".join(tokens)
 		for token in tokens:
 			labeledText +="<a>"+token+" </a>"
 		return labeledText
@@ -116,14 +117,16 @@ def dataFromXml(filename):
 	for record in records:
 		id=record.getElementsByTagName("id") [0].childNodes[0].data
 		query=record.getElementsByTagName("query") [0].childNodes[0].data
-		desicription=record.getElementsByTagName("desicription") [0].childNodes[0].data
-		desicription=filter(desicription)
-		document1=record.getElementsByTagName("d1") [0].childNodes[0].data
-		document2=record.getElementsByTagName("d2") [0].childNodes[0].data
+		desicription=record.getElementsByTagName("desicription") [0].childNodes[0].data.strip()
+		
+		document1=record.getElementsByTagName("d1") [0].childNodes[0].data.strip()
+		print document1
+		document2=record.getElementsByTagName("d2") [0].childNodes[0].data.strip()
 		title1=record.getElementsByTagName("d1") [0].getAttribute("title")
 		title2=record.getElementsByTagName("d2") [0].getAttribute("title")
 		data={"id":id,"query":query,"discription":addLabel(desicription),"title1":title1,"document1":addLabel(document1),"title2":title2,"document2":addLabel(document2)}
 		#print desicription
+		print 
 		datas.append(data)
 	return datas
 
