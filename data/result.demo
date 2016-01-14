@@ -1,0 +1,80 @@
+0___________probability__________
+judging documentdistribution[4, 2, 4, 3, 4, 4]
+interference documentstatistics[2, 3, 3, 3, 1, 4]
+without interferencedistribution[3, 4, 4, 4, 3, 3]
+1___________Parkinsonism__________
+judging documentAlzheimer's disease[1, 3, 3, 3]
+interference documentParkinson s and Alzheimer s Diseases[4, 3, 4, 4]
+without interferenceAlzheimer's disease[2, 2, 1, 1, 1, 2, 4, 1]
+2___________Isaac Newton__________
+judging documentJohannes Kepler[4, -1, 2, 2]
+interference documentCharles_Darwin[1, -1, 2, 1]
+without interferenceJohannes Kepler[1, 1, 3, 2, 2, 4, 1, 1]
+3___________Harry Potter and the Philosopher's Stone__________
+judging documentHarry Potter and the Philosopher's Stone (film)[4, 3, 4, 4, 4, 3, 4, 4]
+interference documentHarry Potter and the Philosopher's Stone (video game)[4, 2, 4, 4, 3, 3, 3, 4]
+without interferenceHarry Potter and the Philosopher's Stone (film)[4, -1, 4, 4]
+4___________Albert Einstein__________
+judging documentTheory of relativity[3, 3, 4, 4, 1, 4, 3]
+interference documentAlbert Einstein and the Theory of Relativity[4, 4, 4, 4, 3, 4, 4]
+without interferenceTheory of relativity[4, 2, 2, 4, 4]
+5___________Internet public welfare__________
+judging documentCyber sovereignty[2, 3, 2, 3]
+interference documentCyberspace community of shared future[3, 4, 4, 3]
+without interferenceCyber sovereignty[3, 4, 1, 2, 1, 2, 4, 4]
+6___________Urbanization__________
+judging documentGrabbing train tickets for the Spring Festival rush[1, 1, 1, 2, 1, 2]
+interference documentParticipatory poverty-reduction[-1, 2, 1, 3, 1, 1]
+without interferenceGrabbing train tickets for the Spring Festival rush[2, 1, 2, 2, 1, -1]
+7___________Innovation driven__________
+judging documentNew open economic system[4, 2, -1, 2, 3, 2, 2]
+interference documentSharing economy[2, 2, -1, 1, 3, 2, 3]
+without interferenceNew open economic system[1, 1, 1, 2, 2]
+8___________NoSQL Database__________
+judging documentMongodb[3, 3, 4, 3, 4, 2, 4]
+interference documentDatabase and DBMS[1, 2, 2, 3, 3, 2, 2]
+without interferenceMongodb[4, 4, -1, 4, 4]
+9___________Machine learning__________
+judging documentPattern recognition[3, 4, 3, 4]
+interference documentArtificial intelligence[3, 2, 3, 3]
+without interferencePattern recognition[4, 4, 4, 4, 4, 4, 3, 4]
+10___________American president__________
+judging documentThe separation of powers[2, 1, 3, 1, 1]
+interference documentBarack Obama[4, 4, 4, 3, 4]
+without interferenceThe separation of powers[1, 3, 3, 1, 2, 1, 2]
+11___________Turing Award__________
+judging documentAlan Turing[1, 4, 3, 4, 2, 4]
+interference documentAndrew Chi-Chih Yao[-1, 3, 3, 4, 3, 2]
+without interferenceAlan Turing[4, -1, 4, 2, 4, 2]
+12___________deep learning__________
+judging documentconvolutional neural network[3, 4, 2, 4, 2, 4]
+interference documentDeep belief network[-1, 4, 3, 4, 2, 4]
+without interferenceconvolutional neural network[4, 3, 4, 2, 4, 3]
+13___________Semantic Web__________
+judging documentontology[1, 2, 4, 1, -1, 2, 2, 1]
+interference documenttheology[1, 1, 3, 2, -1, 3, 2, 4]
+without interferenceontology[1, 4, 3, 4]
+14___________twitter__________
+judging documentGoogle+[4, 2, 2, 1, -1, 2, 1, 1, 1]
+interference documentNetflix[2, 2, 1, 2, -1, 2, 1, 1, 1]
+without interferenceGoogle+[2, 1, 1]
+15___________Quantum mechanics__________
+judging documentQuantum entanglement[3, 3, 3, 1, 3, 2]
+interference documentQuantum cognition[4, 1, 4, 4, 2, 4]
+without interferenceQuantum entanglement[4, -1, 3, 4, 4, 4]
+16___________computer__________
+judging documentTuring machine[4, 3, 3, 4, 2, 3]
+interference documentBoolean algebra[3, 3, 1, 4, 2, 2]
+without interferenceTuring machine[3, 4, 3, 3, 2, 4]
+17___________Religion__________
+judging documentCulture[4, 3, 3]
+interference documentPolitics[2, 2, 2]
+without interferenceCulture[3, 2, 1, 3, 3, 4, 3, 1, 3]
+18___________China__________
+judging documentthe Yangtze River[4, 2, 2, 3]
+interference documentthe Giant panda[-1, 2, 2, 3]
+without interferencethe Yangtze River[2, 2, 4, 3, -1, 2, 2, 2]
+19___________Air pollution__________
+judging documentFrogs[1, 1, 2, 1, 4]
+interference documentHag[4, 4, 4, 3, 4]
+without interferenceFrogs[4, 4, 2, 1, 1, 3, 1]

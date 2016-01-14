@@ -25,8 +25,8 @@ def appDatas(datas):
 	db=client.test
 	docs=db.docs
 	docs.insert(datas)
-	for doc in docs.find():
-		print doc["id"]
+	# for doc in docs.find():
+	# 	print doc["id"]
 
 
 
@@ -96,7 +96,11 @@ def addLabel(text):
 		return labeledText
 	else:
 		tokens=text.split()
+<<<<<<< HEAD
 		print "*".join(tokens)
+=======
+		#print "*".join(tokens)
+>>>>>>> origin/master
 		for token in tokens:
 			labeledText +="<a>"+token+" </a>"
 		return labeledText
@@ -113,23 +117,57 @@ def dataFromXml(filename):
 	records = collection.getElementsByTagName("record")
 	print len(records)
 	datas=[]
-		
+	id=0
 	for record in records:
-		id=record.getElementsByTagName("id") [0].childNodes[0].data
+		#id=record.getElementsByTagName("id") [0].childNodes[0].data
 		query=record.getElementsByTagName("query") [0].childNodes[0].data
 		desicription=record.getElementsByTagName("desicription") [0].childNodes[0].data.strip()
 		
 		document1=record.getElementsByTagName("d1") [0].childNodes[0].data.strip()
+<<<<<<< HEAD
 		print document1
+=======
+		#
+		#print d1_title
+		
+>>>>>>> origin/master
 		document2=record.getElementsByTagName("d2") [0].childNodes[0].data.strip()
 		title1=record.getElementsByTagName("d1") [0].getAttribute("title")
 		title2=record.getElementsByTagName("d2") [0].getAttribute("title")
 		data={"id":id,"query":query,"discription":addLabel(desicription),"title1":title1,"document1":addLabel(document1),"title2":title2,"document2":addLabel(document2)}
 		#print desicription
+<<<<<<< HEAD
 		print 
 		datas.append(data)
 	return datas
 
+=======
+		print "%s & %s & %s & tobeCoverd\\\\" % (query,title1,title2)
+		print "\hline"
+		id+=1 
+		datas.append(data)
+	return datas
+
+def calMeanLength(filename):
+
+	DOMTree = xml.dom.minidom.parse( filename )
+	collection = DOMTree.documentElement
+	records = collection.getElementsByTagName("record")
+	print len(records)
+	
+	counter=[]
+	for record in records:
+		
+		
+		document1=record.getElementsByTagName("d1") [0].childNodes[0].data.strip()
+		counter.append(len(document1.split()))
+		document2=record.getElementsByTagName("d2") [0].childNodes[0].data.strip()
+		counter.append(len(document2.split()))
+		
+	return counter
+
+
+>>>>>>> origin/master
 def loadData():
 	files={"dataSet.xml"}
 	clear("docs")
@@ -137,7 +175,17 @@ def loadData():
 		datas=dataFromXml(f)
 		appDatas(datas);
 	
+<<<<<<< HEAD
 
+=======
+def count():
+	counter=calMeanLength("dataSet.xml")
+	sum=0;
+	print counter
+	for c in counter:
+		sum+=c
+	print sum*1.0/len(counter)
+>>>>>>> origin/master
 def main():
 	# str="[1]  hello,world [2]"
 	# for s in  re.findall(r"\[\d*\]",str):
@@ -147,9 +195,22 @@ def main():
 	files={"dataSet.xml"}
 	for f in files:
 		datas=dataFromXml(f)
+<<<<<<< HEAD
 	appDatas(datas)
 if __name__=="__main__":
 	#main()
 	#loadData()
 	#clear("label")
 	getinfo("label")
+=======
+
+	appDatas(datas)
+
+
+if __name__=="__main__":
+	main()
+	#loadData()
+	#clear("label")
+	#getinfo("label")
+
+>>>>>>> origin/master
