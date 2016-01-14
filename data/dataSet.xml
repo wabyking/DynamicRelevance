@@ -1,107 +1,124 @@
 <set>
 	<record>
 		<id>0</id>
-		<query>probabilty</query>
-		<desicription>Probability is the measure of the likeliness that an event will occur.[1] Probability is quantified as a number between 0 and 1 (where 0 indicates impossibility and 1 indicates certainty).[2][3] The higher the probability of an event, the more certain we are that the event will occur. A simple example is the toss of a fair (unbiased) coin. Since the two outcomes are equally probable, the probability of "heads" equals the probability of "tails", so the probability is 1/2 (or 50%) chance of either "heads" or "tails".
+		<query>probability</query>
+		<desicription url="https://en.wikipedia.org/wiki/Probability">
+			Probability is the measure of the likeliness that an event will occur.[1] Probability is quantified as a number between 0 and 1 (where 0 indicates impossibility and 1 indicates certainty).[2][3] The higher the probability of an event, the more certain we are that the event will occur. A simple example is the toss of a fair (unbiased) coin. Since the two outcomes are equally probable, the probability of "heads" equals the probability of "tails", so the probability is 1/2 (or 50%) chance of either "heads" or "tails".
 			These concepts have been given an axiomatic mathematical formalization in probability theory (see probability axioms), which is used widely in such areas of study as mathematics, statistics, finance, gambling, science (in particular physics), artificial intelligence/machine learning, computer science, game theory, and philosophy to, for example, draw inferences about the expected frequency of events. Probability theory is also used to describe the underlying mechanics and regularities of complex systems
 		</desicription>
-		<d1 title="statistics">Statistics is the study of the collection, analysis, interpretation, presentation, and organization of data.[1] In applying statistics o, e.g., a scientific, industrial, or societal problem, it is conventional to begin with a statistical population or a statistical model process to be studied. Populations can be diverse topics such as "all persons living in a country" or "every atom composing a crystal". Statistics deals with all aspects of data including the planning of data collection in terms of the design of surveys and experiments.[1]When census data cannot be collected, statisticians collect data by developing specific experiment designs and survey samples. Representative sampling assures that inferences and conclusions can safely extend from the sample to the population as a whole. An experimental study involves taking measurements of the system under study, manipulating the system, and then taking additional measurements using the same procedure to determine if the manipulation has modified the values of the measurements. In contrast, an observational study does not involve experimental manipulation.
-		Two main statistical methodologies are used in data analysis: descriptive statistics, which summarizes data from a sample using indexes such as the mean or standard deviation, and inferential statistics, which draws conclusions from data that are subject to random variation (e.g., observational errors, sampling variation).[2] Descriptive statistics are most often concerned with two sets of properties of a distribution (sample or population): central tendency (or location) seeks to characterize the distribution's central or typical value, while dispersion (or variability) characterizes the extent to which members of the distribution depart from its center and each other. Inferences on mathematical statistics are made under the framework of probability theory, which deals with the analysis of random phenomena.
-		A standard statistical procedure involves the test of the relationship between two statistical data sets, or a data set and a synthetic data drawn from idealized model. An hypothesis is proposed for the statistical relationship between the two data sets, and this is compared as an alternative to an idealized null hypothesis of no relationship between two data sets. Rejecting or disproving the null hypothesis is done using statistical tests that quantify the sense in which the null can be proven false, given the data that are used in the test. Working from a null hypothesis, two basic forms of error are recognized: Type I errors (null hypothesis is falsely rejected giving a "false positive") and Type II errors (null hypothesis fails to be rejected and an actual difference between populations is missed giving a "false negative").[3] Multiple problems have come to be associated with this framework: ranging from obtaining a sufficient sample size to specifying an adequate null hypothesis.[citation needed]
-		Measurement processes that generate statistical data are also subject to error. Many of these errors are classified as random (noise) or systematic (bias), but other important types of errors (e.g., blunder, such as when an analyst reports incorrect units) can also be important. The presence of missing data and/or censoring may result in biased estimates and specific techniques have been developed to address these problems.
-		Statistics can be said to have begun in ancient civilization, going back at least to the 5th century BC, but it was not until the 18th century that it started to draw more heavily from calculus and probability theory. Statistics continues to be an area of active research, for example on the problem of how to analyze Big data.
+		<d1 title="statistics" url="https://en.wikipedia.org/wiki/Statistics">
+			Statistics is the study of the collection, analysis, interpretation, presentation, and organization of data.[1] In applying statistics o, e.g., a scientific, industrial, or societal problem, it is conventional to begin with a statistical population or a statistical model process to be studied. Populations can be diverse topics such as "all persons living in a country" or "every atom composing a crystal". Statistics deals with all aspects of data including the planning of data collection in terms of the design of surveys and experiments.[1]When census data cannot be collected, statisticians collect data by developing specific experiment designs and survey samples. Representative sampling assures that inferences and conclusions can safely extend from the sample to the population as a whole. An experimental study involves taking measurements of the system under study, manipulating the system, and then taking additional measurements using the same procedure to determine if the manipulation has modified the values of the measurements. In contrast, an observational study does not involve experimental manipulation.
+			Two main statistical methodologies are used in data analysis: descriptive statistics, which summarizes data from a sample using indexes such as the mean or standard deviation, and inferential statistics, which draws conclusions from data that are subject to random variation (e.g., observational errors, sampling variation).[2] Descriptive statistics are most often concerned with two sets of properties of a distribution (sample or population): central tendency (or location) seeks to characterize the distribution's central or typical value, while dispersion (or variability) characterizes the extent to which members of the distribution depart from its center and each other. Inferences on mathematical statistics are made under the framework of probability theory, which deals with the analysis of random phenomena.
+			A standard statistical procedure involves the test of the relationship between two statistical data sets, or a data set and a synthetic data drawn from idealized model. An hypothesis is proposed for the statistical relationship between the two data sets, and this is compared as an alternative to an idealized null hypothesis of no relationship between two data sets. Rejecting or disproving the null hypothesis is done using statistical tests that quantify the sense in which the null can be proven false, given the data that are used in the test. Working from a null hypothesis, two basic forms of error are recognized: Type I errors (null hypothesis is falsely rejected giving a "false positive") and Type II errors (null hypothesis fails to be rejected and an actual difference between populations is missed giving a "false negative").[3] Multiple problems have come to be associated with this framework: ranging from obtaining a sufficient sample size to specifying an adequate null hypothesis.[citation needed]
+			<!--
+			Measurement processes that generate statistical data are also subject to error. Many of these errors are classified as random (noise) or systematic (bias), but other important types of errors (e.g., blunder, such as when an analyst reports incorrect units) can also be important. The presence of missing data and/or censoring may result in biased estimates and specific techniques have been developed to address these problems.
+			Statistics can be said to have begun in ancient civilization, going back at least to the 5th century BC, but it was not until the 18th century that it started to draw more heavily from calculus and probability theory. Statistics continues to be an area of active research, for example on the problem of how to analyze Big data.
+		-->
 		</d1>
-		<d2  title="distribution">
+		<d2  title="distribution" url="https://en.wikipedia.org/wiki/Probability_distribution">
 			A probability distribution can either be univariate or multivariate. A univariate distribution gives the probabilities of a single random variable taking on various alternative values; a multivariate distribution (a joint probability distribution) gives the probabilities of a random vector—a set of two or more random variables—taking on various combinations of values. Important and commonly encountered univariate probability distributions include the binomial distribution, the hypergeometric distribution, and the normal distribution. The multivariate normal distribution is a commonly encountered multivariate distribution.
 			To define probability distributions for the simplest cases, one needs to distinguish between discrete and continuous random variables. In the discrete case, one can easily assign a probability to each possible value: for example, when throwing a fair die, each of the six values 1 to 6 has the probability 1/6. In contrast, when a random variable takes values from a continuum then, typically, probabilities can be nonzero only if they refer to intervals: in quality control one might demand that the probability of a "500 g" package containing between 490 g and 510 g should be no less than 98%.
 			The probability density function (pdf) of the normal distribution, also called Gaussian or "bell curve", the most important continuous random distribution. As notated on the figure, the probabilities of intervals of values correspond to the area under the curve.If the random variable is real-valued (or more generally, if a total order is defined for its possible values), the cumulative distribution function (CDF) gives the probability that the random variable is no larger than a given value; in the real-valued case, the CDF is the integral of the probability density function (pdf) provided that this function exists.
 		</d2>
 	</record>
 
-
 	<record>
 		<id>1</id>
-		<query>血糖高了怎么办</query>
-		<desicription>
-			当血糖值高于正常范围即为高血糖。高血糖也是通常大家所说“三高”中的一高。另外“两高”分别是高血压和高脂血症。空腹血糖正常值在6.1mmol/L以下，餐后两小时血糖的正常值在7.8mmol/L以下，如果高于这一范围，称为高血糖。
-			正常情况下，人体能够通过激素调节和神经调节这两大调节系统确保血糖的来源与去路保持平衡，使血糖维持在一定水平。但是在遗传因素（如糖尿病家族史）与环境因素（如不合理的膳食、肥胖等）的共同作用下，两大调节功能发生紊乱，就会出现血糖水平的升高。
-		</desicription>
-		<d1 title="高血糖患者的饮食习惯">
+		<query>Parkinsonism</query>
+		<desicription url="https://en.wikipedia.org/wiki/Parkinsonism">
+			Parkinsonism is a clinical syndrome characterized by tremor, bradykinesia, rigidity, and postural instability.[1][2] Parkinsonism shares symptoms found in Parkinson's disease, from which it is named; but parkinsonism is a symptom complex, and differs from Parkinson disease which is a progressive neurodegenerative illness. The underlying causes of parkinsonism are numerous, and diagnosis can be complex.[3][4] The neurodegenerative condition Parkinson's disease (PD) is the most common cause of parkinsonism. However, a wide range of other etiologies may lead to a similar set of symptoms, including some toxins, a few metabolic diseases, and a handful of neurological conditions other than Parkinson's.[5]
 
-			1、 主食一般以米、面为主，但是，我们比较喜欢粗杂粮，如燕麦、麦片、玉米面等，因为这些食物中有较多的无机盐、维生素，又富含膳食纤维，膳食纤维具有减低血糖作用，对控制血糖有利。 
-			2、 血糖高患者的蛋白质来源，大豆及其豆制品为好，一方面，其所含蛋白质量多质好；另一方面，其不含胆固醇，具有降脂作用，故可代替部分动物性食品，如肉类等。
-			3、 在控制热量期间，仍感饥饿时，可食用含糖少的蔬菜，用水煮后加一些佐料拌着吃。由于蔬菜所含膳食纤维多、水分多，供热能低、具有饱腹作用，是糖尿病患者必不可少的食物。
-			4、 禁用食物有：白糖、红塘、葡萄糖及糖制甜食，如糖果、糕点、果酱、蜜饯、冰激凌、甜饮料等。另外，含碳水化合物较多的土豆、山药、芋艿、藕、蒜苗、胡萝卜等少用或食用后减少相应的主食量。 
-			5、 富含饱和脂肪酸的猪油、牛油、洋油、奶油、黄油等少用，最好不用。可用植物油代替部分动物油，花生、核桃、芝麻、瓜子中含脂肪也相当多，尽量不吃或少吃或减少油类摄入。
-			6、 蛋黄和动物内脏如肝、脑、腰等含胆固醇相当高，应尽量少用或不用。 
-			7、 水果中含葡萄糖、果糖，能使血糖升高，故在血、尿糖控制相对稳定时，空腹血糖小于7.8mmol/L或餐后2小时血糖小于10mmol/L时，可在两餐或临睡前食用，但也要减少相应主食。 
-			8、 酒类，主要含酒精，产热高，而其他营养素含量很少，故不饮为宜。 
-			9、血糖高患者的饮食除控制总热卡外，还应做到食品多样化，但因为限制糖、盐，使菜肴味道较单一。针对这一点，市场上生产了多种甜味剂如甜味菊、甜味糖，其不产热、不含任何营养素，近两年有一种甜味剂为蛋白糖，其有氨基酸组成，也不产热，无任何副作用，是目前较理想的甜味剂，如纽特糖、元真糖。
-			10、对于胰岛素依赖型的患者，同样需要在医生和营养师的指导下严格执行饮食控制,对肥胖合并有高血压、冠心病的糖尿病患者，除了较严格的饮食控制外，忌食动物内脏、蛋黄、鱼子等，严格控制动物油如黄油、猪油、牛油等，其中的饱和脂肪酸对预防动脉粥样硬化不利。 
-			11、对于合并肾脏功能不全的糖尿病患者，除控制总热量外，应根据病情注意少盐，无盐或少钠及蛋白质的摄入量，蛋白质供应不宜过高，并且忌食豆制品，对于尿毒症应低蛋白饮食，蛋白质每天在30克左右，主食以麦淀粉代替米、面、蛋白质供给首选优质蛋白质，如牛奶、鸡蛋、瘦肉等。 
+			About 7% of people with parkinsonism have developed their symptoms following treatment with particular medications. Side effect of medications, mainly neuroleptic antipsychotics especially the phenothiazines (such as perphenazine and chlorpromazine), thioxanthenes (such as flupenthixol and zuclopenthixol) and butyrophenones (such as haloperidol (Haldol)), piperazines (such as ziprasidone), and, rarely, antidepressants. The incidence of drug-induced parkinsonism increases with age. Drug induced parkinsonism tends to remain at its presenting level, i.e. does not progress like the parkinson disease.
+		
+		</desicription>	
+		
+		<d1 title="Parkinson s and Alzheimer s Diseases" url="http://www.alznyc.org/nyc/newsletter/fall2012/06.asp">
+			
+			As people live longer and the world population grows older, late-onset disorders such as Parkinson’s disease and Alzheimer’s disease will affect more and more individuals. Both of these diseases are neurodegenerative and typically begin late in life, so many people assume that they are related or linked in some way. Let’s take a look at how much truth there is to that idea.
 
+			First of all, the two diseases are not related but they do share some similarities. Both Alzheimer’s and Parkinson’s disease have an onset that is late in life, usually after the age of 50. Both diseases are neurodegenerative, meaning that brain cells (neurons) become damaged and die during the course of the disease. They are also both progressive, so they get worse over time. In the late stages of both diseases, the neurodegeneration can ultimately lead to dementia – a severe impairment in memory, judgment, orientation, and executive functioning. Approximately two out of every three dementia cases are caused by Alzheimer’s disease, making it by far the most common cause. Meanwhile, dementia due to Parkinson’s accounts for a much smaller portion of all dementia cases.
+
+			Despite all of these similarities, Alzheimer’s and Parkinson’s disease are completely separate illnesses with different mechanisms, symptoms, and treatments. Parkinson’s disease is primarily a movement disorder that can eventually result in memory problems and dementia in about 50% of patients. Many individuals with Parkinson’s will never have memory problems during the course of their illness. On the other hand, Alzheimer’s is primarily a memory disorder that rarely includes any type of movement impairments.
+			<!-- While both diseases are progressive and neurodegenerative, their disparate symptoms come from differences in etiology. Parkinson’s disease results from the loss of dopamine-producing neurons in an area of the brain called the substantia nigra. Dopamine is needed in that part of the brain to control movement and coordination, and it is estimated that it takes a 60-80% loss of these dopaminergic neurons before symptoms become outwardly apparent. These symptoms include a resting tremor (shaking at rest), muscle rigidity, slowed movements, and impaired coordination. Since the primary cause for Parkinsonian symptoms is a loss of dopaminergic neurons, approved drug treatments work to increase the amount of dopamine available within the brain. Over time, as the disease progresses, the benefits of the drugs often diminish or become less consistent.
+		-->
+			<!--
+			Now with Alzheimer’s disease, the initially affected brain areas are the hippocampus and the entorhinal cortex, which are critical for learning and memory. Therefore it follows that the early symptoms of Alzheimer’s are cognitive in nature. In Alzheimer’s it is the neurotransmitter acetylcholine that is progressively diminished over the course of the disease. This worsening of memory and general intellect can progress and become severe without any effect on the patient’s coordination or movement ability. Since acetylcholine depletion is a root cause for the Alzheimer’s symptoms, a class of drugs called cholinesterase inhibitors (brand names: Aricept, Exelon, Razadyne) has been shown to be effective in slowing cognitive decline by preventing the breakdown of acetylcholine. Essentially they work to maintain the acetylcholine that is present in the brain but they do not prevent the loss of neurons or increase the amount of acetylcholine available. In 2003, the F.D.A. approved another Alzheimer’s drug called Namenda for treating moderate-to-severe cases. This drug works by regulating receptors of yet another neurotransmitter in the brain called glutamate. While pharmacological treatments for both Alzheimer’s and Parkinson’s disease currently work by altering chemicals within the brain, they differ in their mechanisms of action and in their effects on the brain. This is why it is paramount that a proper clinical diagnosis be obtained for individuals at the very onset of noticeable symptoms. With both diseases, drug treatments are most beneficial at combating the early to middle stages of disease.
+
+			With more people growing older and becoming at risk for these diseases, there is one final shared characteristic between the diseases and that is research. Dedicated, sizeable scientific communities around the world are currently researching better treatments and potential remedies for these late-onset ailments so that we can one day say that they are both one thing – cured.
+		-->
 		</d1>
-		<d2  title="高血糖孕妇">
-			准妈妈们知道进入孕晚期开始，医生都会建议准妈妈检测一项指标的，就是血糖，超标的现象并不奇怪，但肯定对孕妇和胎儿有影响。孕妇血糖高该怎么办呢？小编告诉你，具体以下几方面来了解！
-			1、第一次检测出血糖超标之后要在医生的建议下控制饮食，很多准妈妈到后期体重增长过快，就容易造成孕期肥胖，孕期肥胖自然会导致血糖超标，请医生帮忙安排合理的孕期食谱，严格按照孕期的食谱来饮食。
-			2、采取少食多餐的原则，膳食治疗的原则是：孕妇不减肥；按体型调整食物结构比例及热量；少食多餐，最好分3大餐，3小餐；少吃糖分高的水果。
-			3、除了水果之外其他的甜食也要暂时停一下，大多数女性都爱吃甜食，巧克力、威化、饼干等等这些小零食也是孕期准妈妈们非常喜欢的，但是为了自身的健康和宝宝的健康应该控制一下自己的欲望。如果准妈妈觉得饿了想吃点东西，可以选择无糖饼干或者是无糖豆浆等等。
-			4、另外还要定期复查，一直到指标下降顺利生产之后才可以安心。
+		<d2 title="Alzheimer's disease" url="https://en.wikipedia.org/wiki/Alzheimer%27s_disease">
+			Alzheimer's disease (AD), also known as Alzheimer disease, or just Alzheimer's, accounts for 60% to 70% of cases of dementia.[1][2] It is a chronic neurodegenerative disease that usually starts slowly and gets worse over time.[1][2] The most common early symptom is difficulty in remembering recent events (short-term memory loss).[1] As the disease advances, symptoms can include problems with language, disorientation (including easily getting lost), mood swings, loss of motivation, not managing self care, and behavioural issues.[1][2] As a person's condition declines, they often withdraw from family and society.[1] Gradually, bodily functions are lost, ultimately leading to death.[3] Although the speed of progression can vary, the average life expectancy following diagnosis is three to nine years.[4][5]
+
+			The cause of Alzheimer's disease is poorly understood.[1] About 70% of the risk is believed to be genetic with many genes usually involved.[6] Other risk factors include a history of head injuries, depression, or hypertension.[1] The disease process is associated with plaques and tangles in the brain.[6] A probable diagnosis is based on the history of the illness and cognitive testing with medical imaging and blood tests to rule out other possible causes.[7] Initial symptoms are often mistaken for normal ageing.[1] Examination of brain tissue is needed for a definite diagnosis.[6] Mental and physical exercise, and avoiding obesity may decrease the risk of AD.[6] There are no medications or supplements that decrease risk.[8]
+			<!--
+			No treatments stop or reverse its progression, though some may temporarily improve symptoms.[2] Affected people increasingly rely on others for assistance, often placing a burden on the caregiver; the pressures can include social, psychological, physical, and economic elements.[9] Exercise programs are beneficial with respect to activities of daily living and can potentially improve outcomes.[10] Treatment of behavioral problems or psychosis due to dementia with antipsychotics is common but not usually recommended due to there often being little benefit and an increased risk of early death.
+		-->
 		</d2>
-	</record>
+</record>
 
-
-	<record>
+<record>
 		<id>2</id>
-		<query>百度地图</query>
-		<desicription>
-			百度地图是百度提供的一项网络地图搜索服务，覆盖了国内近400个城市、数千个区县。在百度地图里，用户可以查询街道、商场、楼盘的地理位置，也可以找到离您最近的所有餐馆、学校、银行、公园等等。2010年8月26日，在使用百度地图服务时，除普通的电子地图功能之外，新增加了三维地图按钮。
-			2014年12月15日，百度与诺基亚达成协议，未来诺基亚地图及导航业务Here将向百度提供中国内地以外的地图数据服务。
+		<query>Isaac Newton</query>
+		<desicription url="https://en.wikipedia.org/wiki/Isaac_Newton" >
+			Sir Isaac Newton PRS (/ˈnjuːtən/;[9] 25 December 1642 – 20 March 1726/7[1]) was an English physicist and mathematician (described in his own day as a "natural philosopher") who is widely recognised as one of the most influential scientists of all time and as a key figure in the scientific revolution. His book Philosophiæ Naturalis Principia Mathematica ("Mathematical Principles of Natural Philosophy"), first published in 1687, laid the foundations for classical mechanics. Newton made seminal contributions to optics, and he shares credit with Gottfried Leibniz for the development of calculus.
+
+			Newton's Principia formulated the laws of motion and universal gravitation, which dominated scientists' view of the physical universe for the next three centuries. By deriving Kepler's laws of planetary motion from his mathematical description of gravity, and then using the same principles to account for the trajectories of comets, the tides, the precession of the equinoxes, and other phenomena, Newton removed the last doubts about the validity of the heliocentric model of the Solar System. This work also demonstrated that the motion of objects on Earth and of celestial bodies could be described by the same principles. His prediction that Earth should be shaped as an oblate spheroid was later vindicated by the measurements of Maupertuis, La Condamine, and others, which helped convince most Continental European scientists of the superiority of Newtonian mechanics over the earlier system of Descartes.
+			<!--
+			Newton built the first practical reflecting telescope and developed a theory of colour based on the observation that a prism decomposes white light into the many colours of the visible spectrum. He formulated an empirical law of cooling, studied the speed of sound, and introduced the notion of a Newtonian fluid. In addition to his work on calculus, as a mathematician Newton contributed to the study of power series, generalised the binomial theorem to non-integer exponents, developed a method for approximating the roots of a function, and classified most of the cubic plane curves.
+		-->
+		
 		</desicription>
-		<d1 title="高德地图">
-			高德地图 是国内一流的免费地图导航产品，也是基于位置的生活服务功能最全面、 信息最丰富的手机地图，由国内最大的电子地图、导航和LBS服务解决方案提供商高德软件(纳斯达克Amap)提供。高德地图采用领先的技术为用户打造了最好用的“活地图”，不管在哪、去哪、找哪、怎么去、想干什么一图在手，统统搞定，省电省流量更省钱，堪称最完美的生活出行软件，本土化评价。
-			〖最专业的地图导航〗地图数据覆盖中国大陆及香港澳门,遍及337个地级2857个县级以上行政区划单位；导航支持GPS、基站、网络等多种方式一键定位。
-			〖最全面的生活信息〗美食、酒店、演出、商场等各种深度POI点达2600多万条，衣食住行吃喝玩乐全方位海量生活信息可供搜索查询。
-			〖最智能的出行指南〗自动生成“最短”“最快”“最省钱”等多种路线规划以供选择，可根据实时路况选择最优公交/驾车出行路线。
+		
+		<d1 title="Charles_Darwin" url="https://en.wikipedia.org/wiki/Charles_Darwin">
+			Charles Robert Darwin, FRS FRGS FLS FZS[2] (/ˈdɑrwɪn/;[3] 12 February 1809 – 19 April 1882) was an English naturalist and geologist,[4] best known for his contributions to evolutionary theory.[I] He established that all species of life have descended over time from common ancestors,[5] and in a joint publication with Alfred Russel Wallace introduced his scientific theory that this branching pattern of evolution resulted from a process that he called natural selection, in which the struggle for existence has a similar effect to the artificial selection involved in selective breeding.[6]
+
+			Darwin published his theory of evolution with compelling evidence in his 1859 book On the Origin of Species, overcoming scientific rejection of earlier concepts of transmutation of species.[7][8] By the 1870s, the scientific community and much of the general public had accepted evolution as a fact. However, many favoured competing explanations and it was not until the emergence of the modern evolutionary synthesis from the 1930s to the 1950s that a broad consensus developed in which natural selection was the basic mechanism of evolution.[9][10] In modified form, Darwin's scientific discovery is the unifying theory of the life sciences, explaining the diversity of life.[11][12]
+
+			Darwin's early interest in nature led him to neglect his medical education at the University of Edinburgh; instead, he helped to investigate marine invertebrates. Studies at the University of Cambridge (Christ's College) encouraged his passion for natural science.[13] His five-year voyage on HMS Beagle established him as an eminent geologist whose observations and theories supported Charles Lyell's uniformitarian ideas, and publication of his journal of the voyage made him famous as a popular author
 		</d1>
-		<d2 title="腾讯地图">
-			腾讯地图，前称SOSO地图。这是由腾讯公司推出的一种互联网地图服务。用户可以从地图中看到普通的矩形地图、卫星地图和街景地图以及室内景(详见下面)。用户可以使用地图查询银行、医院、宾馆、公园等地理位置，有助用户的平时生活出行所需。
-			通过腾讯地图的街景，用户可以实现网上虚拟旅游，也可以在前往某地之前了解该地点的周边环境，从而更容易找到目的地。同时，街景地图亦可为购租房屋提供参考信息。
-			地点查询：快速灵活准确的定位，帮助用户在地图上找到所在的位置；
-			路线查询：提供打车公交自驾多种路线查询，支持全国近200个城市的出租估价、210个城市的公交和近400个城市的自驾；
-			实时路况：查询城市主要道路的实时路况信息，驾车导航避免拥堵，支持多达18个城市；
-			周边查询：帮助用户搜寻周边最近的餐馆、酒店、加油站等，提供新鲜周全的吃喝玩乐地点信息。[1] 
-			找TA功能
-			使用手机腾讯地图的【找TA】，在通讯录选择联系人或输入对方的手机号码，便可给对方发出邀请短信，待对方接收到短信同意位置共享，双方就可以在手机地图上看到彼此的实时位置，双方的位置用了不同颜色的两个点在地图上显示出来，地图上还能显示双方的距离有多少米。
-			产品经理最初的设计构想是解决彼此约会时的碰面问题。产品经理发现，人们约好在一个陌生的地方见面时，容易产生焦虑或不安，会不由自主去想对方是否已经在路上了，还有多久才能到，到了之后是否就能找到我所在的位置……这些种种问题，在科技发达的如今都不应该是个问题。假设在手机地图上，可以看到对方的实时位置，那么上述问题自然迎刃而解，不是吗？ 于是实时位置的功能便由此产生了。
-			在陌生地方约会时，不安。情侣异地恋，可以用实时位置看到彼此的地点，由此便不会胡思乱想是否去了酒店还是去了情人家里。户外遇到紧急情况双方无法描述出自己的位置，手机地图的实时位置也能够指引双方寻找最近的线路会面。更多的应用场景有待你我来发掘。
-			零流量地图
-			零流量地图自身带有零流量模式开关，下载离线数据包后，用户可自行关闭流量使用地图浏览、地理定位、地点搜索、公交信息查询以及驾车导航等功能，即使是在野外等弱网环境下或非服务区内也可以实现定位、找路、导航功能。据介绍，数据包体积较其他产品缩减达60%，相同城市的离线数据远比市场同类产品精简。
+		<d2 title="Johannes Kepler"  url="https://en.wikipedia.org/wiki/Johannes_Kepler">
+			Johannes Kepler (German: [ˈkɛplɐ]; December 27, 1571 – November 15, 1630) was a German mathematician, astronomer, and astrologer. A key figure in the 17th century scientific revolution, he is best known for his laws of planetary motion, based on his works Astronomia nova, Harmonices Mundi, and Epitome of Copernican Astronomy. These works also provided one of the foundations for Isaac Newton's theory of universal gravitation.
+
+			During his career, Kepler was a mathematics teacher at a seminary school in Graz, Austria, where he became an associate of Prince Hans Ulrich von Eggenberg. Later he became an assistant to astronomer Tycho Brahe, and eventually the imperial mathematician to Emperor Rudolf II and his two successors Matthias and Ferdinand II. He was also a mathematics teacher in Linz, Austria, and an adviser to General Wallenstein. Additionally, he did fundamental work in the field of optics, invented an improved version of the refracting telescope (the Keplerian Telescope), and mentioned the telescopic discoveries of his contemporary Galileo Galilei.
+
+			Kepler lived in an era when there was no clear distinction between astronomy and astrology, but there was a strong division between astronomy (a branch of mathematics within the liberal arts) and physics (a branch of natural philosophy). Kepler also incorporated religious arguments and reasoning into his work, motivated by the religious conviction and belief that God had created the world according to an intelligible plan that is accessible through the natural light of reason.[1] Kepler described his new astronomy as "celestial physics",[2] as "an excursion into Aristotle's Metaphysics",[3] and as "a supplement to Aristotle's On the Heavens",[4] transforming the ancient tradition of physical cosmology by treating astronomy as part of a universal mathematical physics
 		</d2>
-	</record>
+</record>
 
-
-	<record>
+<record>
 		<id>3</id>
-		<query>白鹿原 长篇小说</query>
-		<desicription>
-			《白鹿原》是陈忠实的代表作。小说长达近50万字，是陈忠实历时六年艰辛创作完成的。小说以陕西关中平原上素有“仁义村”之称的白鹿村为背景，细腻地反映出白姓和鹿姓两大家族祖孙三代的恩怨纷争。全书浓缩着深沉的民族历史内涵，有令人震撼的真实感和厚重的史诗风格。1993年6月出版后，其畅销和广受海内外读者赞赏欢迎的程度为中国当代文学作品所罕见。1997年荣获中国长篇小说最高荣誉———第4届茅盾文学奖。已被改编成同名电影、话剧、舞剧、秦腔等多种艺术形式。
-		</desicription>
-		<d1 title="白鹿原小说">
-			《白鹿原》人物众多，情节复杂。作者始终以人物的命运为中心，通过人物性格的发展来安排情节。
-			情节构建
-			小说的前五章写了白鹿原社会群体的常态，从娶妻生子、土地种植一直写到翻修宗祠和兴办学堂，整个白鹿原被纳入旧生活的常规，“洋溢着一种友好和谐欢乐的气氛”。从第六章开始，作家就着手设置境遇了。第一个境遇是改朝换代。白嘉轩说：“没有皇帝了，往后的日子咋过呢？”朱先生为这位群体领袖（族长）拟定了一份《乡约》，似乎有了群体规范就可以保证稳态。然而，这《乡约》却约不住外部社会，于是便爆发了“交农事件”。“交农”虽说是群体对外界社会的抗争，但这事件中每个人都为自己今后的命运埋下了种因。事件过后，初级群体在内部蕴蓄着，主要是新的一代在新的形势下成长，兆鹏、兆海、孝文、黑娃、白灵都在与外部社会接触中进一步社会化。从第十一章开始，作家设置了第二个境遇：白腿乌鸦兵围城。在围城事件中，白鹿原社会群体尽管仍作为一体来同外界社会抗争，然而，已经从个人的不同斗争方式上预示了群体的分化。接着是第三个境遇：农民运动及国共分裂。至此，群体已分化出三种势力：国民党、共产党与土匪。白嘉轩作为族长尽管还在不遗余力地恢复群体的稳定，但已经回天乏力了。接着是第四个境遇：年馑与瘟疫。从第十八章到第二十八章是小说最出色的十章，大自然的参与加剧了社会的变动，已经完全成熟了的年轻一代以各自的方式投入行动，群体中每一个人，包括此前被置于后景上的妇女都在灾难的漩涡中打转浮沉。自然灾害过后一片死寂，群体的创作还没来得及恢复就又被卷入社会灾难的漩涡。第五个境遇是抗日战争。大概由于西部未曾沦陷，作家才没有对此展开描写，只是用反讽手法写了朱先生投军与兆海之死。第六个境遇是解放战争。这最后的五章写得也很动人，尤其是卖壮丁与策反保安团，写得有声有色。决定整个民族命运的大决战自然也决定了白鹿原社会群体的命运，每个人物都走向自己的归宿。不难看出，结局中笼罩着悲剧气氛，我认为作家这样写是非常聪明的。朱先生的死，黑娃的死，鹿子霖的疯，白嘉轩的残，以及鹿兆鹏的下落不明，共奏出一曲挽歌，似在挽悼旧的白鹿原的终结。
-			（选自薛迪之《评〈白鹿原〉的可读性》，《小说评论》1993年第4期）[11] 
-			艺术成就
-			《白鹿原》是一部现实主义巨著。但它的现实主义又不同于以前的革命现实主义。革命现实主义，强调政治观念，要求比生活更为集中、更为突出地反映所谓“生活本质”，在人物塑造上有类型化和两极化倾向。这样往往偏离生活的常态，从而陷入政治图解式的叙述。而《白鹿原》力图展示生活原生态，揭示出纷繁社会中的文化属性与文化规律，它通过设置大量看似偶然的事件，把具体的人物命运和宏大的历史进程连结起来，从而使历史呈现出某种浑沌的状态，具有了生命的灵气。
-			在具体的创作中，陈忠实大量借鉴了潜意识、非理性、魔幻、死亡意识、性本能等现代主义手法，从而使情节愈显曲折，突出了人物命运的不可臆测。尤其是魔幻手法，在中国传统农村的直观思维中也可以找到根源，农村中那种融主观和客观、生与死于一体的原始宗教的二元论世界观，恰恰是魔幻思想的温床。陈忠实正是通过这种魔幻描写，模糊了生者与死者、冥界与人间的界壁，在人与鬼的冲突中来展示人性深处的东西，揭示人性的悲剧、人生的苦难。同时，这种手法还给所叙述的历史带来一种不可预知的神秘性，给读者以心灵上的震撼：仿佛冥冥中有一只巨大的手掌握着人物的命运和历史的发展。但是，《白鹿原》的现实主义又不同于曾流行一时的“新写实主义”。“新写实主义”强调“零度写作”，“纯粹客观地对生活本态进行还原”，展现现实的“原生态”，将“原色原汁原味”和盘托出，达到了“毛茸茸”的程度（见王干《近期小说的后现实主义倾向》）。《白鹿原》虽然没去图解历史，注重原生态的生活和细节真实，但它并不是纯粹客观地还原生活，而是力图通过各种势力在原上的冲突和发展，揭示出传统文化的命运走向。陈忠实也并没有坚持“零度情感”，而是以悲天悯人的情怀，对中国传统文化的出路做了深刻的思考。
-		</d1>
-		<d2 title="白鹿原同名电影">
-			改编自同名文学巨著的电影《白鹿原》是一次立足于人与土地的民族史诗。在白鹿原这片古老的黄土地上，清帝退位带来的不仅是剪辫子、放大脚和中华民国，还有漫天风雪中抗争过重纳粮如同火龙一般的队伍，在军阀混战的暴力征粮下，白鹿原人宁可将已经成熟的麦海付之一炬，将一年的收成还给老天，而当共产党人在白鹿原上掀起一场场农会风搅雪时，被铡掉的不仅仅是贪官劣绅的头颅，还有人们对祠堂族规的敬畏之心。抗日胜利后，在解放军的前进炮火中，白鹿原将迎来一次翻天覆地的新生。
-			《白鹿原》是一次透析国人心灵与欲望裂变的精神史诗。它是白鹿村族长白嘉轩困顿磨难中秉承一生的仁义守己，是族长继承人白孝文被教化压抑后的放浪形骸，是长工鹿三的铮铮铁骨和卑微认命，是其子黑娃对低贱人生的愤怒不甘，是乡绅鹿子霖追逐权益的放纵奉迎，是其子鹿兆鹏把握命运的自觉革命，而让天下所有男人乱性的田小娥，既勇敢地追求天下所有女人最基本的幸福，又不得不在生存的压迫下委身于一个又一个男人，直至悲剧的来临。
-		</d2>
-	</record>
+		<query>Harry Potter and the Philosopher's Stone</query>
+		<desicription url="https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone">
+			Harry Potter and the Philosopher's Stone is the first novel in the Harry Potter series and J. K. Rowling's debut novel, first published in 1997 by Bloomsbury. It was published in the United States as Harry Potter and the Sorcerer's Stone by Scholastic Corporation in 1998. The plot follows Harry Potter, a young wizard who discovers his magical heritage as he makes close friends and a few enemies in his first year at the Hogwarts School of Witchcraft and Wizardry. With the help of his friends, Harry faces an attempted comeback by the dark wizard Lord Voldemort, who killed Harry's parents, but failed to kill Harry when he was just a year old.
 
+			The novel won most of the British book awards that were judged by children and other awards in the US. The book reached the top of the New York Times list of best-selling fiction in August 1999 and stayed near the top of that list for much of 1999 and 2000. It has been translated into several other languages and has been made into a feature-length film of the same name.
+
+			Most reviews were very favourable, commenting on Rowling's imagination, humour, simple, direct style and clever plot construction, although a few complained that the final chapters seemed rushed. The writing has been compared to that of Jane Austen, one of Rowling's favourite authors, or Roald Dahl, whose works dominated children's stories before the appearance of Harry Potter, and of the Ancient Greek story-teller Homer. While some commentators thought the book looked backwards to Victorian and Edwardian boarding school stories, others thought it placed the genre firmly in the modern world by featuring contemporary ethical and social issues.
+
+			Harry Potter and the Philosopher's Stone, along with the rest of the Harry Potter series, has been attacked by several religious groups and banned in some countries because of accusations that the novels promote witchcraft, but other religious commentators have written that the book exemplifies important viewpoints, including the power of self-sacrifice and the ways in which people's decisions shape their personalities. The series has been used as a source of object lessons in educational techniques, sociological analysis and marketing.
+		
+		</desicription>
+		
+		<d1 title="Harry Potter and the Philosopher's Stone (video game)" url="https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)">
+			Harry Potter and the Philosopher's Stone (known as Harry Potter and the Sorcerer's Stone in the United States) is an Electronic Arts multi-platform action-adventure with heavy platformer elements video game developed by KnowWonder, Warthog, Griptonite, Argonaut, Eurocom and Westlake Interactive.[1][2][3][4][5][6] It is based on J.K Rowling's novel of the same name and the film adaptation. Philosopher's Stone was initially developed for the PlayStation, Microsoft Windows, Game Boy Color, Game Boy Advance and Mac OS X, and was re-made two years later for the PlayStation 2, Xbox and Nintendo GameCube.[7]
+
+			The first version of the game was released on 15 November 2001 in North America, in Australia and Europe on 16 November and in Japan on 1 December 2001. The second version was released in North America on 9 December 2003, in Japan on 11 December and in Australia and Europe on 12 December.[8][9]
+
+			The story follows protagonist Harry Potter, who discovers he is a wizard, and is sent to Hogwarts School of Witchcraft and Wizardry where he makes friends and receives magical training, and along with his friends stop Lord Voldemort from returning to power. The game received mixed reviews. Critics commented on the game's simple gameplay and its poor graphics (2003 versions)[10][11] while others said the game's license would be the only thing to draw in fans
+		</d1>
+		<d2 title="Harry Potter and the Philosopher's Stone (film)" url="https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)">
+			Harry Potter and the Philosopher's Stone (released in some territories with the alternative subtitle the Sorcerer's Stone)[3] is a 2001 fantasy film directed by Chris Columbus and distributed by Warner Bros. Pictures.[2] It is based on the novel of the same name by J. K. Rowling. The film, which is the first instalment in the Harry Potter film series, was written by Steve Kloves and produced by David Heyman. The story follows Harry Potter's first year at Hogwarts as he discovers that he is a famous wizard and begins his magical education.
+
+			The film stars Daniel Radcliffe as Harry Potter, with Rupert Grint as Ron Weasley, and Emma Watson as Hermione Granger. It is followed by seven sequels in total, beginning with Harry Potter and the Chamber of Secrets.
+
+			Warner Bros. bought the film rights to the book in 1999 for a reported £1 million. Production began in the United Kingdom in 2000, with Columbus being chosen to create the film from a short list of directors that included Steven Spielberg and Rob Reiner. J. K. Rowling insisted that the entire cast be British or Irish. The film was shot at Leavesden Film Studios and historic buildings around the UK.
+
+			The film was released in the UK and US on 16 November 2001. It received positive critical reception, made more than $970 million at the worldwide box office, and was nominated for many awards, including the Academy Awards for Best Original Score, Best Art Direction and Best Costume Design. As of December 2015, it is the 26th-highest-grossing film of all time and the second-highest-grossing film in the series behind the final film, Harry Potter and the Deathly Hallows 
+		</d2>
+</record>
+
+	
 
 	<record>
 		<id>4</id>
@@ -109,16 +126,19 @@
 		<desicription>
 			Albert Einstein (/ˈaɪnstaɪn/;[3] German: [ˈalbɐrt ˈaɪnʃtaɪn] ( listen); 14 March 1879 – 18 April 1955) was a German-born theoretical physicist. He developed the general theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics).[2][4]:274 Einstein's work is also known for its influence on the philosophy of science.[5][6] Einstein is best known in popular culture for his mass–energy equivalence formula E = mc2 (which has been dubbed "the world's most famous equation").[7] He received the 1921 Nobel Prize in Physics for his "services to theoretical physics", in particular his discovery of the law of the photoelectric effect, a pivotal step in the evolution of quantum theory.[8]
 		</desicription>
-		<d1 title="Theory of relativity">
+		<d1 title="Albert Einstein and the Theory of Relativity"  url="http://csep10.phys.utk.edu/astr161/lect/history/einstein.html">
 			Newton's theory of gravitation was soon accepted without question, and it remained unquestioned until the beginning of this century. Then Albert Einstein shook the foundations of physics with the introduction of his Special Theory of Relativity in 1905, and his General Theory of Relativity in 1915 (Here is an example of a thought experiment in special relativity). The first showed that Newton's Three Laws of Motion were only approximately correct, breaking down when velocities approached that of light. The second showed that Newton's Law of Gravitation was also only approximately correct, breaking down in the presence of very strong gravitational fields.
 			Newton vs. Einstein: Albert's Turn to Kick ButtWe shall consider Relativity in more detail later. Here, we only summarize the differences between Newton's theory of gravitation and the theory of gravitation implied by the General Theory of Relativity. They make essentially identical predictions as long as the strength of the gravitational field is weak, which is our usual experience. However, there are three crucial predictions where the two theories diverge, and thus can be tested with careful experiments.
 			The orientation of Mercury's orbit is found to precess in space over time, as indicated in the adjacent figure (the magnitude of the effect is greatly exaggerated in this figure). This is commonly called the "precession of the perihelion", because it causes the position of the perihelion to move. Only part of this can be accounted for by perturbations in Newton's theory. There is an extra 43 seconds of arc per century in this precession that is predicted by the Theory of General Relativity and observed to occur (a second of arc is 1/3600 of an angular degree). This effect is extremely small, but the measurements are very precise and can detect such small effects very well.
+			<!--
 			Einstein's theory predicts that the direction of light propagation should be changed in a gravitational field, contrary to the Newtonian predictions. Precise observations indicate that Einstein is right, both about the effect and its magnitude. A striking consequence is gravitational lensing.
+			
 			The General Theory of Relativity predicts that light coming from a strong gravitational field should have its wavelength shifted to larger values (what astronomers call a "red shift"), again contary to Newton's theory. Once again, detailed observations indicate such a red shift, and that its magnitude is correctly given by Einstein's theory.The electromagnetic field can have waves in it that carry energy and that we call light. Likewise, the gravitational field can have waves that carry energy and are called gravitational waves. These may be thought of as ripples in the curvature of spacetime that travel at the speed of light.Just as accelerating charges can emit electromagnetic waves, accelerating masses can emit gravitational waves. However gravitational waves are difficult to detect because they are very weak and no conclusive evidence has yet been reported for their direct observation. They have been observed indirectly in the binary pulsar. Because the arrival time of pulses from the pulsar can be measured very precisely, it can be determined that the period of the binary system is gradually decreasing. It is found that the rate of period change (about 75 millionths of a second each year) is what would be expected for energy being lost to gravitational radiation, as predicted by the Theory of General Relativity.The Modern Theory of Gravitation
 			And there is stands to the present day. Our best current theory of gravitation is the General Theory of Relativity. However, only if velocities are comparable to that of light, or gravitational fields are much larger than those encountered on the Earth, do the Relativity theory and Newton's theories differ in their predictions. Under most conditions Newton's three laws and his theory of gravitation are adequate. We shall return to this issue in our subsequent discussion of cosmology.
 			For a more comprehensive introduction to both Special and General Relativity, see the links at Relativity on the WWW, and The Light Cone (An Illuminating Introduction to Relativity), and Albert Einstein Online 
+			-->
 		</d1>
-		<d2 title="Theory of relativity">
+		<d2 title="Theory of relativity" url="https://en.wikipedia.org/wiki/Theory_of_relativity">
 			the theory of relativity, or simply relativity in physics, usually encompasses two theories by Albert Einstein: special relativity and general relativity.[1]
 			Concepts introduced by the theories of relativity include:
 			Measurements of various quantities are relative to the velocities of observers. In particular, space contracts and time dilates.Spacetime: space and time should be considered together and in relation to each other.
@@ -129,80 +149,114 @@
 	</record>
 
 	<record>
-		<id>5</id>
-		<query>转基因对人类有害吗</query>
-		<desicription>
-			转基因食品（英语：Genetically modified food）就是利用现代分子生物技术，将某些生物的基因转移到其他物种中去，改造生物的遗传物质，使其在形状、营养品质、消费品质等方面向人们所需要的目标转变，从而形成的可以直接食用，或者作为加工原料生产的食品[1] 。没有任何报导证实转基因食品对人类有不良影响。广泛的科学共识是：对于食用者，市场上转基因作物的食品没有比常规食品会造成更大风险
-		</desicription>
-		<d1 title="杂交水稻">
-			杂交水稻（hybrid rice）指选用两个在遗传上有一定差异，同时它们的优良性状又能互补的水稻品种，进行杂交，生产具有杂种优势的第一代杂交种，用于生产，这就是杂交水稻。杂种优势是生物界普遍现象，利用杂种优势提高农作物产量和品质是现代农业科学的主要成就之一。
-			杂种优势是生物界的普遍现象，利用杂种优势来提高农作物的产量和品质是现代农业科学的主要成就之一。选用两个在遗传上有一定差异，同时它们的优良性状又能互补的水稻品种，进行杂交，生产具有杂种优势的第一代杂交种，用于生产，这就是杂交水稻。
-			水稻具有明显的杂种优势现象，主要表现在生长旺盛，根系发达，穗大粒多，抗逆性强等方面，因此，利用水稻的杂种优势以大幅度提高水稻产量一直是育种家梦寐以求的愿望。但是，水稻属自花授粉植物，雌雄蕊着生在同一朵颖花里，由于颖花很小，而且每朵花只结一粒种子，因此很难用人工去雄杂交的方法来生产大量的第一代杂变种子，所以长期以来水稻的杂种优势未能得到应用。
+			<id>5</id>
+			<query>Internet public welfare</query>
+			<desicription url="http://www.chinadaily.com.cn/opinion/2015-12/21/content_22758288.htm">
+				At the second World Internet Conference, which was held in Wuzhen, Zhejiang province, 106 Internet organizations including the China Internet Development Foundation, Chinese Culture Institute of the Internet Communication, People.cn, Xinhuanet, and China's top Internet companies such as Alibaba, Tencent and Baidu jointly proposed an initiative for developing Internet public welfare.
+
+				At the forum of Internet Culture and Communication, Ma Li, president of the China Internet Development Foundation, appealed to all sectors of society to make concerted efforts to "make the Internet an ocean of love".
+
+				The Internet public welfare initiative appeals to organizations and individuals to enhance public welfare via the Internet, build an online public welfare platform to launch public welfare activities, encourage everybody to participate in this cause, strengthen information disclosure and integrate forces from all walks of life to promote people's welfare.
+
+				The rapid development and prosperity of the Internet is conducive to public welfare. It offers innovative ways of promoting public welfare, and has become a significant force for it.
+
+				Developing public welfare via the Internet is of great importance to enhance people's well-being, promote the healthy development of Internet industry and enable everyone to share the fruits of Internet development.
 			
-		</d1>
-		<d2 title="外来基因会破坏食物营养成分吗？">
-			转基因大豆与非转基因对照大豆的营养成分具有实质等同性，且能够被正常消化利用。美国于1992年在6个地点、1993年在4个地点，欧盟2005年在5个地点，以及美国和加拿大在2000、2001和2002年连续3年对多种遗传背景的抗草甘膦大豆的营养成分进行分析，发现抗草甘膦大豆与其亲本大豆在主要营养成分（水分、灰分、蛋白、脂肪、纤维、碳水化合物）和抗营养因子（凝集素、植酸、胰蛋白酶抑制剂），以及脂肪酸和氨基酸组成方面含量相当，并且都在参考文献提供的自然变异范围内。
-
+			</desicription>
 			
-		</d2>
-</record>
+			<d1 title="Cyberspace community of shared future" url="http://www.chinadaily.com.cn/opinion/2015-12/17/content_22730596.htm">
+				The theme of the three-day World Internet Conference, which started in Wuzhen, East China's Zhejiang province, on Wednesday, is "An Interconnected World Shared and Governed by All - Building a Cyberspace Community of Shared Future".
 
+				The conference has drawn about 2,000 representatives of international organizations, enterprises, technology groups, governments, and non-governmental organizations from around the world who will exchange ideas on global Internet governance, cyber security, Internet intellectual property rights, sustainable development of the Internet and technological innovation, among other things.
 
+				The Internet has broken visible and invisible global boundaries and has made the international online community a community of shared destiny. The number of Internet users in China is more than 668 million, about half its total population. This has made the Internet an indispensable part of the infrastructure in China, with the Internet economy accounting for 7 percent of the country's overall GDP.
 
-<record>
-		<id>6</id>
-		<query>雾霾</query>
-		<desicription>
-			雾霾，是雾和霾的组合词。雾霾常见于城市。中国不少地区将雾并入霾一起作为灾害性天气现象进行预警预报，统称为“雾霾天气”。雾霾是特定气候条件与人类活动相互作用的结果。高密度人口的经济及社会活动必然会排放大量细颗粒物（PM2.5），一旦排放超过大气循环能力和承载度，细颗粒物浓度将持续积聚，此时如果受静稳天气等影响，极易出现大范围的雾霾。
-		</desicription>
-		<d1 title="雾霾的具体危害">
-			雾气看似温和，里面却含有各种对人体有害的细颗粒、有毒物质达20多种，包括了酸、碱、盐、胺、酚等，以及尘埃、花粉、螨虫、流感病毒、结核杆菌、肺炎球菌等，其含量是普通大气水滴的几十倍。与雾相比，霾对人的身体健康的危害更大。由于霾中细小粉粒状的飘浮颗粒物直径一般在0.01微米以下，可直接通过呼吸系统进入支气管，甚至肺部。所以，霾影响最大的就是人的呼吸系统，造成的疾病主要集中在呼吸道疾病、脑血管疾病、鼻腔炎症等病种上。同时，灰霾天气时，气压降低、空气中可吸入颗粒物骤增、空气流动性差，有害细菌和病毒向周围扩散的速度变慢，导致空气中病毒浓度增高，疾病传播的风险很高。
-			2014年2月20-26日，持续7天的重度雾霾天气更是北京市数年来持续时间最长、空气质量最严重的一次。部分站点PM2.5小时浓度超过每立方米550微克，达到空气质量指数AQI评价的浓度上限，即所谓的“爆表”。国外对此空气的评价是，“有毒！”
-			美国环保署2009年发布《关于空气颗粒物综合科学评估报告》指出，有足够的科学研究结果证明了大气细粒子能吸附大量有致癌物质和基因毒性诱变物质，给人体健康带来不可忽视的负面影响，包括提高死亡率、使慢性病加剧、使呼吸系统及心脏系统疾病恶化，改变肺功能及结构、影响生殖能力、改变人体的免疫结构等。
-			据北京市卫生局统计，每次出现重度雾霾的天气，来市属各大医院的呼吸科就诊的患者就增加2-5成。更爆出来北京参加国际电影节的法国演员、以《这个凶手不太冷》闻名的让·雷诺被爆因为呼吸道疾病入院治疗，专访也被临时取消。
-			更为严重的是，空气污染还能影响人类的生育和婴幼儿的健康。专家称，在胚胎和婴幼儿时期暴露在高浓度空气污染物的动物，相比较成年时期暴露在污染环境里的群体的生育力有显著下降。
-			国家气候中心气候与气候变化服务室副主任高荣、中国社会科学院城市发展与环境研究所副研究员张莹，在接受媒体采访时表示：“PM2.5级别的空气细粒子包括对婴儿的致畸率和早产率是有着显著的影响。”
+				China is now promoting the "Internet Plus" strategy, in order to strengthen the Internet industry in the next stage.
+
+				The Internet has already made interconnection easier. So, in the future we should focus on promoting shared governance for better interconnectivity. People all over the world should work together to build a humane cyberspace community with a shared future that respects differences and seeks consensus.
+			</d1>
+			<d2 title="Cyber sovereignty" url="http://www.chinadaily.com.cn/opinion/2015-12/18/content_22738714.htm">
+				Chinese President Xi Jinping delivered a keynote speech at the opening ceremony of the 2nd World Internet Conference in Wuzhen, Zhejiang province in East China, on Wednesday. In his speech, Xi stressed respecting cyberspace sovereignty, maintaining peace and security in cyberspace, and promoting open cooperation and good order.
+
+				The concept of "cyberspace sovereignty" is of great importance in Internet global governance. Every country should have the right to create its own Internet governance model and its cyber sovereignty should be respected. China firmly opposes Internet hegemony, foreign interference in internal affairs, and online incitement that could threaten national security.
+
+				The Internet is not beyond the law and it should be ruled in accordance with a country's laws and regulations. There are certain common principles in cyberspace that all countries should follow to assure win-win outcomes. However, each country is unique and Internet governance models will reflect this.
+
+				Although currently China has the largest Internet population globally, it is still a latecomer in cyberspace. Thus there is much space and potential for China to develop its Internet industry and improve management of its cyber realm. The Chinese government and IT companies will make great efforts to fight against online rumors, pornography, gambling, and other cyber crimes to protect citizens' rights and interests.
+			</d2>
+	</record>
+
+	<record>
+			<id>6</id>
+			<query>Urbanization</query>
+			<desicription url="http://www.chinadaily.com.cn/opinion/2015-12/16/content_22723019.htm">
+				Urbanization is a population shift from rural to urban areas, "the gradual increase in the proportion of people living in urban areas", and the ways in which each society adapts to the change.[1] It is predominantly the process by which towns and cities are formed and become larger as more people begin living and working in central areas.[2] The United Nations projected that half of the world's population would live in urban areas at the end of 2008.[3] It is predicted that by 2050 about 64% of the developing world and 86% of the developed world will be urbanized.[4] That is equivalent to approximately 3 billion urbanites by 2050, much of which will occur in Africa and Asia.[5] Notably, the United Nations has also recently projected that nearly all global population growth from 2015 to 2030 will be absorbed by cities, about 1.1 billion new urbanites over the next 15 years
+							
+			</desicription>
 			
-		</d1>
-		<d2 title="大气污染的主要危害">
-			大气污染的危害主要有以下几个方面
-			1.危害人体
-			大气污染物对人体的危害是多方面的，主要表现是呼吸道疾病与生理机能障碍，以及眼鼻等粘膜组织受到刺激而患病。
-			大气中污染物的浓度很高时，会造成急性污染中毒，或使病状恶化，甚至在几天内夺去几千人的生命。其实，即使大气中污染物浓度不高，但人体成年累月呼吸这种污染了的空气，也会引起慢性支气管炎、支气管哮喘、肺气肿及肺癌等疾病。
-			2.对植物的危害
-			大气污染物，尤其是二氧化硫、氟化物等对植物的危害是十[2]  分严重的。当污染物浓度很高时，会对植物产生急性危害，使植物叶表面产生伤斑，或者直接使叶枯萎脱落；当污染物浓度不高时，会对植物产生慢性危害，使植物叶片褪绿，或者表面上看不见什么危害症状，但植物的生理机能已受到了影响，造成植物产量下降，品质变坏。
-			3.影响气候
-			人们认为在有可能引起气候变化的各种大气污染物质中，二氧化碳具有重大的作用。从地球上无数烟囱和其他种种废气管道排放到大气中的大量二氧化碳，约有50%留在大气里。二氧化碳能吸收来自地面的长波辐射，使近地面层空气温度增高，这叫做"温室效应"。经粗略估算，如果大气中二氧化碳含量增加25%，近地面气温可以增加0.5～2℃。如果增加100%，近地面温度可以增高1.5～6℃。有的专家认为，大气中的二氧化碳含量照2000年以后的速度增加下去，会使得南北极的冰融化加速，导致全球的气候异常。
+			<d1 title="Participatory poverty-reduction" url="http://www.chinadaily.com.cn/opinion/2015-12/10/content_22677975.htm">
+				The 2014 auditing report of southwest China's Guizhou province shows that 796 million yuan ($123 million) of its poverty reduction fund was left unused for over half a year, and 192 million yuan was left unused for longer than two years.
+
+				In a recent conference on poverty reduction work, the central leadership called for the hundreds of billions of yuan spent annually on reducing poverty to be used more efficiently; so it is used where needed.
+
+				It has been proposed that allowing poverty-stricken families to have a bigger say in how the money intended to benefit them is used. Currently it is bureaucrats at various levels that decide the distribution of funds, such as which program it is used for, while the voices of those needing help are ignored.
+
+				Since 2006, some Chinese institutions have been working with the World Bank in adopting the community-dominated development approach to poverty reduction in some regions. Residents hold meetings to decide on the merits of programs, whether the benefits are worth the cost, and whether to accept them. As a result, the cost of many programs is only one-third of those run by governments without people's participation, which saves a lot of money to better help the poor.
+
+				Also, by allowing poor residents a bigger say in how poverty reduction funds are used will bring their distribution and management out from behind closed doors, which will help prevent their misappropriation and embezzlement.
+				
+			</d1>
+			<d2 title="Grabbing train tickets for the Spring Festival rush" url="http://www.chinadaily.com.cn/opinion/2015-12/09/content_22667330.htm">
+				As the annual Spring Festival approaches, people who work far away from home are turning their thoughts to going back for the weeklong holiday. It is estimated that people will make 2 billion or more trips during the Spring Festival period, of which, it is predicted, 320 million will be made by train.
+
+				Every year, the demand for train tickets to travel around the beginning and end of the seven-day national holiday soars. The railway authorities respond by maximizing the frequency and capacity of trains during the period. In order to allow and encourage people to make their plans earlier, the railway authorities are allowing passengers to purchase tickets for ordinary trains 58 days in advance and for temporary trains 40 days in advance during the holiday period.
+
+				This means on Thursday, people will be able to buy a ticket online for Feb 7, Spring Festival Eve, the peak day for travel.
+
+				Because of the fierce competition for tickets, software has been developed and used in previous years to gain an advantage in buying tickets. So in order to make the process fairer, the ticketing website now blocks such software from purchasing tickets by using complicated pictures as a means of human user verification.
+			</d2>
+	</record>
+
+	<record>
+			<id>7</id>
+			<query>Innovation driven</query>
+			<desicription url="http://www.chinadaily.com.cn/opinion/2015-11/25/content_22516488.htm">
+				Deepening the implementation of innovation-driven development is among proposals in the 13th Five-Year Plan (2016-20).
+
+				To achieve innovation-driven development, technological innovation should come first among local priorities. The country will prioritize the advancement of technological innovation that is the strategic support for improving social productivity and comprehensive national strength.
+
+				Promoting innovation-driven development through technology is necessary under China's current conditions. Since reform and opening-up in the late 1970s, China's economy has developed rapidly. However, the demographic dividend is gradually disappearing, and the pressures on the resources and environment have become increasingly obvious. Therefore, China needs to promote development that is driven by technology and innovation in the future.
+
+				This requires an innovation-friendly environment. Governments at all levels should improve their function and operation through systematic reform, and provide more services and favorable policies to promote innovation-driven development.
+
+				Moreover, technological innovation is an economic process, and the major producer of technological innovation and economic activities is enterprises. Whether enterprises are able to play a leading role in technological innovation will determine how successful the innovation-driven strategy will be to a large extent.
 			
-		</d2>
-</record>
+			</desicription>
+			
+			<d1 title="Sharing economy" url="http://www.chinadaily.com.cn/opinion/2015-11/12/content_22436044.htm">
+				A sharing economy is a phrase included in the communique of the Fifth Plenary Session of the 18th Communist Party of China Central Committee. It refers to a peer-to-peer social economic system built around the sharing of human and physical resources. It includes the shared creation, production, distribution, trade and consumption of goods and services by different people and organizations, and offers benefits to all parties involved.
 
+				The core value of a sharing economy, in the words of Airbnb CEO Brian Chesky, is "access not ownership".
 
+				Information technology, especially the Internet, enables a sharing economy to provide individuals and organizations with necessary information that leads to the optimization of resources.
 
+				Nowadays a sharing economy is becoming popular in many countries, because it is more environmentally friendly and helps improve the efficiency and harmony of a society.
 
-<record>
-		<id>7</id>
-		<query>恐怖袭击</query>
-		<desicription>
-			极端分子人为制造的针对但不仅限于平民及民用设施的不符合国际道义的攻击方式。恐怖袭击从20世纪九十年代以来，有在全球范围内迅速蔓延的严峻趋势。极端分子使用的手段也由最初的纯粹军事打击演化到绑架、残杀平民、自杀爆炸等等骇人的行动。而遭受恐怖袭击的国家或地区主要是北约组织成员国和军事同盟地区以及受他们军事打击的国家或地区。伊拉克首都巴格达每天都有恐怖袭击发生，发生在美国本土的911事件则是震惊全球的世界上最惨烈的恐怖袭击。因此从本世纪初开始，以美国为主的军事大国开始强调全球反恐联盟以力求打击恐怖主义的嚣张蔓延
-		</desicription>
-		<d1 title="巴黎袭击事件">
-			2015年11月巴黎袭击事件（法语：Attentats du 13 novembre 2015 en Île-de-France）是2015年11月13日与14日凌晨发生于法国巴黎及其北郊圣但尼的连续恐怖袭击事件。袭击事件共造成130人遇难[7]，368人受伤[8]，80-99人重伤[9][10]。其中巴塔克兰剧院的观众被恐怖分子挟持为人质，造成89人遇难[11]。另有7名袭击者死亡，法国政府正继续追查帮凶[12]。
+				Car and home rental services are the pioneers of a sharing economy in China, but now the new economic model is being applied to many fields, especially in the service industry.
 
-			袭击事件始于欧洲中部时间11月13日21时20分，3名自杀式炸弹袭击者袭击了位于圣但尼的法兰西体育场附近，随后巴黎的咖啡馆、餐馆及音乐场所发生自杀式炸弹袭击和大规模枪击[13]。恐怖组织伊斯兰国（IS）宣布对此事件负责[14][15]，并称这是为了报复法国在叙利亚和伊拉克对IS目标的空袭[16][17]。法国总统弗朗索瓦·奥朗德称这次袭击系IS组织策划于叙利亚、组织于比利时并与其法国同谋实施的战争行为[18][19][20][21]。
+				The communique proposes developing the sharing economy over the next five years, which has raised building up a sharing economy to a national strategy. It is expected that the sharing economy will give new impetus to China's economic transition.
+			</d1>
+			<d2 title="New open economic system" url="http://www.chinadaily.com.cn/opinion/2015-10/30/content_22313352.htm">
+				President Xi Jinping has reportedly introduced China's 13th Five-Year Plan (2016-20) several times to foreign leaders since March, and a new open economic system is one of the plan's key phrases.
 
-			为应对恐怖袭击，奥朗德宣布法国全国进入紧急状态[19]，并实施临时边境管控[22]。11月15日，法国对叙利亚境内的伊斯兰国据点拉卡发动空袭，此为夏马风行动史上最大的一次行动[23]。11月18日，恐怖袭击主谋阿卜杜勒-哈米德·阿巴乌德与其他至少两名嫌犯在警方的圣但尼突袭中死亡
-		</d1>
-		<d2 title="加州枪击事件">
-			路透加州圣贝纳迪诺市12月2日 - 美国当局表示，加州圣贝纳迪诺市一社会服务机构周三在举行假日派对时遭遇枪击，有14人死亡，另有17人受伤，枪手随后逃逸。
+				At the China-US Governors Forum this September, the president said that China will make efforts to facilitate a new round of high-level opening-up to the outside world, and accelerate the process of establishing a new open economic system.
 
-			圣贝纳迪诺警方报告称，在对多达三名嫌犯进行密集搜捕时，一名“嫌疑人”在与警方的交火中被击中，但警方未立即证实此人是否与枪击案有关。
+				In this respect, China is encouraging some regions with good conditions to launch pilot programs first. For instance, China has already established pilot free trade zones in Shanghai, Tianjin, and Guangdong and Fujian provinces, which have adopted the pre-establishment national treatment and negative-list management. And Beijing is piloting programs in the fields of finance, tourism and healthcare, among others.
 
-			美国联邦调查局(FBI)称尚不知道此次枪击事件是否为恐怖袭击。
+				The government will take effective measures to propel coordinated development among different regions as well as between urban and rural areas. It will accelerate the realization of the Belt and Road Initiative to build a platform for domestic regions to expand foreign cooperation. For example, the Xinjiang Uygur autonomous region will be a core area of the Silk Road Economic Belt, and Yunnan province will be the bridge tower of the Belt and Road Initiative in Southwest China.
+			</d2>
+	</record>
 
-			枪击事件发生在洛杉矶以东100公里的社会服务区域中心(Inland Regional Center)，为2012年12月康涅狄格州桑迪胡克小学校园血案以来伤亡最严重的枪支暴力案件。当年的案件造成包括枪手在内共计27人死亡。(完)
-		</d2>
-</record>
 <record>
 		<id>8</id>
 		<query>NoSQL Database</query>
@@ -210,12 +264,12 @@
 			A NoSQL (originally referring to "non SQL" or "non relational" ) database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. Such databases have existed since the late 1960s, but did not obtain the "NoSQL" moniker until a surge of popularity in the early twenty-first century, triggered by the needs of Web 2.0 companies such as Facebook, Google and Amazon.com.
 			Motivations for this approach include: simplicity of design, simpler "horizontal" scaling to clusters of machines, which is a problem for relational databases,[2] and finer control over availability. The data structures used by NoSQL databases (e.g. key-value, wide column, graph, or document) differ slightly from those used by default in relational databases, making some operations faster in NoSQL and others faster in relational databases. The particular suitability of a given NoSQL database depends on the problem it must solve. Sometimes the data structures used by NoSQL databases are also viewed as "more flexible" than relational database tables.
 		</desicription>
-		<d1    title="database and DBMS">
+		<d1    title="Database and DBMS" url="https://en.wikipedia.org/wiki/Database">
 			A database is an organized collection of data.[1] It is the collection of schemas, tables, queries, reports, views and other objects. The data is typically organized to model aspects of reality in a way that supports processes requiring information, such as modelling the availability of rooms in hotels in a way that supports finding a hotel with vacancies.
 			A database management system (DBMS) is a computer software application that interacts with the user, other applications, and the database itself to capture and analyze data. A general-purpose DBMS is designed to allow the definition, creation, querying, update, and administration of databases. Well-known DBMSs include MySQL, PostgreSQL, Microsoft SQL Server, Oracle, Sybase and IBM DB2. A database is not generally portable across different DBMSs, but different DBMS can interoperate by using standards such as SQL and ODBC or JDBC to allow a single application to work with more than one DBMS. Database management systems are often classified according to the database model that they support; the most popular database systems since the 1980s have all supported the relational model as represented by the SQL language.[disputed – discuss] Sometimes a DBMS is loosely referred to as a 'database'.
 
 		</d1>
-		<d2  title="mangodb">
+		<d2  title="Mongodb" url="https://en.wikipedia.org/wiki/MongoDB">
 			MongoDB (from humongous) is a cross-platform document-oriented database. Classified as a NoSQL database, MongoDB eschews the traditional table-based relational database structure in favor of JSON-like documents with dynamic schemas (MongoDB calls the format BSON), making the integration of data in certain types of applications easier and faster. Released under a combination of the GNU Affero General Public License and the Apache License, MongoDB is free and open-source software.
 			First developed by the software company MongoDB Inc. in October 2007 as a component of a planned platform as a service product, the company shifted to an open source development model in 2009, with MongoDB offering commercial support and other services.[2] Since then, MongoDB has been adopted as backend software by a number of major websites and services, including Craigslist, eBay, and Foursquare among others. As of July 2015, MongoDB is the fourth most popular type of database management system, and the most popular for document stores.
 			
@@ -230,18 +284,18 @@
 
 			Machine learning is closely related to computational statistics; a discipline that aims at the design of algorithm for implementing statistical methods on computers. It has strong ties to mathematical optimization, which delivers methods, theory and application domains to the field. Machine learning is employed in a range of computing tasks where designing and programming explicit algorithms is infeasible. Example applications include spam filtering, optical character recognition (OCR),[4] search engines and computer vision. Machine learning is sometimes conflated with data mining,[5] although that focuses more on exploratory data analysis.[6] Machine learning and pattern recognition "can be viewed as two facets of the same field."[3]:vii
 		</desicription>
-		<d1 title="Artificial intelligence">
+		<d1 title="Artificial intelligence" url="https://en.wikipedia.org/wiki/Artificial_intelligence">
 			Artificial intelligence (AI) is the intelligence exhibited by machines or software. It is also the name of the academic field of study which studies how to create computers and computer software that are capable of intelligent behavior. Major AI researchers and textbooks define this field as "the study and design of intelligent agents",[1] in which an intelligent agent is a system that perceives its environment and takes actions that maximize its chances of success.[2] John McCarthy, who coined the term in 1955,[3] defines it as "the science and engineering of making intelligent machines".[4]
 			The central problems (or goals) of AI research include reasoning, knowledge, planning, learning, natural language processing (communication), perception and the ability to move and manipulate objects.[6] General intelligence is still among the field's long-term goals.[7] Currently popular approaches include statistical methods, computational intelligence and traditional symbolic AI. There are a large number of tools used in AI, including versions of search and mathematical optimization, logic, methods based on probability and economics, and many others. The AI field is interdisciplinary, in which a number of sciences and professions converge, including computer science, mathematics, psychology, linguistics, philosophy and neuroscience, as well as other specialized fields such as artificial psychology.
 			
 			
 		</d1>
-		<d2  title="Pattern recognition">
+		<d2  title="Pattern recognition" url="https://en.wikipedia.org/wiki/Pattern_recognition">
 			Pattern recognition is a branch of machine learning that focuses on the recognition of patterns and regularities in data, although it is in some cases considered to be nearly synonymous with machine learning.[1] Pattern recognition systems are in many cases trained from labeled "training" data (supervised learning), but when no labeled data are available other algorithms can be used to discover previously unknown patterns (unsupervised learning).
 
 			The terms pattern recognition, machine learning, data mining and knowledge discovery in databases (KDD) are hard to separate, as they largely overlap in their scope. Machine learning is the common term for supervised learning methods[dubious – discuss] and originates from artificial intelligence, whereas KDD and data mining have a larger focus on unsupervised methods and stronger connection to business use. Pattern recognition has its origins in engineering, and the term is popular in the context of computer vision: a leading computer vision conference is named Conference on Computer Vision and Pattern Recognition. In pattern recognition, there may be a higher interest to formalize, explain and visualize the pattern, while machine learning traditionally focuses on maximizing the recognition rates. Yet, all of these domains have evolved substantially from their roots in artificial intelligence, engineering and statistics, and they've become increasingly similar by integrating developments and ideas from each other.
 
-			In machine learning, pattern recognition is the assignment of a label to a given input value. In statistics, discriminant analysis was introduced for this same purpose in 1936. An example of pattern recognition is classification, which attempts to assign each input value to one of a given set of classes (for example, determine whether a given email is "spam" or "non-spam"). However, pattern recognition is a more general problem that encompasses other types of output as well. Other examples are regression, which assigns a real-valued output to each input; sequence labeling, which assigns a class to each member of a sequence of values (for example, part of speech tagging, which assigns a part of speech to each word in an input sentence); and parsing, which assigns a parse tree to an input sentence, describing the syntactic structure of the sentence.[citation needed]
+			In machine learning, pattern recognition is the assignment of a label to a given input value. In statistics, discriminant analysis was introduced for this same purpose in 1936. An example of pattern recognition is classification, which attempts to assign each input value to one of a given set of classes (for example, determine whether a given email is "spam" or "non-spam"). However, pattern recognition is a more general problem that encompasses other types of output as well. Other examples are regression, which assigns a real-valued output to each input; sequence labeling, which assigns a class to each member of a sequence of values (for example, part of speech tagging, which assigns a part of speech to each word in an input sentence); and parsing, which assigns a parse tree to an input sentence, describing the syntactic structure of the sentence.
 		</d2>
 </record>
 
@@ -253,13 +307,13 @@
 
 			The President of the United States is considered one of the world's most powerful people.[8][9][10][11] The role includes being the commander-in-chief of the world's most expensive military with the largest nuclear arsenal and leading the nation having the largest economy by real and nominal GDP, described as the world's only contemporary superpower. The office of the president holds significant hard and soft power both in the United States and abroad.
 		</desicription>
-		<d1 title="Barack Obama">
+		<d1 title="Barack Obama" url="https://en.wikipedia.org/wiki/Barack_Obama">
 			Barack Hussein Obama II (US Listeni/bəˈrɑːk huːˈseɪn ɵˈbɑːmə/; born August 4, 1961) is the 44th and current President of the United States, as well as the first African American to hold the office. Born in Honolulu, Hawaii, Obama is a graduate of Columbia University and Harvard Law School, where he served as president of the Harvard Law Review. He was a community organizer in Chicago before earning his law degree. He worked as a civil rights attorney and taught constitutional law at University of Chicago Law School between 1992 and 2004. He served three terms representing the 13th District in the Illinois Senate from 1997 to 2004, running unsuccessfully for the United States House of Representatives in 2000 against Bobby Rush.
 
 			In 2004, Obama received national attention during his campaign to represent Illinois in the United States Senate with his victory in the March Democratic Party primary, his keynote address at the Democratic National Convention in July, and his election to the Senate in November. He began his presidential campaign in 2007 and, after a close primary campaign against Hillary Rodham Clinton in 2008, he won sufficient delegates in the Democratic Party primaries to receive the presidential nomination. He then defeated Republican nominee John McCain in the general election, and was inaugurated as president on January 20, 2009. Nine months after his inauguration, Obama was named the 2009 Nobel Peace Prize laureate.
 			
 		</d1>
-		<d2 title="The separation of powers">
+		<d2 title="The separation of powers" url="https://en.wikipedia.org/wiki/Separation_of_powers">
 			The separation of powers, often imprecisely used interchangeably with the trias politica principle,[1] is a model for the governance of a state (or who controls the state). The model was first developed in Congress. Under this model, the state is divided into branches, each with separate and independent powers and areas of responsibility so that the powers of one branch are not in conflict with the powers associated with the other branches. The typical division of branches is into a legislature, an executive, and a judiciary. It can be contrasted with the fusion of powers in a parliamentary system where the executive and legislature (and sometimes parts of the judiciary) are unified.
 			To prevent one branch from becoming supreme, protect the "opulent minority" from the majority, and to induce the branches to cooperate, government systems that employ a separation of powers need a way to balance each of the branches. Typically this was accomplished through a system of "checks and balances", the origin of which, like separation of powers itself, is specifically credited to Montesquieu. Checks and balances allow for a system-based regulation that allows one branch to limit another, such as the power of the United States Congress to alter the composition and jurisdiction of the federal courts. Both bipartite and tripartite governmental systems apply the principles of the separation of powers to allow for the branches represented by the separate powers to hold each other reciprocally responsible to the assertion of powers as apportioned by law. The following example of the separation of powers and their mutual checks and balances for the experience of the United States Constitution is presented as illustrative of the general principles applied in similar forms of government as well.
 		</d2>
@@ -272,12 +326,12 @@
 		<desicription>
 			The ACM A.M. Turing Award is an annual prize given by the Association for Computing Machinery (ACM) to "an individual selected for contributions of a technical nature made to the computing community". It is stipulated that "The contributions should be of lasting and major technical importance to the computer field".[2] The Turing Award is generally recognized as the highest distinction in computer science[3][4] and the "Nobel Prize of computing".
 		</desicription>
-		<d1 title="Andrew Chi-Chih Yao">			
+		<d1 title="Andrew Chi-Chih Yao" url="https://en.wikipedia.org/wiki/Andrew_Yao">			
 			Andrew Chi-Chih Yao (Chinese: 姚期智; pinyin: Yáo Qīzhì) is a Chinese American computer scientist and computational theorist. Yao used the minimax theorem to prove what is now known as Yao's Principle.
 			In 1996 he was awarded the Knuth Prize. He received the Turing Award, the most prestigious award in computer science, in 2000, "in recognition of his fundamental contributions to the theory of computation, including the complexity-based theory of pseudorandom number generation, cryptography, and communication complexity".
 			From 1982 to 1986, he was a full professor at Stanford University. From 1986 to 2004, he was the William and Edna Macaleer Professor of Engineering and Applied Science at Princeton University, where he continued to work on algorithms and complexity. In 2004, he became a Professor of the Center for Advanced Study, Tsinghua University (CASTU) and the director of the Institute for Theoretical Computer Science (ITCS), Tsinghua University in Beijing. Since 2010, he has served as the dean of Institute for Interdisciplinary Information Sciences (IIIS) in Tsinghua University. He is also the Distinguished Professor-at-Large in the Chinese University of Hong Kong.
 		</d1>
-		<d2 title="Alan Turing">
+		<d2 title="Alan Turing" url="https://en.wikipedia.org/wiki/Alan_Turing">
 			
 			Alan Mathison Turing, OBE, FRS (/ˈtjʊərɪŋ/; 23 June 1912 – 7 June 1954) was a British pioneering computer scientist, mathematician, logician, cryptanalyst and theoretical biologist. He was highly influential in the development of computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine, which can be considered a model of a general purpose computer.[2][3][4] Turing is widely considered to be the father of theoretical computer science and artificial intelligence.[5]
 
@@ -295,7 +349,7 @@
 		<desicription>
 			Deep learning (deep machine learning, or deep structured learning, or hierarchical learning, or sometimes DL) is a branch of machine learning based on a set of algorithms that attempt to model high-level abstractions in data by using multiple processing layers with complex structures, or otherwise composed of multiple non-linear transformations
 		</desicription>
-		<d1 title="Deep belief network">
+		<d1 title="Deep belief network" url="https://en.wikipedia.org/wiki/Deep_belief_network">
 			In machine learning, a deep belief network (DBN) is a generative graphical model, or alternatively a type of deep neural network, composed of multiple layers of latent variables ("hidden units"), with connections between the layers but not between units within each layer.[1]
 			Schematic overview of a deep belief net. Arrows represent directed connections in the graphical model that the net represents.
 			When trained on a set of examples in an unsupervised way, a DBN can learn to probabilistically reconstruct its inputs. The layers then act as feature detectors on inputs.[1] After this learning step, a DBN can be further trained in a supervised way to perform classification.[2]
@@ -303,7 +357,7 @@
 			The observation, due to Yee-Whye Teh, Geoffrey Hinton's student,[2] that DBNs can be trained greedily, one layer at a time, has been called a breakthrough in deep learning.
 			
 		</d1>
-		<d2 title="convolutional neural network">
+		<d2 title="convolutional neural network" url="https://en.wikipedia.org/wiki/Convolutional_neural_network">
 			In machine learning, a convolutional neural network (CNN, or ConvNet) is a type of feed-forward artificial neural network where the individual neurons are tiled in such a way that they respond to overlapping regions in the visual field.[1] Convolutional networks were inspired by biological processes[2] and are variations of multilayer perceptrons designed to use minimal amounts of preprocessing.[3] They have wide applications in image and video recognition.
 			When used for image recognition, convolutional neural networks (CNNs) consist of multiple layers of small neuron collections which look at small portions of the input image, called receptive fields. The results of these collections are then tiled so that they overlap to obtain a better representation of the original image; this is repeated for every such layer. Because of this, they are able to tolerate translation of the input image.[4] Convolutional networks may include local or global pooling layers, which combine the outputs of neuron clusters.[5][6] They also consist of various combinations of convolutional layers and fully connected layers, with pointwise nonlinearity applied at the end of or after each layer.[7] It is inspired by biological processes. To avoid the situation that there exist billions of parameters if all layers are fully connected, the idea of using a convolution operation on small regions has been introduced. One major advantage of convolutional networks is the use of shared weight in convolutional layers, which means that the same filter (weights bank) is used for each pixel in the layer; this both reduces required memory size and improves performance.[3]
 		</d2>
@@ -318,27 +372,252 @@
 			The Semantic Web is an extension of the Web through standards by the World Wide Web Consortium (W3C).[1] The standards promote common data formats and exchange protocols on the Web, most fundamentally the Resource Description Framework (RDF).
 			According to the W3C, "The Semantic Web provides a common framework that allows data to be shared and reused across application, enterprise, and community boundaries".[2] The term was coined by Tim Berners-Lee for a web of data that can be processed by machines.[3] While its critics have questioned its feasibility, proponents argue that applications in industry, biology and human sciences research have already proven the validity of the original concept.
 		</desicription>
-		<d1 title="theology">
+		<d1 title="theology" url="https://en.wikipedia.org/wiki/Theology">
 			Augustine of Hippo defined the Latin equivalent, theologia, as "reasoning or discussion concerning the Deity";[2] Richard Hooker defined "theology" in English as "the science of things divine".[3] The term can, however, be used for a variety of different disciplines or fields of study.[4] Theologians use various forms of analysis and argument (philosophical, ethnographic, historical, spiritual and others) to help understand, explain, test, critique, defend or promote any of myriad religious topics. Theology might be undertaken to help the theologian:
-			understand more truly their own religious tradition,[5]
-			understand more truly another religious tradition,[6]
-			make comparisons among religious traditions,[7]
-			defend or justify a religious tradition,
-			facilitate reform of a particular tradition,[8]
-			assist in the propagation of a religious tradition,[9] or
-			draw on the resources of a tradition to address some present situation or need,[10]
-			draw on the resources of a tradition to explore possible ways of interpreting the world,[11] or
-			explore the nature of divinity without reference to any specific tradition.
-			challenge (ex. biblical criticism) or oppose (ex. irreligion) a religious tradition or the religious world-view.
+			1.understand more truly their own religious tradition,[5]
+			2.understand more truly another religious tradition,[6]
+			3.make comparisons among religious traditions,[7]
+			4.defend or justify a religious tradition,
+			5.facilitate reform of a particular tradition,[8]
+			6.assist in the propagation of a religious tradition,[9] or
+			7.draw on the resources of a tradition to address some present situation or need,[10]
+			8.draw on the resources of a tradition to explore possible ways of interpreting the world,[11] or
+			9.explore the nature of divinity without reference to any specific tradition.
+			10.challenge (ex. biblical criticism) or oppose (ex. irreligion) a religious tradition or the religious world-view.
 
 			
 		</d1>
-		<d2 title="ontology">
+		<d2 title="ontology" url="https://en.wikipedia.org/wiki/Ontology">
 			Ontology is the philosophical study of the nature of being, becoming, existence, or reality, as well as the basic categories of being and their relations. Traditionally listed as a part of the major branch of philosophy known as metaphysics, ontology deals with questions concerning what entities exist or may be said to exist, and how such entities may be grouped, related within a hierarchy, and subdivided according to similarities and differences. Although ontology as a philosophical enterprise is highly theoretical, it also has practical application in information science and technology, such as ontology engineering.
 			In analytic philosophy, ontology deals with the determination whether categories of being are fundamental and discusses in what sense the items in those categories may be said to "be". It is the inquiry into being in so much as it is being ("being qua being"), or into beings insofar as they exist—and not insofar as (for instance) particular facts may be obtained about them or particular properties belong to them.
 			Some philosophers, notably of the Platonic school, contend that all nouns (including abstract nouns) refer to existent entities. Other philosophers contend that nouns do not always name entities, but that some provide a kind of shorthand for reference to a collection of either objects or events. In this latter view, mind, instead of referring to an entity, refers to a collection of mental events experienced by a person; society refers to a collection of persons with some shared characteristics, and geometry refers to a collection of a specific kind of intellectual activity.[1] Between these poles of realism and nominalism, stand a variety of other positions; but any ontology must give an account of which words refer to entities, which do not, why, and what categories result.
 		</d2>
 </record>
+<record>
+		<id>14</id>
+		<query>twitter</query>
+		<desicription>
+			Twitter (/ˈtwɪtər/) is an online social networking service that enables users to send and read short 140-character messages called "tweets".
+
+			Registered users can read and post tweets, but those who are unregistered can only read them. Users access Twitter through the website interface SMS or mobile device app.[10] Twitter Inc. is based in San Francisco and has more than 25 offices around the world.
+		</desicription>
+
+		<d1 title="Netflix" url="https://en.wikipedia.org/wiki/Netflix">
+			Netflix Inc. is an American multinational provider of on-demand Internet streaming media available to viewers in all of North and South America, Australia, New Zealand, Japan, and parts of Europe,[5] and of flat rate DVD-by-mail in the United States, where mailed DVDs and Blu-ray are sent via Permit Reply Mail. The company was established in 1997 and is headquartered in Los Gatos, California. It started its subscription-based service in 1999. By 2009, Netflix was offering a collection of 100,000 titles on DVD and had surpassed 10 million subscribers.[6]
+
+			On February 25, 2007, Netflix delivered its billionth DVD.[7] In April 2011, Netflix had over 23 million subscribers in the United States and over 26 million worldwide.[8] By 2011, the total digital revenue for Netflix reached at least $1.5 billion.[9] On October 23, 2012, however, Netflix reported an 88% decline in third-quarter profits.[10] In January 2013, Netflix reported that it had added two million U.S. customers during the fourth quarter of 2012 with a total of 27.1 million U.S. streaming customers, and 29.4 million total streaming customers. In addition, revenue was up 8% to $945 million for the same period.[11]
+
+			As of mid-March 2013, Netflix had 33 million subscribers.[12] That number increased to 36.3 million subscribers (29.2 million in the U.S.) in April 2013.[13] As of September 2013, for that year's third quarter report, Netflix reported its total of global streaming subscribers at 40.4 million (31.2 million in the U.S.).[14] By the fourth quarter of 2013, Netflix reported 33.1 million U.S. subscribers.[15] By September 2014, Netflix had subscribers in over 40 countries, with intentions of expanding their services in unreached countries.[16] As of October 2015, Netflix reported 69.17 million subscribers worldwide, including more than 43 million in the U.S.[17]
+		</d1>
+		<d2 title="Google+" url="https://en.wikipedia.org/wiki/Google%2B">
+			Google+ (pronounced and sometimes written as Google Plus) is an interest-based social network that is owned and operated by Google Inc.
+
+			The service, Google's fourth foray into social networking, experienced strong growth in its initial years, although usage statistics have varied, depending on how the service is defined. Three Google executives have overseen the product, which has undergone substantial changes leading to a redesign in November 2015.
+			Assessments of Google+ growth have varied widely because Google first defined the service as a social network,[4] then later as "a social layer across all of Google's services", allowing them to share a user's identity and interests.[6] According to Ars Technica, Google+ signups were "often just an incidental byproduct of signing up for other Google services."[7][8][9] Consequently, the reported number of active users on Google+ grew significantly, but the average time those users spent on the site was a small fraction of that on comparable social media services.
+
+			In 2011 Google+ reached 10 million users just two weeks after the launch.[10] In a month, it reached 25 million.[11] In October 2011, the service reached 40 million users, according to Larry Page.[12] Based on ComScore, the biggest market was the United States followed by India.[13] By the end of the year Google+ had 90 million users.[14] In October 2013, approximately 540 million monthly active users made use of the social layer by interacting with Google+'s enhanced properties, like Gmail, +1 button, and YouTube comments.[15] Some 300 million monthly active users participated in the social network by interacting with the Google+ social networking stream.[16][17][18]
+			<!--
+			But user engagement on Google+ was low compared with its competitors. ComScore estimated that users averaged just 3.3 minutes on the site in January 2012, versus 7.5 hours for Facebook.[19][20] In March 2013, average time spent on the site remained low: roughly 7 minutes, according to Nielsen, not including traffic via apps.[21] In February 2014, The New York Times likened Google+ to a ghost town, citing Google stats of 540 million "monthly active users", but noting that almost half don't visit the site. The company replied that the significance of Google+ was less as a Facebook competitor than as a means of gathering and connecting user information from Google's various services
+			-->
+		</d2>
+</record>
+
+<record>
+		<id>15</id>
+		<query>Quantum mechanics</query>
+		<desicription  url="https://en.wikipedia.org/wiki/Quantum_mechanics">
+			Quantum mechanics (QM; also known as quantum physics or quantum theory) including quantum field theory, is a fundamental branch of physics concerned with processes involving, for example, atoms and photons. In such processes, said to be quantized, the action has been observed to be only in integer multiples of the Planck constant, a physical quantity that is exceedingly, indeed perhaps ultimately, small. This is utterly inexplicable in classical physics.
+
+			Quantum mechanics gradually arose from Max Planck's solution in 1900 to the black-body radiation problem (reported 1859) and Albert Einstein's 1905 paper which offered a quantum-based theory to explain the photoelectric effect (reported 1887). Early quantum theory was profoundly reconceived in the mid-1920s.
+
+			The reconceived theory is formulated in various specially developed mathematical formalisms. In one of them, a mathematical function, the wave function, provides information about the probability amplitude of position, momentum, and other physical properties of a particle.
+
+			Important applications of quantum mechanical theory include superconducting magnets, light-emitting diodes and the laser, the transistor and semiconductors such as the microprocessor, medical and research imaging such as magnetic resonance imaging and electron microscopy, and explanations for many biological and physical phenomena.
+		</desicription>	
+
+		<d1 title="Quantum cognition" url="https://en.wikipedia.org/wiki/Quantum_cognition">
+			Quantum cognition is an emerging field which applies the mathematical formalism of quantum theory to model cognitive phenomena such as information processing by the human brain, decision making, human memory, concepts and conceptual reasoning, human judgment, and perception.[1][2] [3][4] The field clearly distinguishes itself from the quantum mind as it is not reliant on the hypothesis that there is something micro-physical quantum mechanical about the brain. Quantum cognition is based on the quantum-like paradigm[5][6] or generalized quantum paradigm [7] or quantum structure paradigm [8] that information processing by complex systems such as the brain, taking into account contextual dependence of information and probabilistic reasoning, can be mathematically described in the framework of quantum information and quantum probability theory.
+
+			Quantum cognition uses the mathematical formalism of quantum theory to inspire and formalize models of cognition that aim to be an advance over models based on traditional classical probability theory. The field focuses on modeling phenomena in cognitive science that have resisted traditional techniques or where traditional models seem to have reached a barrier (e.g., human memory [9] ), and modeling preferences in decision theory that seem paradoxical from a traditional rational point of view (e.g., preference reversals [10]). Since the use of a quantum-theoretic framework is for modeling purposes, the identification of quantum structures in cognitive phenomena does not presuppose the existence of microscopic quantum processes in the human brain.
+		</d1>
+		<d2 title="Quantum entanglement" url="https://en.wikipedia.org/wiki/Quantum_entanglement">
+			Quantum entanglement is a physical phenomenon that occurs when pairs or groups of particles are generated or interact in ways such that the quantum state of each particle cannot be described independently—instead, a quantum state may be given for the system as a whole.
+
+			Measurements of physical properties such as position, momentum, spin, polarization, etc. performed on entangled particles are found to be appropriately correlated. For example, if a pair of particles is generated in such a way that their total spin is known to be zero, and one particle is found to have clockwise spin on a certain axis, then the spin of the other particle, measured on the same axis, will be found to be counterclockwise; because of the nature of quantum measurement. However, this behavior gives rise to paradoxical effects: any measurement of a property of a particle can be seen as acting on that particle (e.g. by collapsing a number of superposed states); and in the case of entangled particles, such action must be on the entangled system as a whole. It thus appears that one particle of an entangled pair "knows" what measurement has been performed on the other, and with what outcome, even though there is no known means for such information to be communicated between the particles, which at the time of measurement may be separated by arbitrarily large distances.
+		</d2>
+</record>
+<record>
+		<id>16</id>
+		<query>computer</query>
+		<desicription>
+			A computer is a general-purpose electronic device that can be programmed to carry out a set of arithmetic or logical operations automatically. Since a sequence of operations can be readily changed, the computer can solve more than one kind of problem.
+		</desicription>
+		<d1 title="Boolean algebra" url="https://en.wikipedia.org/wiki/Boolean_algebra">
+			In mathematics and mathematical logic, Boolean algebra is the branch of algebra in which the values of the variables are the truth values true and false, usually denoted 1 and 0 respectively. Instead of elementary algebra where the values of the variables are numbers, and the main operations are addition and multiplication, the main operations of Boolean algebra are the conjunction and, denoted ∧, the disjunction or, denoted ∨, and the negation not, denoted ¬. It is thus a formalism for describing logical relations in the same way that ordinary algebra describes numeric relations.
+
+			Boolean algebra was introduced by George Boole in his first book The Mathematical Analysis of Logic (1847), and set forth more fully in his An Investigation of the Laws of Thought (1854).[1] According to Huntington, the term "Boolean algebra" was first suggested by Sheffer in 1913.[2]
+
+			Boolean algebra has been fundamental in the development of digital electronics, and is provided for in all modern programming languages. It is also used in set theory and statistics.
+		</d1>
+		<d2 title="Turing machine" url="https://en.wikipedia.org/wiki/Turing_machine">
+			A Turing machine is an abstract machine[1] that manipulates symbols on a strip of tape according to a table of rules; to be more exact, it is a mathematical model that defines such a device.[2] Despite the model's simplicity, given any computer algorithm, a Turing machine can be constructed that is capable of simulating that algorithm's logic.[3]
+
+			The machine operates on an infinite[4] memory tape divided into cells.[5] The machine positions its head over a cell and "reads" (scans[6]) the symbol there. Then per the symbol and its present place in a finite table[7] of user-specified instructions the machine (i) writes a symbol (e.g. a digit or a letter from a finite alphabet) in the cell (some models allowing symbol erasure[8] and/or no writing), then (ii) either moves the tape one cell left or right (some models allow no motion, some models move the head),[9] then (iii) (as determined by the observed symbol and the machine's place in the table) either proceeds to a subsequent instruction or halts[10] the computation.
+
+			The Turing machine was invented in 1936 by Alan Turing,[11][12] who called it an a-machine (automatic machine).[13] With this model Turing was able to answer two questions in the negative: (1) Does a machine exist that can determine whether any arbitrary machine on its tape is "circular" (e.g. freezes, or fails to continue its computational task); similarly, (2) does a machine exist that can determine whether any arbitrary machine on its tape ever prints a given symbol.[14] Thus by providing a mathematical description of a very simple device capable of arbitrary computations, he was able to prove properties of computation in general - and in particular, the uncomputability of the Hilbert Entscheidungsproblem ("decision problem"). (from the Ancient Greek: λογική, logike)[1] is the branch of philosophy concerned with the use and study of valid reasoning.[2][3] The study of logic also features prominently in mathematics and computer science.
+			<!--
+			Logic was studied in several ancient civilizations, including Greece, India,[4] and China.[5] In the West, logic was established as a formal discipline by Aristotle, who gave it a fundamental place in philosophy. The study of logic was part of the classical trivium, which also included grammar and rhetoric. Logic was further extended by Al-Farabi who categorized it into two separate groups (idea and proof). Later, Avicenna revived the study of logic and developed relationship between temporalis and the implication. In the East, logic was developed by Hindus, Buddhists and Jains.
+
+			Logic is often divided into three parts: inductive reasoning, abductive reasoning, and deductive reasoning.
+		-->
+		</d2>
+</record>
+
+<record>
+		<id>17</id>
+		<query>Religion</query>
+		<desicription url="https://en.wikipedia.org/wiki/Religion">
+			Religion is a cultural system of behaviors and practices, world views, ethics, and social organisation that relate humanity to an order of existence. 84% of the world's population is affiliated with one of the five largest religions, namely Christianity, Islam, Hinduism, Buddhism or folk religion.[1]
+
+			The study of religion encompasses a wide variety of academic disciplines, including comparative religion and social scientific studies. Theories of religion offer explanations for the origins and workings of religion.
+
+			With the onset of the modernisation of and the scientific revolution in the western world, some aspects of religion have cumulatively been criticized. Though non-religion has been rising in the west, they are still a minority in the region and globally many who are not affiliated with a religion still have various religious beliefs.[2] Related aspects are health, morality and violence.
+		
+		</desicription>
+		
+		<d1 title="Politics" url="https://en.wikipedia.org/wiki/Politics">
+			Politics (from Greek: πολιτικός politikos, definition "of, for, or relating to citizens") is the practice and theory of influencing other people. Politics involves the making of a common decision for a group of people, that is, a uniform decision applying in the same way to all members of the group. It also involves the use of power by one person to affect the behavior of another person. More narrowly, it refers to achieving and exercising positions of governance — organized control over a human community, particularly a state. Furthermore, politics is the study or practice of the distribution of power and resources within a given community (a usually hierarchically organized population) as well as the interrelationship(s) between communities.
+
+			A variety of methods are employed in politics, which include promoting or forcing one's own political views among people, negotiation with other political subjects, making laws, and exercising force, including warfare against adversaries. Politics is exercised on a wide range of social levels, from clans and tribes of traditional societies, through modern local governments, companies and institutions up to sovereign states, to the international level.
+
+			It is very often said that politics is about power.[1] A political system is a framework which defines acceptable political methods within a given society. History of political thought can be traced back to early antiquity, with seminal works such as Plato's Republic, Aristotle's Politics and the works of Confucius.
+			<!--
+			Formal Politics refers to the operation of a constitutional system of government and publicly defined institutions and procedures.[1] Political parties, public policy or discussions about war and foreign affairs would fall under the category of Formal Politics.[1] Many people view formal politics as something outside of themselves, but that can still affect their daily lives.[1]
+
+			Informal Politics is understood as forming alliances, exercising power and protecting and advancing particular ideas or goals. Generally, this includes anything affecting one's daily life, such as the way an office or household is managed, or how one person or group exercises influence over another.[1] Informal Politics is typically understood as everyday politics, hence the idea that "politics is everywhere"
+		-->
+		</d1>
+		<d2 title="Culture" url="https://en.wikipedia.org/wiki/Culture">
+			Culture (/ˈkʌltʃər/) is, in the words of E.B. Tylor, "that complex whole which includes knowledge, belief, art, morals, law, custom and any other capabilities and habits acquired by man as a member of society."[1]
+
+			Cambridge English Dictionary states that culture is, "the way of life, especially the general customs and beliefs, of a particular group of people at a particular time."[2] Terror Management Theory posits that culture is a series of activities and worldviews that provide humans with the illusion of being individuals of value in a world meaning—raising themselves above the merely physical aspects of existence, in order to deny the animal insignificance and death that Homo Sapiens became aware of when they acquired a larger brain.[3]
+
+			As a defining aspect of what it means to be human, culture is a central concept in anthropology, encompassing the range of phenomena that are transmitted through social learning in human societies. The word is used in a general sense as the evolved ability to categorize and represent experiences with symbols and to act imaginatively and creatively. This ability arose with the evolution of behavioral modernity in humans around 50,000 years ago.[citation needed] This capacity is often thought to be unique to humans, although some other species have demonstrated similar, though much less complex abilities for social learning. It is also used to denote the complex networks of practices and accumulated knowledge and ideas that is transmitted through social interaction and exist in specific human groups, or cultures, using the plural form. Some aspects of human behavior, such as language, social practices such as kinship, gender and marriage, expressive forms such as art, music, dance, ritual, religion, and technologies such as cooking, shelter, clothing are said to be cultural universals, found in all human societies. 
+			<!--The concept material culture covers the physical expressions of culture, such as technology, architecture and art, whereas the immaterial aspects of culture such as principles of social organization (including, practices of political organization and social institutions), mythology, philosophy, literature (both written and oral), and science make up the intangible cultural heritage of a society
+		-->
+		</d2>
+</record>
+<record>
+	<id>18</id>
+		<query>China</query>
+		<desicription>
+			China, officially the People's Republic of China (PRC), is a sovereign state in East Asia. It is the world's most populous country, with a population of over 1.35 billion. The PRC is a single-party state governed by the Communist Party, with its seat of government in the capital city of Beijing.[15] It exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai and Chongqing), and two mostly self-governing special administrative regions (Hong Kong and Macau); while claiming sovereignty over Taiwan.
+
+			Covering approximately 9.6 million square kilometers, China is the world's second-largest country by land area,[16] and either the third or fourth-largest by total area, depending on the method of measurement.[i] China's landscape is vast and diverse, ranging from forest steppes and the Gobi and Taklamakan deserts in the arid north to subtropical forests in the wetter south. The Himalaya, Karakoram, Pamir and Tian Shan mountain ranges separate China from South and Central Asia. The Yangtze and Yellow Rivers, the third- and sixth-longest in the world, run from the Tibetan Plateau to the densely populated eastern seaboard. China's coastline along the Pacific Ocean is 14,500 kilometres (9,000 mi) long, and is bounded by the Bohai, Yellow, East and South China Seas.
+		
+		</desicription>
+		
+		<d1 title="the Giant panda" url="https://en.wikipedia.org/wiki/Giant_panda">
+			The giant panda (Ailuropoda melanoleuca, lit. "black and white cat-foot"; simplified Chinese: 大熊猫; traditional Chinese: 大熊貓; pinyin: dà xióng māo, lit. "big bear cat"),[2] also known as panda bear or simply panda, is a bear[3] native to south central China.[1] It is easily recognized by the large, distinctive black patches around its eyes, over the ears, and across its round body. The name "giant panda" is sometimes used to distinguish it from the unrelated red panda. Though it belongs to the order Carnivora, the giant panda's diet is over 99% bamboo.[4] Giant pandas in the wild will occasionally eat other grasses, wild tubers, or even meat in the form of birds, rodents or carrion. In captivity, they may receive honey, eggs, fish, yams, shrub leaves, oranges, or bananas along with specially prepared food.[5][6]
+
+			The giant panda lives in a few mountain ranges in central China, mainly in Sichuan province, but also in neighbouring provinces, namely Shaanxi and Gansu.[7] As a result of farming, deforestation, and other development, the giant panda has been driven out of the lowland areas where it once lived.
+
+			The giant panda is a conservation reliant endangered species.[8] A 2007 report shows 239 pandas living in captivity inside China and another 27 outside the country.[9] As of December 2014, 49 giant pandas live in captivity outside China, living in 18 zoos in 13 different countries.[10] Wild population estimates vary; one estimate shows that there are about 1,590 individuals living in the wild,[9] while a 2006 study via DNA analysis estimated that this figure could be as high as 2,000 to 3,000.[11] 
+			<!--Some reports also show that the number of giant pandas in the wild is on the rise.[12] In March 2015, Mongabay stated the wild giant panda population increased by 268, or 16.8%, totaling to 1,864 individuals.[13] However, the IUCN does not believe there is enough certainty yet to reclassify the species from endangered to vulnerable
+		-->
+		</d1>
+		<d2 title="the Yangtze River" url="https://en.wikipedia.org/wiki/Yangtze">
+			The Yangtze River (English pronunciation: /ˈjæŋtsi/ or /ˈjɑːŋtsi/) (Chinese: 长江, Cháng Jiāng), known in China as the Chang Jiang or the Yangzi, is the longest river in Asia and the third-longest in the world. It flows for 6,300 kilometers (3,915 mi) from the glaciers on the Qinghai-Tibet Plateau in Qinghai eastward across southwest, central and eastern China before emptying into the East China Sea at Shanghai. The river is the longest in the world to flow entirely within one country. It drains one-fifth of the land area of the People's Republic of China (PRC) and its river basin is home to one-third of the country's population.[6] The Yangtze is also one of the biggest rivers by discharge volume in the world.
+
+			The Yangtze River plays a large role in the history, culture and economy of China. The prosperous Yangtze River Delta generates as much as 20% of the PRC's GDP. The Yangtze River flows through a wide array of ecosystems and is itself habitat to several endemic and endangered species including the Chinese alligator, the finless porpoise, the Chinese paddlefish, the (possibly extinct) Yangtze River dolphin or baiji, and the Yangtze sturgeon. For thousands of years, the river has been used for water, irrigation, sanitation, transportation, industry, boundary-marking and war. The Three Gorges Dam on the Yangtze River is the largest hydro-electric power station in the world.[7][8]
+			<!--
+			In recent years, the river has suffered from industrial pollution, agricultural run-off, siltation, and loss of wetland and lakes, which exacerbates seasonal flooding. Some sections of the river are now protected as nature reserves. A stretch of the Yangtze flowing through deep gorges in western Yunnan is part of the Three Parallel Rivers of Yunnan Protected Areas, a UNESCO World Heritage Site. In mid-2014 the Chinese government announced it was building a multi-tier transport network, comprising railways, roads and airports, to create a new economic belt alongside the river
+		-->
+		</d2>
+</record>
+<record>
+		<id>19</id>
+		<query>Air pollution</query>
+		<desicription>
+			Air pollution is the introduction of particulates, biological molecules, or other harmful materials into Earth's atmosphere, causing diseases, death to humans, damage to other living organisms such as animals and food crops, or the natural or built environment. Air pollution may come from anthropogenic or natural sources.
+
+			The atmosphere is a complex natural gaseous system that is essential to support life on planet Earth. Stratospheric ozone depletion due to air pollution has been recognized as a threat to human health as well as to the Earth's ecosystems.[citation needed]
+
+			Indoor air pollution and urban air quality are listed as two of the world's worst toxic pollution problems in the 2008 Blacksmith Institute World's Worst Polluted Places report.[1] According to the 2014 WHO report, air pollution in 2012 caused the deaths of around 7 million people worldwide
+		
+		</desicription>
+		
+		<d1 title="Hag" url="https://en.wikipedia.org/wiki/Haze">
+			Haze is traditionally an atmospheric phenomenon where dust, smoke and other dry particles obscure the clarity of the sky. The World Meteorological Organization manual of codes includes a classification of horizontal obscuration into categories of fog, ice fog, steam fog, mist, haze, smoke, volcanic ash, dust, sand and snow.[1] Sources for haze particles include farming (ploughing in dry weather), traffic, industry, and wildfires.
+
+			Seen from afar (e.g. approaching airplane) and depending upon the direction of view with respect to the sun, haze may appear brownish or bluish, while mist tends to be bluish-grey. Whereas haze often is thought of as a phenomenon of dry air, mist formation is a phenomenon of humid air. However, haze particles may act as condensation nuclei for the subsequent formation of mist droplets; such forms of haze are known as "wet haze."
+
+			The term "haze", in meteorological literature, generally is used to denote visibility-reducing aerosols of the wet type. Such aerosols commonly arise from complex chemical reactions that occur as sulfur dioxide gases emitted during combustion are converted into small droplets of sulphuric acid. The reactions are enhanced in the presence of sunlight, high relative humidity, and stagnant air flow. A small component of wet haze aerosols appear to be derived from compounds released by trees, such as terpenes. For all these reasons, wet haze tends to be primarily a warm-season phenomenon. Large areas of haze covering many thousands of kilometers may be produced under favorable conditions each summer.
+		</d1>
+		<d2 title="Frogs" url="https://en.wikipedia.org/wiki/Frog">
+			Frogs are a diverse and largely carnivorous group of short-bodied, tailless amphibians composing the order Anura (Ancient Greek an-, without + oura, tail). The oldest fossil "proto-frog" appeared in the early Triassic of Madagascar, but molecular clock dating suggests their origins may extend further back to the Permian, 265 million years ago. Frogs are widely distributed, ranging from the tropics to subarctic regions, but the greatest concentration of species diversity is found in tropical rainforests. There are approximately 4,800 recorded species, accounting for over 85% of extant amphibian species. They are also one of the five most diverse vertebrate orders.
+
+			The body plan of an adult frog is generally characterized by a stout body, protruding eyes, cleft tongue, limbs folded underneath, and the absence of a tail in adults. Besides living in fresh water and on dry land, the adults of some species are adapted for living underground or in trees. The skin of the frog is glandular, with secretions ranging from distasteful to toxic. Warty species of frog tend to be called toads but the distinction between frogs and toads is based on informal naming conventions concentrating on the warts rather than taxonomy or evolutionary history; some toads are more closely related to frogs than to other toads. Frogs' skins vary in colour from well-camouflaged dappled brown, grey and green to vivid patterns of bright red or yellow and black to advertise toxicity and warn off predators.
+			<!--
+			Frogs typically lay their eggs in water. The eggs hatch into aquatic larvae called tadpoles that have tails and internal gills. They have highly specialized rasping mouth parts suitable for herbivorous, omnivorous or planktivorous diets. The life cycle is completed when they metamorphose into adults. A few species deposit eggs on land or bypass the tadpole stage. Adult frogs generally have a carnivorous diet consisting of small invertebrates, but omnivorous species exist and a few feed on fruit. Frogs are extremely efficient at converting what they eat into body mass.
+			 They are an important food source for predators and part of the food web dynamics of many of the world's ecosystems. The skin is semi-permeable, making them susceptible to dehydration, so they either live in moist places or have special adaptations to deal with dry habitats. Frogs produce a wide range of vocalizations, particularly in their breeding season, and exhibit many different kinds of complex behaviours to attract mates, to fend off predators and to generally survive.
+		-->
+		</d2>
+</record>
+<record>
+		<id>20</id>
+		<query>transgene</query>
+		<desicription url="https://en.wikipedia.org/wiki/Transgene">
+			A transgene is a gene or genetic material that has been transferred naturally, or by any of a number of genetic engineering techniques from one organism to another. The introduction of a transgene has the potential to change the phenotype of an organism.
+
+			In its most precise usage, the term transgene describes a segment of DNA containing a gene sequence that has been isolated from one organism and is introduced into a different organism. This non-native segment of DNA may either retain torganism's genetic code. In general, the DNA is incorporated into the organism's germ line. For example, in higher vertebrates this can be accomplished by injecting the foreign DNA into the nucleus of a fertilized ovum. This technique is routinely used to introduce human disease genes or other genes of interest into strains of laboratory mice to study the function or pathology involved with that particular gene.
+
+			The construction of he ability to produce RNA or protein in the transgenic organism or alter the normal function of the transgenic a transgene requires the assembly of a few main parts. The transgene must contain a promoter, which is a regulatory sequence that will determine where and when the transgene is active, an exon, a protein coding sequence (usually derived from the cDNA for the protein of interest), and a stop sequence. These are typically combined in a bacterial plasmid and the coding sequences are typically chosen from transgenes with previously known functions.[1]
+			<!--
+			Transgenic or genetically modified organisms, be they bacteria, viruses or fungi, serve all kinds of research purposes. Transgenic plants, insects, fish and mammals have been bred. Transgenic plants such as corn and soybean have replaced wild strains in agriculture in some countries (e.g. the United States). Transgene escape has been documented for GMO crops since 2001 with persistence and invasiveness. Transgenetic organisms pose ethical questions and cause biosafety problems.
+			-->
+			
+		</desicription>
+		
+		<d1 title="hybrid" url="https://en.wikipedia.org/wiki/Hybrid_(biology)">
+			In biology a hybrid, also known as cross breed, is the result of mixing, through sexual reproduction, two animals or plants of different breeds, varieties, species or genera.[1] Using genetic terminology, it may be defined as follows.[2]
+
+			Hybrid generally refers to any offspring resulting from the breeding of two genetically distinct individuals, which usually will result in a high degree of heterozygosity, though hybrid and heterozygous are not, strictly speaking, synonymous.
+			a genetic hybrid carries two different alleles of the same gene
+			a structural hybrid results from the fusion of gametes that have differing structure in at least one chromosome, as a result of structural abnormalities
+			a numerical hybrid results from the fusion of gametes having different haploid numbers of chromosomes
+			a permanent hybrid is a situation where only the heterozygous genotype occurs, because all homozygous combinations are lethal.
+			
+		</d1>
+		<d2 title="Garden roses" url="https://en.wikipedia.org/wiki/Garden_roses" >
+			Garden roses are predominantly hybrid roses that are grown as ornamental plants in private or public gardens. They are one of the most popular and widely cultivated groups of flowering plants, especially in temperate climates. Numerous cultivars have been produced, especially over the last two centuries, though roses have been known in the garden for millennia beforehand. While most garden roses are grown for their flowers, some are also valued for other reasons, such as having ornamental fruit, providing ground cover, or for hedging.
+
+			It is believed that roses were grown in all the early civilisations of temperate latitudes from at least 5000 years ago. They are known to have been grown in ancient Babylon.[1] Paintings of roses have been discovered in Egyptian pyramid tombs from the 14th century BC.[2] Records exist of them being grown in Chinese gardens and Greek gardens from at least 500 BC.[3][4]
+
+			Most of the plants grown in these early gardens are likely to have been species collected from the wild. However, there were large numbers of selected varieties being grown from early times; for instance numerous selections or cultivars of the China rose were in cultivation in China in the first millennium AD.[5]
+			<!--
+			The significant breeding of modern times started slowly in Europe, from about the 17th century. This was encouraged by the introduction of new species, and especially by the introduction of the China rose into Europe in the 19th century.[4] An enormous range of roses has been bred since then. A major contributor in the early 19th century was Empress Josephine of France who patronized the development of rose breeding at her gardens at Malmaison. As long ago as 1840 a collection numbering over one thousand different cultivars, varieties and species was possible when a rosarium was planted by Loddiges nursery for Abney Park Cemetery, an early Victorian garden cemetery and arboretum in England.
+		-->
+		</d2>
+</record>
+<!-- 
+<record>
+		<id></id>
+		<query></query>
+		<desicription>
+			
+		
+		</desicription>
+		
+		<d1 title="" url="">
+			
+		</d1>
+		<d2 title="" url="">
+			
+		</d2>
+</record>
+
+ -->
 
 	<!-- <record>
 		<id>5</id>
@@ -352,3 +631,14 @@
 		</d2>
 	</record> -->
 </set>
+
+
+<!--
+				On Monday, the Political Bureau of the Central Committee of the Communist Party of China held a meeting on next year's economic and urban work. The meeting stressed the need to give top priority to "agriculture, rural areas and farmers" and promote the official integration of migrant workers with the registered urban population.
+
+				Currently there are 750 million people living in urban areas, but 250 million of them are migrant workers who don't have registered permanent residence in the cities where they live and work. These people contribute a lot to the prosperity of urban areas, but don't have the same rights as registered urban residents and cannot enjoy basic public services such as education and healthcare.
+
+				The urban registration of migrant workers is key to accelerating the process of urbanization in the future. The 13th Five-Year Plan (2016-20) suggests taking more measures to promote the "urbanization of people" in the next stage, which should let new residents who have migrated from rural areas enjoy urban public services and really settle down in the cities.
+
+				Yet this will be a challenging task that should be supported by heavy financial support for public services, particularly in education and medical fields.
+			-->
