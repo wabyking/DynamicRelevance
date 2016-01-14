@@ -57,7 +57,7 @@
 		</d2>
 </record>
 
-<record_tmp>
+<record>
 		<id>2</id>
 		<query>Isaac Newton</query>
 		<desicription url="https://en.wikipedia.org/wiki/Isaac_Newton" >
@@ -84,9 +84,9 @@
 
 			Kepler lived in an era when there was no clear distinction between astronomy and astrology, but there was a strong division between astronomy (a branch of mathematics within the liberal arts) and physics (a branch of natural philosophy). Kepler also incorporated religious arguments and reasoning into his work, motivated by the religious conviction and belief that God had created the world according to an intelligible plan that is accessible through the natural light of reason.[1] Kepler described his new astronomy as "celestial physics",[2] as "an excursion into Aristotle's Metaphysics",[3] and as "a supplement to Aristotle's On the Heavens",[4] transforming the ancient tradition of physical cosmology by treating astronomy as part of a universal mathematical physics
 		</d2>
-</record_tmp>
+</record>
 
-<record_tmp>
+<record>
 		<id>3</id>
 		<query>Harry Potter and the Philosopher's Stone</query>
 		<desicription url="https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone">
@@ -116,7 +116,7 @@
 
 			The film was released in the UK and US on 16 November 2001. It received positive critical reception, made more than $970 million at the worldwide box office, and was nominated for many awards, including the Academy Awards for Best Original Score, Best Art Direction and Best Costume Design. As of December 2015, it is the 26th-highest-grossing film of all time and the second-highest-grossing film in the series behind the final film, Harry Potter and the Deathly Hallows 
 		</d2>
-</record_tmp>
+</record>
 
 	
 
@@ -126,10 +126,10 @@
 		<desicription>
 			Albert Einstein (/ˈaɪnstaɪn/;[3] German: [ˈalbɐrt ˈaɪnʃtaɪn] ( listen); 14 March 1879 – 18 April 1955) was a German-born theoretical physicist. He developed the general theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics).[2][4]:274 Einstein's work is also known for its influence on the philosophy of science.[5][6] Einstein is best known in popular culture for his mass–energy equivalence formula E = mc2 (which has been dubbed "the world's most famous equation").[7] He received the 1921 Nobel Prize in Physics for his "services to theoretical physics", in particular his discovery of the law of the photoelectric effect, a pivotal step in the evolution of quantum theory.[8]
 		</desicription>
-		<d1 title="Isaac Newton"  url="https://en.wikipedia.org/wiki/Isaac_Newton">
-			Sir Isaac Newton PRS (/ˈnjuːtən/;[9] 25 December 1642 – 20 March 1726/7[1]) was an English physicist and mathematician (described in his own day as a "natural philosopher") who is widely recognised as one of the most influential scientists of all time and as a key figure in the scientific revolution. His book Philosophiæ Naturalis Principia Mathematica ("Mathematical Principles of Natural Philosophy"), first published in 1687, laid the foundations for classical mechanics. Newton made seminal contributions to optics, and he shares credit with Gottfried Leibniz for the development of calculus.
-
-			Newton's Principia formulated the laws of motion and universal gravitation, which dominated scientists' view of the physical universe for the next three centuries. By deriving Kepler's laws of planetary motion from his mathematical description of gravity, and then using the same principles to account for the trajectories of comets, the tides, the precession of the equinoxes, and other phenomena, Newton removed the last doubts about the validity of the heliocentric model of the Solar System. This work also demonstrated that the motion of objects on Earth and of celestial bodies could be described by the same principles. His prediction that Earth should be shaped as an oblate spheroid was later vindicated by the measurements of Maupertuis, La Condamine, and others, which helped convince most Continental European scientists of the superiority of Newtonian mechanics over the earlier system of Descartes.
+		<d1 title="Albert Einstein and the Theory of Relativity"  url="http://csep10.phys.utk.edu/astr161/lect/history/einstein.html">
+			Newton's theory of gravitation was soon accepted without question, and it remained unquestioned until the beginning of this century. Then Albert Einstein shook the foundations of physics with the introduction of his Special Theory of Relativity in 1905, and his General Theory of Relativity in 1915 (Here is an example of a thought experiment in special relativity). The first showed that Newton's Three Laws of Motion were only approximately correct, breaking down when velocities approached that of light. The second showed that Newton's Law of Gravitation was also only approximately correct, breaking down in the presence of very strong gravitational fields.
+			Newton vs. Einstein: Albert's Turn to Kick ButtWe shall consider Relativity in more detail later. Here, we only summarize the differences between Newton's theory of gravitation and the theory of gravitation implied by the General Theory of Relativity. They make essentially identical predictions as long as the strength of the gravitational field is weak, which is our usual experience. However, there are three crucial predictions where the two theories diverge, and thus can be tested with careful experiments.
+			The orientation of Mercury's orbit is found to precess in space over time, as indicated in the adjacent figure (the magnitude of the effect is greatly exaggerated in this figure). This is commonly called the "precession of the perihelion", because it causes the position of the perihelion to move. Only part of this can be accounted for by perturbations in Newton's theory. There is an extra 43 seconds of arc per century in this precession that is predicted by the Theory of General Relativity and observed to occur (a second of arc is 1/3600 of an angular degree). This effect is extremely small, but the measurements are very precise and can detect such small effects very well.
 			<!--
 			Einstein's theory predicts that the direction of light propagation should be changed in a gravitational field, contrary to the Newtonian predictions. Precise observations indicate that Einstein is right, both about the effect and its magnitude. A striking consequence is gravitational lensing.
 			
@@ -148,7 +148,7 @@
 		</d2>
 	</record>
 
-	<record_tmp>
+	<record>
 			<id>5</id>
 			<query>Internet public welfare</query>
 			<desicription url="http://www.chinadaily.com.cn/opinion/2015-12/21/content_22758288.htm">
@@ -184,26 +184,27 @@
 
 				Although currently China has the largest Internet population globally, it is still a latecomer in cyberspace. Thus there is much space and potential for China to develop its Internet industry and improve management of its cyber realm. The Chinese government and IT companies will make great efforts to fight against online rumors, pornography, gambling, and other cyber crimes to protect citizens' rights and interests.
 			</d2>
-	</record_tmp>
+	</record>
 
 	<record>
 			<id>6</id>
-			<query>the Spring Festival</query>
-			<desicription url="https://en.wikipedia.org/wiki/Chinese_New_Year">
-				The Spring Festival is an important Asian festival celebrated at the turn of the lunisolar Chinese calendar. It is also known as the Lunar New Year, the literal translation of the modern Chinese name. Celebrations traditionally run from the eve to the Lantern Festival on the 15th day of the first calendar month. The first day of the New Year falls on some day between 21 January and 20 February.				 
-				The Spring Festival is centuries old and gains significance because of several myths and traditions. Traditionally, the festival was a time to honour deities as well as ancestors.[2] Chinese New Year is celebrated in countries and territories with significant Chinese populations, including Mainland China, Hong Kong,[3] Macau, Taiwan, Singapore,[4] Thailand, Cambodia, Indonesia, Malaysia, Mauritius,[5] and the Philippines.[6][7] Chinese New Year is considered a major holiday for the Chinese and has had influence on the lunar new year celebrations of its geographic neighbours.
-				Within China, regional customs and traditions concerning the celebration of the Chinese New Year vary widely. Often, the evening preceding Chinese New Year's Day is an occasion for Chinese families to gather for the annual reunion dinner. It is also traditional for every family to thoroughly cleanse the house, in order to sweep away any ill-fortune and to make way for good incoming luck. Windows and doors will be decorated with red color paper-cuts and couplets with popular themes of "good fortune" or "happiness", "wealth", and "longevity". Other activities include lighting firecrackers and giving money in red paper envelopes.
+			<query>Urbanization</query>
+			<desicription url="http://www.chinadaily.com.cn/opinion/2015-12/16/content_22723019.htm">
+				Urbanization is a population shift from rural to urban areas, "the gradual increase in the proportion of people living in urban areas", and the ways in which each society adapts to the change.[1] It is predominantly the process by which towns and cities are formed and become larger as more people begin living and working in central areas.[2] The United Nations projected that half of the world's population would live in urban areas at the end of 2008.[3] It is predicted that by 2050 about 64% of the developing world and 86% of the developed world will be urbanized.[4] That is equivalent to approximately 3 billion urbanites by 2050, much of which will occur in Africa and Asia.[5] Notably, the United Nations has also recently projected that nearly all global population growth from 2015 to 2030 will be absorbed by cities, about 1.1 billion new urbanites over the next 15 years
 							
 			</desicription>
 			
-			<d1 title="Jiaozi" url="https://en.wikipedia.org/wiki/Jiaozi">
-				Jiaozi are a kind of Chinese dumpling, commonly eaten across Eastern, Central, Southern and Western Asia. Though considered part of Chinese cuisine, jiaozi are often eaten in many other Asian countries.
-				Jiaozi typically consist of a ground meat and/or vegetable filling wrapped into a thinly rolled piece of dough, which is then sealed by pressing the edges together or by crimping. Jiaozi should not be confused with wonton, jiaozi have a thicker skin and a relatively flatter, more oblate, double-saucer like shape (similar in shape to ravioli), and are usually eaten with a soy-vinegar dipping sauce (and/or hot chili sauce); while wontons have thinner skin and are usually served in broth. The dough for the jiaozi and wonton wrappers also consist of different ingredients.
-				Chinese dumplings (jiaozi) may be divided into various types depending on how they are cooked:
-				Boiled dumplings (Chinese: 水饺; pinyin: shuǐjiǎo; literally: "water dumpling")
-				Steamed dumplings (Chinese: 蒸饺; pinyin: zhēngjiǎo; literally: "steam dumpling")
-				Pan fried dumplings (Chinese: 锅贴; pinyin: guōtiē; literally: "pan stick", also referred to as Chinese: 煎餃; pinyin: jiānjiǎo; literally: "dry-fried dumplings").
-				Common dumpling meat fillings include pork, mutton, beef, chicken, fish, and shrimp, which are usually mixed with chopped vegetables. Popular vegetable fillings include napa cabbage, scallion (spring onions), leek, celery and garlic chives.				
+			<d1 title="Participatory poverty-reduction" url="http://www.chinadaily.com.cn/opinion/2015-12/10/content_22677975.htm">
+				The 2014 auditing report of southwest China's Guizhou province shows that 796 million yuan ($123 million) of its poverty reduction fund was left unused for over half a year, and 192 million yuan was left unused for longer than two years.
+
+				In a recent conference on poverty reduction work, the central leadership called for the hundreds of billions of yuan spent annually on reducing poverty to be used more efficiently; so it is used where needed.
+
+				It has been proposed that allowing poverty-stricken families to have a bigger say in how the money intended to benefit them is used. Currently it is bureaucrats at various levels that decide the distribution of funds, such as which program it is used for, while the voices of those needing help are ignored.
+
+				Since 2006, some Chinese institutions have been working with the World Bank in adopting the community-dominated development approach to poverty reduction in some regions. Residents hold meetings to decide on the merits of programs, whether the benefits are worth the cost, and whether to accept them. As a result, the cost of many programs is only one-third of those run by governments without people's participation, which saves a lot of money to better help the poor.
+
+				Also, by allowing poor residents a bigger say in how poverty reduction funds are used will bring their distribution and management out from behind closed doors, which will help prevent their misappropriation and embezzlement.
+				
 			</d1>
 			<d2 title="Grabbing train tickets for the Spring Festival rush" url="http://www.chinadaily.com.cn/opinion/2015-12/09/content_22667330.htm">
 				As the annual Spring Festival approaches, people who work far away from home are turning their thoughts to going back for the weeklong holiday. It is estimated that people will make 2 billion or more trips during the Spring Festival period, of which, it is predicted, 320 million will be made by train.
@@ -256,22 +257,16 @@
 			</d2>
 	</record>
 
-<record_tmp>
+<record>
 		<id>8</id>
 		<query>NoSQL Database</query>
 		<desicription>
 			A NoSQL (originally referring to "non SQL" or "non relational" ) database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. Such databases have existed since the late 1960s, but did not obtain the "NoSQL" moniker until a surge of popularity in the early twenty-first century, triggered by the needs of Web 2.0 companies such as Facebook, Google and Amazon.com.
 			Motivations for this approach include: simplicity of design, simpler "horizontal" scaling to clusters of machines, which is a problem for relational databases,[2] and finer control over availability. The data structures used by NoSQL databases (e.g. key-value, wide column, graph, or document) differ slightly from those used by default in relational databases, making some operations faster in NoSQL and others faster in relational databases. The particular suitability of a given NoSQL database depends on the problem it must solve. Sometimes the data structures used by NoSQL databases are also viewed as "more flexible" than relational database tables.
 		</desicription>
-		<d1    title="Types and examples of NoSQL databases" url="https://en.wikipedia.org/wiki/NoSQL">
-			There have been various approaches to classify NoSQL databases, each with different categories and subcategories, some of which overlap. A basic classification based on data model, with examples:
-			Column: Accumulo, Cassandra, Druid, HBase, Vertica
-			Document: Apache CouchDB, Clusterpoint, Couchbase, DocumentDB, HyperDex, Lotus Notes, MarkLogic, MongoDB, OrientDB, Qizx, RethinkDB
-			Key-value: Aerospike, CouchDB, Dynamo, FairCom c-treeACE, FoundationDB, HyperDex, MemcacheDB, MUMPS, Oracle NoSQL Database, OrientDB, Redis, Riak
-			Graph: Allegro, InfiniteGraph, MarkLogic, Neo4J, OrientDB, Virtuoso, Stardog
-			Multi-model: Alchemy Database, ArangoDB, CortexDB, FoundationDB, MarkLogic, OrientDB
-			Motivations for this approach include: simplicity of design, simpler "horizontal" scaling to clusters of machines (which is a problem for relational databases),[2] and finer control over availability. The data structures used by NoSQL databases (e.g. key-value, wide column, graph, or document) are specified from those used by default in relational databases, making some operations faster in NoSQL. The particular suitability of a given NoSQL database depends on the problem it must solve. Sometimes the data structures used by NoSQL databases are also viewed as "more flexible" than relational database tables.[6]
-			NoSQL databases are increasingly used in big data and real-time web applications.[7] NoSQL systems are also sometimes called "Not only SQL" to emphasize that they may support SQL-like query languages.[8][9]
+		<d1    title="Database and DBMS" url="https://en.wikipedia.org/wiki/Database">
+			A database is an organized collection of data.[1] It is the collection of schemas, tables, queries, reports, views and other objects. The data is typically organized to model aspects of reality in a way that supports processes requiring information, such as modelling the availability of rooms in hotels in a way that supports finding a hotel with vacancies.
+			A database management system (DBMS) is a computer software application that interacts with the user, other applications, and the database itself to capture and analyze data. A general-purpose DBMS is designed to allow the definition, creation, querying, update, and administration of databases. Well-known DBMSs include MySQL, PostgreSQL, Microsoft SQL Server, Oracle, Sybase and IBM DB2. A database is not generally portable across different DBMSs, but different DBMS can interoperate by using standards such as SQL and ODBC or JDBC to allow a single application to work with more than one DBMS. Database management systems are often classified according to the database model that they support; the most popular database systems since the 1980s have all supported the relational model as represented by the SQL language.[disputed – discuss] Sometimes a DBMS is loosely referred to as a 'database'.
 
 		</d1>
 		<d2  title="Mongodb" url="https://en.wikipedia.org/wiki/MongoDB">
@@ -279,7 +274,7 @@
 			First developed by the software company MongoDB Inc. in October 2007 as a component of a planned platform as a service product, the company shifted to an open source development model in 2009, with MongoDB offering commercial support and other services.[2] Since then, MongoDB has been adopted as backend software by a number of major websites and services, including Craigslist, eBay, and Foursquare among others. As of July 2015, MongoDB is the fourth most popular type of database management system, and the most popular for document stores.
 			
 		</d2>
-</record_tmp>
+</record>
 
 <record>
 		<id>9</id>
@@ -318,14 +313,14 @@
 			In 2004, Obama received national attention during his campaign to represent Illinois in the United States Senate with his victory in the March Democratic Party primary, his keynote address at the Democratic National Convention in July, and his election to the Senate in November. He began his presidential campaign in 2007 and, after a close primary campaign against Hillary Rodham Clinton in 2008, he won sufficient delegates in the Democratic Party primaries to receive the presidential nomination. He then defeated Republican nominee John McCain in the general election, and was inaugurated as president on January 20, 2009. Nine months after his inauguration, Obama was named the 2009 Nobel Peace Prize laureate.
 			
 		</d1>
-		<d2 title="Obama's wife" url="https://en.wikipedia.org/wiki/Michelle_Obama">
-			Michelle LaVaughn Robinson Obama (born January 17, 1964) is an American lawyer and writer. She is married to the 44th and current President of the United States, Barack Obama, and is the first African-American First Lady of the United States. Raised on the South Side of Chicago, she is a graduate of Princeton University and Harvard Law School, and spent the early part of her legal career working at the law firm Sidley Austin, where she met Barack. Subsequently, she worked as part of the staff of Chicago mayor Richard M. Daley, and for the University of Chicago Medical Center.
-			Throughout 2007 and 2008, Obama helped campaign for her husband's presidential bid. She delivered a keynote address at the 2008 Democratic National Convention and spoke at the 2012 Democratic National Convention. She and her husband have two daughters together. She has become a fashion icon and role model for women, and an advocate for poverty awareness, nutrition, physical activity, and healthy eating.
+		<d2 title="The separation of powers" url="https://en.wikipedia.org/wiki/Separation_of_powers">
+			The separation of powers, often imprecisely used interchangeably with the trias politica principle,[1] is a model for the governance of a state (or who controls the state). The model was first developed in Congress. Under this model, the state is divided into branches, each with separate and independent powers and areas of responsibility so that the powers of one branch are not in conflict with the powers associated with the other branches. The typical division of branches is into a legislature, an executive, and a judiciary. It can be contrasted with the fusion of powers in a parliamentary system where the executive and legislature (and sometimes parts of the judiciary) are unified.
+			To prevent one branch from becoming supreme, protect the "opulent minority" from the majority, and to induce the branches to cooperate, government systems that employ a separation of powers need a way to balance each of the branches. Typically this was accomplished through a system of "checks and balances", the origin of which, like separation of powers itself, is specifically credited to Montesquieu. Checks and balances allow for a system-based regulation that allows one branch to limit another, such as the power of the United States Congress to alter the composition and jurisdiction of the federal courts. Both bipartite and tripartite governmental systems apply the principles of the separation of powers to allow for the branches represented by the separate powers to hold each other reciprocally responsible to the assertion of powers as apportioned by law. The following example of the separation of powers and their mutual checks and balances for the experience of the United States Constitution is presented as illustrative of the general principles applied in similar forms of government as well.
 		</d2>
 </record>
 
 
-<record_tmp>
+<record>
 		<id>11</id>
 		<query>Turing Award</query>
 		<desicription>
@@ -345,10 +340,10 @@
 			After the war, he worked at the National Physical Laboratory, where he designed the ACE, among the first designs for a stored-program computer. In 1948 Turing joined Max Newman's Computing Laboratory at the University of Manchester, where he helped develop the Manchester computers[7] and became interested in mathematical biology. He wrote a paper on the chemical basis of morphogenesis, and predicted oscillating chemical reactions such as the Belousov–Zhabotinsky reaction, first observed in the 1960s.
 
 		</d2>
-</record_tmp>
+</record>
 
 
-<record_tmp>
+<record>
 		<id>12</id>
 		<query>deep learning</query>
 		<desicription>
@@ -366,7 +361,7 @@
 			In machine learning, a convolutional neural network (CNN, or ConvNet) is a type of feed-forward artificial neural network where the individual neurons are tiled in such a way that they respond to overlapping regions in the visual field.[1] Convolutional networks were inspired by biological processes[2] and are variations of multilayer perceptrons designed to use minimal amounts of preprocessing.[3] They have wide applications in image and video recognition.
 			When used for image recognition, convolutional neural networks (CNNs) consist of multiple layers of small neuron collections which look at small portions of the input image, called receptive fields. The results of these collections are then tiled so that they overlap to obtain a better representation of the original image; this is repeated for every such layer. Because of this, they are able to tolerate translation of the input image.[4] Convolutional networks may include local or global pooling layers, which combine the outputs of neuron clusters.[5][6] They also consist of various combinations of convolutional layers and fully connected layers, with pointwise nonlinearity applied at the end of or after each layer.[7] It is inspired by biological processes. To avoid the situation that there exist billions of parameters if all layers are fully connected, the idea of using a convolution operation on small regions has been introduced. One major advantage of convolutional networks is the use of shared weight in convolutional layers, which means that the same filter (weights bank) is used for each pixel in the layer; this both reduces required memory size and improves performance.[3]
 		</d2>
-</record_tmp>
+</record>
 
 
 
@@ -398,29 +393,36 @@
 			Some philosophers, notably of the Platonic school, contend that all nouns (including abstract nouns) refer to existent entities. Other philosophers contend that nouns do not always name entities, but that some provide a kind of shorthand for reference to a collection of either objects or events. In this latter view, mind, instead of referring to an entity, refers to a collection of mental events experienced by a person; society refers to a collection of persons with some shared characteristics, and geometry refers to a collection of a specific kind of intellectual activity.[1] Between these poles of realism and nominalism, stand a variety of other positions; but any ontology must give an account of which words refer to entities, which do not, why, and what categories result.
 		</d2>
 </record>
-<record_tmp>
+<record>
 		<id>14</id>
-		<query>Facebook</query>
-		<desicription url="https://en.wikipedia.org/wiki/Facebook">
-			Facebook is an online social networking service headquartered in Menlo Park, California. Its website was launched on February 4, 2004, by Mark Zuckerberg with his Harvard College roommates and fellow students Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes.[8][9][10] The founders had initially limited the website's membership to Harvard students, but later expanded it to colleges in the Boston area, the Ivy League, and Stanford University. It gradually added support for students at various other universities and later to high-school students. Since 2006, anyone who is at least 13 years old was allowed to become a registered user of the website, though the age requirement may be higher depending on applicable local laws.[11] Its name comes from the face book directories often given to American university students.
+		<query>twitter</query>
+		<desicription>
+			Twitter (/ˈtwɪtər/) is an online social networking service that enables users to send and read short 140-character messages called "tweets".
+
+			Registered users can read and post tweets, but those who are unregistered can only read them. Users access Twitter through the website interface SMS or mobile device app.[10] Twitter Inc. is based in San Francisco and has more than 25 offices around the world.
 		</desicription>
 
-		<d1 title="Social media" url="https://en.wikipedia.org/wiki/Social_media">
-			Social media are computer-mediated tools that allow people to create, share, or exchange information, career interests,[1] ideas, and pictures/videos in virtual communities and networks. Social media is defined as "a group of Internet-based applications that build on the ideological and technological foundations of Web 2.0, and that allow the creation and exchange of user-generated content."[2] Furthermore, social media depend on mobile and web-based technologies to create highly interactive platforms through which individuals and communities share, co-create, discuss, and modify user-generated content. They introduce substantial and pervasive changes to communication between businesses, organizations, communities, and individuals.[3] These changes are the focus of the emerging field of technoself studies. Social media differ from traditional or industrial media in many ways, including quality,[4] reach, frequency, usability, immediacy, and permanence. Social media operate in a dialogic transmission system (many sources to many receivers).[5] This is in contrast to traditional media that operates under a monologic transmission model (one source to many receivers).
+		<d1 title="Netflix" url="https://en.wikipedia.org/wiki/Netflix">
+			Netflix Inc. is an American multinational provider of on-demand Internet streaming media available to viewers in all of North and South America, Australia, New Zealand, Japan, and parts of Europe,[5] and of flat rate DVD-by-mail in the United States, where mailed DVDs and Blu-ray are sent via Permit Reply Mail. The company was established in 1997 and is headquartered in Los Gatos, California. It started its subscription-based service in 1999. By 2009, Netflix was offering a collection of 100,000 titles on DVD and had surpassed 10 million subscribers.[6]
 
-			"Social media has been broadly defined to refer to 'the many relatively inexpensive and widely accessible electronic tools that enable anyone to publish and access information, collaborate on a common effort, or build relationships.'"
+			On February 25, 2007, Netflix delivered its billionth DVD.[7] In April 2011, Netflix had over 23 million subscribers in the United States and over 26 million worldwide.[8] By 2011, the total digital revenue for Netflix reached at least $1.5 billion.[9] On October 23, 2012, however, Netflix reported an 88% decline in third-quarter profits.[10] In January 2013, Netflix reported that it had added two million U.S. customers during the fourth quarter of 2012 with a total of 27.1 million U.S. streaming customers, and 29.4 million total streaming customers. In addition, revenue was up 8% to $945 million for the same period.[11]
+
+			As of mid-March 2013, Netflix had 33 million subscribers.[12] That number increased to 36.3 million subscribers (29.2 million in the U.S.) in April 2013.[13] As of September 2013, for that year's third quarter report, Netflix reported its total of global streaming subscribers at 40.4 million (31.2 million in the U.S.).[14] By the fourth quarter of 2013, Netflix reported 33.1 million U.S. subscribers.[15] By September 2014, Netflix had subscribers in over 40 countries, with intentions of expanding their services in unreached countries.[16] As of October 2015, Netflix reported 69.17 million subscribers worldwide, including more than 43 million in the U.S.[17]
 		</d1>
-		<d2 title="Twitter" url="https://en.wikipedia.org/wiki/Twitter">
-			Twitter (/ˈtwɪtər/) is an online social networking service that enables users to send and read short 140-character messages called "tweets".
-			Registered users can read and post tweets, but those who are unregistered can only read them. Users access Twitter through the website interface, SMS or mobile device app.[10] Twitter Inc. is based in San Francisco and has more than 25 offices around the world.[11]
-			Twitter was created in March 2006 by Jack Dorsey, Evan Williams, Biz Stone, and Noah Glass and launched in July 2006. The service rapidly gained worldwide popularity, with more than 100 million users posting 340 million tweets a day in 2012.[12] The service also handled 1.6 billion search queries per day.[13][14][15] In 2013, Twitter was one of the ten most-visited websites and has been described as "the SMS of the Internet".[16][17] As of May 2015, Twitter has more than 500 million users, out of which more than 302 million are active
+		<d2 title="Google+" url="https://en.wikipedia.org/wiki/Google%2B">
+			Google+ (pronounced and sometimes written as Google Plus) is an interest-based social network that is owned and operated by Google Inc.
+
+			The service, Google's fourth foray into social networking, experienced strong growth in its initial years, although usage statistics have varied, depending on how the service is defined. Three Google executives have overseen the product, which has undergone substantial changes leading to a redesign in November 2015.
+			Assessments of Google+ growth have varied widely because Google first defined the service as a social network,[4] then later as "a social layer across all of Google's services", allowing them to share a user's identity and interests.[6] According to Ars Technica, Google+ signups were "often just an incidental byproduct of signing up for other Google services."[7][8][9] Consequently, the reported number of active users on Google+ grew significantly, but the average time those users spent on the site was a small fraction of that on comparable social media services.
+
+			In 2011 Google+ reached 10 million users just two weeks after the launch.[10] In a month, it reached 25 million.[11] In October 2011, the service reached 40 million users, according to Larry Page.[12] Based on ComScore, the biggest market was the United States followed by India.[13] By the end of the year Google+ had 90 million users.[14] In October 2013, approximately 540 million monthly active users made use of the social layer by interacting with Google+'s enhanced properties, like Gmail, +1 button, and YouTube comments.[15] Some 300 million monthly active users participated in the social network by interacting with the Google+ social networking stream.[16][17][18]
 			<!--
 			But user engagement on Google+ was low compared with its competitors. ComScore estimated that users averaged just 3.3 minutes on the site in January 2012, versus 7.5 hours for Facebook.[19][20] In March 2013, average time spent on the site remained low: roughly 7 minutes, according to Nielsen, not including traffic via apps.[21] In February 2014, The New York Times likened Google+ to a ghost town, citing Google stats of 540 million "monthly active users", but noting that almost half don't visit the site. The company replied that the significance of Google+ was less as a Facebook competitor than as a means of gathering and connecting user information from Google's various services
 			-->
 		</d2>
-</record_tmp>
+</record>
 
-<record_tmp>
+<record>
 		<id>15</id>
 		<query>Quantum mechanics</query>
 		<desicription  url="https://en.wikipedia.org/wiki/Quantum_mechanics">
@@ -443,7 +445,7 @@
 
 			Measurements of physical properties such as position, momentum, spin, polarization, etc. performed on entangled particles are found to be appropriately correlated. For example, if a pair of particles is generated in such a way that their total spin is known to be zero, and one particle is found to have clockwise spin on a certain axis, then the spin of the other particle, measured on the same axis, will be found to be counterclockwise; because of the nature of quantum measurement. However, this behavior gives rise to paradoxical effects: any measurement of a property of a particle can be seen as acting on that particle (e.g. by collapsing a number of superposed states); and in the case of entangled particles, such action must be on the entangled system as a whole. It thus appears that one particle of an entangled pair "knows" what measurement has been performed on the other, and with what outcome, even though there is no known means for such information to be communicated between the particles, which at the time of measurement may be separated by arbitrarily large distances.
 		</d2>
-</record_tmp>
+</record>
 <record>
 		<id>16</id>
 		<query>computer</query>
@@ -506,27 +508,31 @@
 		</d2>
 </record>
 <record>
-		<id>18</id>
-		<query>Kung Fu Panda</query>
+	<id>18</id>
+		<query>China</query>
+		<desicription>
+			China, officially the People's Republic of China (PRC), is a sovereign state in East Asia. It is the world's most populous country, with a population of over 1.35 billion. The PRC is a single-party state governed by the Communist Party, with its seat of government in the capital city of Beijing.[15] It exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai and Chongqing), and two mostly self-governing special administrative regions (Hong Kong and Macau); while claiming sovereignty over Taiwan.
+
+			Covering approximately 9.6 million square kilometers, China is the world's second-largest country by land area,[16] and either the third or fourth-largest by total area, depending on the method of measurement.[i] China's landscape is vast and diverse, ranging from forest steppes and the Gobi and Taklamakan deserts in the arid north to subtropical forests in the wetter south. The Himalaya, Karakoram, Pamir and Tian Shan mountain ranges separate China from South and Central Asia. The Yangtze and Yellow Rivers, the third- and sixth-longest in the world, run from the Tibetan Plateau to the densely populated eastern seaboard. China's coastline along the Pacific Ocean is 14,500 kilometres (9,000 mi) long, and is bounded by the Bohai, Yellow, East and South China Seas.
 		
-		<desicription url="https://en.wikipedia.org/wiki/Giant_panda">
-			Kung Fu Panda is a 2008 American computer-animated action comedy martial arts film produced by DreamWorks Animation and distributed by Paramount Pictures.1 It was directed by John Stevenson and Mark Osborne and produced by Melissa Cobb, and stars the voices of Jack Black, Dustin Hoffman, Angelina Jolie, Ian McShane, Seth Rogen, Lucy Liu, David Cross, Randall Duk Kim, James Hong, Dan Fogler Michael Clarke Duncan, and Jackie Chan. Set in a version of ancient China populated by anthropomorphic talking animals, the plot revolves around a bumbling panda named Po who aspires to be a kung fu master. When an evil kung fu warrior is foretold to escape from prison, Po is unwittingly named the chosen one destined to bring peace to the land, much to the chagrin of the resident kung fu warriors.[1]
-			The idea for the film was conceived by Michael Lachance, a DreamWorks Animation executive. The film was originally intended to be a parody, but director Stevenson decided instead to shoot an action comedy wuxia film that incorporates the hero's journey narrative archetype for the lead character. The computer animation in the film was more complex than anything DreamWorks had done before. As with most DreamWorks animated films, Hans Zimmer (collaborating with John Powell this time) scored Kung Fu Panda. He visited China to absorb the culture and get to know the China National Symphony Orchestra as part of his preparation. A sequel, Kung Fu Panda 2, was released on May 26, 2011, along with a television series, Kung Fu Panda: Legends of Awesomeness later that same year as a part of a franchise. The third installment called Kung Fu Panda 3 will debut in January 2016.
 		</desicription>
 		
 		<d1 title="the Giant panda" url="https://en.wikipedia.org/wiki/Giant_panda">
 			The giant panda (Ailuropoda melanoleuca, lit. "black and white cat-foot"; simplified Chinese: 大熊猫; traditional Chinese: 大熊貓; pinyin: dà xióng māo, lit. "big bear cat"),[2] also known as panda bear or simply panda, is a bear[3] native to south central China.[1] It is easily recognized by the large, distinctive black patches around its eyes, over the ears, and across its round body. The name "giant panda" is sometimes used to distinguish it from the unrelated red panda. Though it belongs to the order Carnivora, the giant panda's diet is over 99% bamboo.[4] Giant pandas in the wild will occasionally eat other grasses, wild tubers, or even meat in the form of birds, rodents or carrion. In captivity, they may receive honey, eggs, fish, yams, shrub leaves, oranges, or bananas along with specially prepared food.[5][6]
+
 			The giant panda lives in a few mountain ranges in central China, mainly in Sichuan province, but also in neighbouring provinces, namely Shaanxi and Gansu.[7] As a result of farming, deforestation, and other development, the giant panda has been driven out of the lowland areas where it once lived.
+
 			The giant panda is a conservation reliant endangered species.[8] A 2007 report shows 239 pandas living in captivity inside China and another 27 outside the country.[9] As of December 2014, 49 giant pandas live in captivity outside China, living in 18 zoos in 13 different countries.[10] Wild population estimates vary; one estimate shows that there are about 1,590 individuals living in the wild,[9] while a 2006 study via DNA analysis estimated that this figure could be as high as 2,000 to 3,000.[11] 
-		
 			<!--Some reports also show that the number of giant pandas in the wild is on the rise.[12] In March 2015, Mongabay stated the wild giant panda population increased by 268, or 16.8%, totaling to 1,864 individuals.[13] However, the IUCN does not believe there is enough certainty yet to reclassify the species from endangered to vulnerable
 		-->
 		</d1>
-		<d2 title="Chinese martial arts" url="https://en.wikipedia.org/wiki/Chinese_martial_arts">
-			Chinese martial arts, which are called kung fu or gung fu (/ˈkʊŋ ˈfuː/) (Chinese: 功夫; pinyin: gong fu) and wushu (武术), are a number of fighting styles that have developed over the centuries in China. These fighting styles are often classified according to common traits, identified as "families" (家; jiā), "sects" (派; pài) or "schools" (門; mén) of martial arts. Examples of such traits include physical exercises involving animal mimicry, or training methods inspired by Chinese philosophies, religions and legends. Styles that focus on qi manipulation are called internal (内家拳; nèijiāquán), while others that concentrate on improving muscle and cardiovascular fitness are called "external" (外家拳; wàijiāquán). Geographical association, as in northern (北拳; běiquán) and "southern" (南拳; nánquán), is another popular classification method.
-			Kung fu and wushu are loanwords from Chinese that, in English, are used to refer to Chinese martial arts. However, the Chinese terms kung fu and wushu (About this sound listen (Mandarin) (help·info); Cantonese: móuh-seuht) have distinct meanings.[1] The Chinese equivalent of the term "Chinese martial arts" would be Zhongguo wushu (Chinese: 中國武術; pinyin: zhōngguó wǔshù) (Mandarin).
-			In Chinese, the term kung fu (功夫) refers to any skill that is acquired through learning or practice. It is a compound word composed of the words 功 (gōng) meaning "work", "achievement", or "merit", and 夫 (fū) which is a particle or nominal suffix with diverse meanings.
-			Wǔshù literally means "martial art". It is formed from the two words 武術: 武 (wǔ), meaning "martial" or "military" and 術 (shù), which translates into "discipline", "skill" or "method". The term wushu has also become the name for the modern sport of wushu, an exhibition and full-contact sport of bare-handed and weapons forms (Chinese: 套路), adapted and judged to a set of aesthetic criteria for points developed since 1949 in the People's Republic of China.[2][3]
+		<d2 title="the Yangtze River" url="https://en.wikipedia.org/wiki/Yangtze">
+			The Yangtze River (English pronunciation: /ˈjæŋtsi/ or /ˈjɑːŋtsi/) (Chinese: 长江, Cháng Jiāng), known in China as the Chang Jiang or the Yangzi, is the longest river in Asia and the third-longest in the world. It flows for 6,300 kilometers (3,915 mi) from the glaciers on the Qinghai-Tibet Plateau in Qinghai eastward across southwest, central and eastern China before emptying into the East China Sea at Shanghai. The river is the longest in the world to flow entirely within one country. It drains one-fifth of the land area of the People's Republic of China (PRC) and its river basin is home to one-third of the country's population.[6] The Yangtze is also one of the biggest rivers by discharge volume in the world.
+
+			The Yangtze River plays a large role in the history, culture and economy of China. The prosperous Yangtze River Delta generates as much as 20% of the PRC's GDP. The Yangtze River flows through a wide array of ecosystems and is itself habitat to several endemic and endangered species including the Chinese alligator, the finless porpoise, the Chinese paddlefish, the (possibly extinct) Yangtze River dolphin or baiji, and the Yangtze sturgeon. For thousands of years, the river has been used for water, irrigation, sanitation, transportation, industry, boundary-marking and war. The Three Gorges Dam on the Yangtze River is the largest hydro-electric power station in the world.[7][8]
+			<!--
+			In recent years, the river has suffered from industrial pollution, agricultural run-off, siltation, and loss of wetland and lakes, which exacerbates seasonal flooding. Some sections of the river are now protected as nature reserves. A stretch of the Yangtze flowing through deep gorges in western Yunnan is part of the Three Parallel Rivers of Yunnan Protected Areas, a UNESCO World Heritage Site. In mid-2014 the Chinese government announced it was building a multi-tier transport network, comprising railways, roads and airports, to create a new economic belt alongside the river
+		-->
 		</d2>
 </record>
 <record>
@@ -538,7 +544,6 @@
 			The atmosphere is a complex natural gaseous system that is essential to support life on planet Earth. Stratospheric ozone depletion due to air pollution has been recognized as a threat to human health as well as to the Earth's ecosystems.[citation needed]
 
 			Indoor air pollution and urban air quality are listed as two of the world's worst toxic pollution problems in the 2008 Blacksmith Institute World's Worst Polluted Places report.[1] According to the 2014 WHO report, air pollution in 2012 caused the deaths of around 7 million people worldwide
-
 		
 		</desicription>
 		
@@ -549,14 +554,10 @@
 
 			The term "haze", in meteorological literature, generally is used to denote visibility-reducing aerosols of the wet type. Such aerosols commonly arise from complex chemical reactions that occur as sulfur dioxide gases emitted during combustion are converted into small droplets of sulphuric acid. The reactions are enhanced in the presence of sunlight, high relative humidity, and stagnant air flow. A small component of wet haze aerosols appear to be derived from compounds released by trees, such as terpenes. For all these reasons, wet haze tends to be primarily a warm-season phenomenon. Large areas of haze covering many thousands of kilometers may be produced under favorable conditions each summer.
 		</d1>
-		<d2 title="Spiritual therapy for smog" url="http://www.chinadaily.com.cn/opinion/2014-02/28/content_17311608.htm">
-			Smog with high concentration of PM2.5 (particulate matter with a diameter of 2.5 micrometer or less and extremely harmful to humans) used to affect only a few Chinese cities until recently. But during the past weeks, hundreds of large and medium-sized cities have been covered by thick layers of smog. Such is the fear the smog has created that protective facial masks have run out of stock in many stores.
+		<d2 title="Frogs" url="https://en.wikipedia.org/wiki/Frog">
+			Frogs are a diverse and largely carnivorous group of short-bodied, tailless amphibians composing the order Anura (Ancient Greek an-, without + oura, tail). The oldest fossil "proto-frog" appeared in the early Triassic of Madagascar, but molecular clock dating suggests their origins may extend further back to the Permian, 265 million years ago. Frogs are widely distributed, ranging from the tropics to subarctic regions, but the greatest concentration of species diversity is found in tropical rainforests. There are approximately 4,800 recorded species, accounting for over 85% of extant amphibian species. They are also one of the five most diverse vertebrate orders.
 
-			The smog has become a main point of public discussions. But still people cannot accept the suggestion of Yu Dan, a cultural celebrity and professor, to spiritually guard against the smog. In her micro blog, Yu says that to fight the smog, we should "switch on the air purifier, try not to go outside nor inhale the polluted air ... (and if) these efforts fail, we can rely on our minds to safeguard the heart from being polluted by the smog".
-
-			People worried about the physical and psychological harms the smog may cause are likely to seek proper medical help. But people who believe in Yu's idea of spiritual protection against the smog could be fooled into ignoring the hazards of severe air pollution. To begin with, it is not possible for salaried people to stay at home and not all of them can buy an air purifier, for it costs a decent amount of money.
-
-			The public seems to have sensed the tone of old-school political ethics in Yu's comment, which tells people neither to complain nor to worry about an event or development, and instead to savor life's happiness despite the harmfull effects of the smog.
+			The body plan of an adult frog is generally characterized by a stout body, protruding eyes, cleft tongue, limbs folded underneath, and the absence of a tail in adults. Besides living in fresh water and on dry land, the adults of some species are adapted for living underground or in trees. The skin of the frog is glandular, with secretions ranging from distasteful to toxic. Warty species of frog tend to be called toads but the distinction between frogs and toads is based on informal naming conventions concentrating on the warts rather than taxonomy or evolutionary history; some toads are more closely related to frogs than to other toads. Frogs' skins vary in colour from well-camouflaged dappled brown, grey and green to vivid patterns of bright red or yellow and black to advertise toxicity and warn off predators.
 			<!--
 			Frogs typically lay their eggs in water. The eggs hatch into aquatic larvae called tadpoles that have tails and internal gills. They have highly specialized rasping mouth parts suitable for herbivorous, omnivorous or planktivorous diets. The life cycle is completed when they metamorphose into adults. A few species deposit eggs on land or bypass the tadpole stage. Adult frogs generally have a carnivorous diet consisting of small invertebrates, but omnivorous species exist and a few feed on fruit. Frogs are extremely efficient at converting what they eat into body mass.
 			 They are an important food source for predators and part of the food web dynamics of many of the world's ecosystems. The skin is semi-permeable, making them susceptible to dehydration, so they either live in moist places or have special adaptations to deal with dry habitats. Frogs produce a wide range of vocalizations, particularly in their breeding season, and exhibit many different kinds of complex behaviours to attract mates, to fend off predators and to generally survive.
@@ -618,72 +619,6 @@
 
  -->
 
-<record>
-		<id>20</id>
-		<query>Chinese literature</query>
-		<desicription>
-			Chinese literature extends thousands of years, from the earliest recorded dynastic court archives to the mature vernacular fiction novels that arose during the Ming Dynasty to entertain the masses of literate Chinese. The introduction of widespread woodblock printing during the Tang Dynasty (618–907) and the invention of movable type printing by Bi Sheng (990–1051) during the Song Dynasty (960–1279) rapidly spread written knowledge throughout China. In more modern times, the author Lu Xun (1881–1936) is considered the founder of baihua literature in China.		
-		</desicription>
-		
-		<d1 title="Classical prose" url="https://en.wikipedia.org/wiki/Chinese_literature">
-			Early Chinese prose was deeply influenced by the great philosophical writings of the Hundred Schools of Thought (770-221 BC). The works of Mo Zi (墨子), Mencius(孟子) and Zhuang Zi (庄子) contain well-reasoned, carefully developed discourses that reveal much stronger organization and style than their predecessors. Mo Zi's polemic prose was built on solid and effective methodological reasoning. Mencius contributed elegant diction and, like Zhuang Zi, relied on comparisons, anecdotes, and allegories. By the 3rd century BC, these writers had developed a simple, concise and economical prose style that served as a model of literary form for over 2,000 years. They were written in Classical Chinese, the language spoken during the Spring and Autumn Period.
-			Wen Chang, a Chinese deity of literature.During the Tang period, the ornate, artificial style of prose developed in previous periods was replaced by a simple, direct, and forceful prose based on examples from the Hundred Schools (see above) and from the Han period, the period in which the great historical works of Sima Tan and Sima Qian were published. This neoclassical style dominated prose writing for the next 800 years. It was exemplified in the work of Han Yu 韓愈 (768–824), a master essayist and strong advocate of a return to Confucian orthodoxy; Han Yu was later listed as one of the "Eight Great Prose Masters of the Tang and Song."The Song Dynasty saw the rise in popularity of "travel record literature" (youji wenxue). Travel literature combined both diary andnarrative prose formats, it was practiced by such seasoned travelers as Fan Chengda (1126–1193) and Xu Xiake (1587–1641) and can be seen in the example of Su Shi's Record of Stone Bell Mountain.After the 14th century, vernacular fiction became popular, at least outside of court circles. Vernacular fiction covered a broader range of subject matter and was longer and more loosely structured than literary fiction. One of the masterpieces of Chinese vernacular fiction is the 18th-century domestic novel Dream of the Red Chamber (红楼梦).
-		</d1>
-		<d2 title="Chinese cuisine" url="https://en.wikipedia.org/wiki/Chinese_cuisine">
-			Chinese cuisine includes styles originating from the diverse regions of China, as well as from Chinese people in other parts of the world including most Asia nations. The history of Chinese cuisine in China stretches back for thousands of years and has changed from period to period and in each region according to climate, imperial fashions, and local preferences. Over time, techniques and ingredients from the cuisines of other cultures were integrated into the cuisine of the Chinese people due both to imperial expansion and from the trade with nearby regions in pre-modern times, and from Europe and the New World in the modern period. In addition, dairy is rarely—if ever—used in any recipes in the style.
-			According to food critic Bonny Wolf, Chinese cuisine is one of the "Three Grand Cuisines" in the world, together with the French and Turkish cuisines.[1]
-			The "Eight Culinary Cuisines" of China[2] are Anhui, Cantonese, Fujian, Hunan, Jiangsu, Shandong, Szechuan, and Zhejiang cuisines.[3]
-			Prominent styles of Chinese cuisine outside China include Singaporean, Malaysian, Indonesian, Indian and American, but there is Chinese cuisine wherever Chinese people are found.[4] The staple foods of Chinese cooking include rice, noodles, vegetables, and sauces and seasonings.
-		</d2>
-</record>
-
-
-<record>
-		<id>21</id>
-		<query>Mo Yan</query>
-		<desicription url="https://en.wikipedia.org/wiki/Mo_Yan">
-			Guan Moye (simplified Chinese: 管谟业; traditional Chinese: 管謨業; pinyin: Guǎn Móyè; born 17 February 1955), better known by the pen name Mo Yan (/moʊ jɛn/, Chinese: 莫言; pinyin: Mò Yán), is a Chinese novelist and short story writer. Donald Morrison of U.S. news magazine TIME referred to him as "one of the most famous, oft-banned and widely pirated of all Chinese writers",[1] and Jim Leach called him the Chinese answer to Franz Kafka or Joseph Heller.[2]
-			He is best known to Western readers for his 1987 novel Red Sorghum Clan, of which the Red Sorghum and Sorghum Wine volumes were later adapted for the film Red Sorghum. In 2012, Mo was awarded the Nobel Prize in Literature for his work as a writer "who with hallucinatory realism merges folk tales, history and the contemporary"			
-		</desicription>
-		
-		<d1 title="Nobel Prize" url="https://en.wikipedia.org/wiki/Nobel_Prize">
-			Alfred Nobel (About this sound listen (help·info)) was born on 21 October 1833 in Stockholm, Sweden, into a family of engineers.[6] He was a chemist, engineer, and inventor. In 1894, Nobel purchased the Bofors iron and steel mill, which he made into a major armaments manufacturer. Nobel also invented ballistite. This invention was a precursor to many smokeless military explosives, especially the British smokeless powder cordite. As a consequence of his patent claims, Nobel was eventually involved in a patent infringement lawsuit over cordite. Nobel amassed a fortune during his lifetime, with most of his wealth from his 355 inventions, of which dynamite is the most famous.[7]
-
-			In 1888, Nobel was astonished to read his own obituary, titled The merchant of death is dead, in a French newspaper. As it was Alfred's brother Ludvig who had died, the obituary was eight years premature. The article disconcerted Nobel and made him apprehensive about how he would be remembered. This inspired him to change his will.[8] On 10 December 1896, Alfred Nobel died in his villa in San Remo, Italy, from a cerebral haemorrhage. He was 63 years old.[9]
-
-			Nobel wrote several wills during his lifetime. He composed the last over a year before he died, signing it at the Swedish–Norwegian Club in Paris on 27 November 1895.[10][11] To widespread astonishment, Nobel's last will specified that his fortune be used to create a series of prizes for those who confer the "greatest benefit on mankind" in physics, chemistry, physiology or medicine, literature, and peace.[12] Nobel bequeathed 94% of his total assets, 31 million SEK (c. US$186 million, €150 million in 2008), to establish the five Nobel Prizes.[13][14] Because of scepticism surrounding the will, it was not until 26 April 1897 that it was approved by the Storting in Norway.[15] The executors of Nobel's will, Ragnar Sohlman and Rudolf Lilljequist, formed the Nobel Foundation to take care of Nobel's fortune and organise the award of prizes
-		</d1>
-		<d2 title="Red Sorghum (novel)" url="https://en.wikipedia.org/wiki/Red_Sorghum_(novel)">
-			Red Sorghum: A Novel of China or Red Sorghum Clan (simplified Chinese: 红高粱家族; traditional Chinese: 紅高粱家族; pinyin: Hóng Gāoliáng Jiāzú; literally: "red sorghum family") is a Chinese language novel by Mo Yan. Published in 1986, it was Mo's first novel and remains one of his best-known works.[1][2][3]
-
-			The novel consists of the volumes "Red Sorghum", "Sorghum Wine", "Dog Ways", "Sorghum Funeral", and "Strange Death", which were first serialized in various magazines in 1986. "Dog Ways" was published in the April 1986 issue of Shiyue ("October" magazine); "Sorghum Wine" in the July 1986 issue of PLA Arts, "Sorghum Funeral" in the August 1986 issue of Beijing Wenxue and "Strange Death" in the November-December issue of Kunlun magazine.[4] It was the magazine serializations before the publication of the full novel in 1987 which were seen by director Zhang Yimou, who immediately proposed to Mo Yan to make the novel into a film.[5] The next year the novel was published, and almost simultaneously the 1987 Chinese-language film Red Sorghum won the Golden Bear at the Berlin Film Festival. It was initially given an ad hoc English title "The Red Sorghum Clan" in some sources (Wang 1996)[6] but was translated from the Chinese by Howard Goldblatt in 1993 with the subtitle "Red Sorghum - A Novel of China".
-
-			Red Sorghum's plot revolves around three generations of the Shandong family between 1923 and 1976. The narrator tells the story of his family's struggles, first as distillery owners making sorghum wine and then as resistance fighters during the Second Sino-Japanese War. The novel also details civil disputes between warring Chinese groups, including rival gangs and political powers. The book also refers to the Cultural Revolution and the 1972 resumption of diplomatic relations between China and Japan.
-		</d2>
-</record>
-<record_tmp>
-		<id>22</id>
-		<query>Beijing</query>
-		<desicription url="https://en.wikipedia.org/wiki/Beijing">
-			Beijing is the capital of the People's Republic of China and one of the most populous cities in the world.
-
-			Its total population in 2013 was 21,150,000.[8] The city proper is the 10th most populous in the world. The metropolis, located in northern China, is governed as a direct-controlled municipality under the national government with 16 urban, suburban, and rural districts.[9] Beijing Municipality is surrounded by Hebei Province with the exception of neighboring Tianjin Municipality to the southeast; together the three divisions form the Jingjinji metropolitan region and the national capital region of China.[10]
-
-			Beijing is the second largest Chinese city by urban population after Shanghai and is the nation's political, cultural and educational center.[11] It is home to the headquarters of most of China's largest state-owned companies, and is a major hub for the national highway, expressway, railway, and high-speed rail networks. The Beijing Capital International Airport is the second busiest in the world by passenger traffic
-		
-		</desicription>
-		
-		<d1 title="China" url="https://en.wikipedia.org/wiki/China">
-			China, officially the People's Republic of China (PRC), is a sovereign state in East Asia. It is the world's most populous country, with a population of over 1.35 billion. The PRC is a one-party state governed by the Communist Party, with its seat of government in the capital city of Beijing.[15] It exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai and Chongqing), and two mostly self-governing special administrative regions (Hong Kong and Macau); while claiming sovereignty over Taiwan.
-
-			Covering approximately 9.6 million square kilometers, China is the world's second-largest country by land area,[16] and either the third or fourth-largest by total area, depending on the method of measurement.[i] China's landscape is vast and diverse, ranging from forest steppes and the Gobi and Taklamakan deserts in the arid north to subtropical forests in the wetter south. The Himalaya, Karakoram, Pamir and Tian Shan mountain ranges separate China from South and Central Asia. The Yangtze and Yellow Rivers, the third- and sixth-longest in the world, run from the Tibetan Plateau to the densely populated eastern seaboard. China's coastline along the Pacific Ocean is 14,500 kilometres (9,000 mi) long, and is bounded by the Bohai, Yellow, East and South China Seas
-		</d1>
-		<d2 title="Tiananmen Square" url="https://en.wikipedia.org/wiki/Tiananmen_Square">
-			Tiananmen Square is a large city square in the centre of Beijing, China, named after the Tiananmen gate (Gate of Heavenly Peace) located to its North, separating it from the Forbidden City. The square contains the monuments to the heroes of the revolution, the great hall of people, the National Museum of China, and the Chairman Mao Zedong Memorial Hall (with Mao's embalmed body). Mao Zedong proclaimed the founding of the People's Republic in the square on Oct. 1, 1949, an anniversary still observed there. [1] Tiananmen Square is within the top five largest city squares in the world (440,500 m2 – 880×500 m or 109 acres – 960×550 yd). It has great cultural significance as it was the site of several important events in Chinese history.
-			Outside China, the square is best known in recent memory as the focal point of the Tiananmen Square protests of 1989, a pro-democracy movement which ended on 4 June 1989 with the declaration of martial law in Beijing by the government and the shooting of several hundred, or possibly thousands, of civilians by soldiers.
-			Used as a massive meeting place since its creation, its flatness is contrasted by the 38-meter (125 ft) high Monument to the People's Heroes, and the Mausoleum of Mao Zedong.[4] The square lies between two ancient, massive gates: the Tian'anmen to the north and the Zhengyangmen, better known as Qianmen to the south. Along the west side of the Square is the Great Hall of the People. Along the east side is the National Museum of China (dedicated to Chinese history predating 1919). Chang'an Avenue, which is used for parades, lies between the Tian'anmen and the Square. Trees line the east and west edges of the Square, but the square itself is open, with neither trees nor benches. The Square is lit with large lampposts which are fitted with video cameras. It is heavily monitored by uniformed and plain clothes policemen.
-		</d2>
-</record_tmp>
 	<!-- <record>
 		<id>5</id>
 		<query>query 5</query>
